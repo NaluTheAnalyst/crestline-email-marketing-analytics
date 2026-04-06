@@ -1,0 +1,21 @@
+campaign_id,campaign_name,campaign_type,send_date,subject_line,total_sent
+1,January New Year Sale,Promotional,2024-01-05,"New Year, New You — 30% Off Everything",590
+2,January Newsletter,Newsletter,2024-01-18,Style Trends to Watch in 2024,599
+3,Abandoned Cart Recovery - Jan,Abandoned Cart,2024-01-25,You left something behind...,692
+4,Welcome Series - Batch 1,Welcome Series,2024-02-01,Welcome to Crestline Co. — Here's 15% Off,652
+5,Valentine's Day Sale,Promotional,2024-02-07,Gifts They'll Actually Love ❤️,665
+6,February Newsletter,Newsletter,2024-02-20,Our Favourite Looks This February,669
+7,Abandoned Cart Recovery - Feb,Abandoned Cart,2024-02-22,Still thinking it over?,728
+8,March Spring Launch,Promotional,2024-03-01,Spring Has Arrived — Shop the New Collection,755
+9,March Newsletter,Newsletter,2024-03-15,Spring Styling Tips From Our Team,764
+10,Win-Back Campaign Q1,Win-Back,2024-03-20,We Miss You — Here's 20% Off to Come Back,831
+11,April Flash Sale,Promotional,2024-04-03,48 Hours Only — Up to 40% Off,726
+12,April Newsletter,Newsletter,2024-04-18,What's New at Crestline This April,847
+13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-24,Your cart is about to expire,959
+14,Welcome Series - Batch 2,Welcome Series,2024-05-01,Welcome! Your exclusive discount is inside,972
+15,May Bank Holiday Sale,Promotional,2024-05-04,Bank Holiday Weekend — Extra 25% Off,1014
+16,May Newsletter,Newsletter,2024-05-17,Summer Prep Starts Now,848
+17,June Summer Launch,Promotional,2024-06-01,Summer's Here — New Arrivals Just Landed,911
+18,Abandoned Cart Recovery - Jun,Abandoned Cart,2024-06-12,Don't miss out on your picks,999
+19,June Newsletter,Newsletter,2024-06-20,How to Style Our Summer Bestsellers,984
+20,Win-Back Campaign Q2,Win-Back,2024-06-25,It's been a while — a gift from us,1176

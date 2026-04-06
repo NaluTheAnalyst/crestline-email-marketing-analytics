@@ -1,0 +1,1501 @@
+subscriber_id,first_name,last_name,email,signup_date,signup_source,country,gender,age_group,status
+SUB0001,First1,Last1,user1@email.com,2024-01-23,Checkout,United States,Male,35-44,Active
+SUB0002,First2,Last2,user2@email.com,2023-11-06,Checkout,United Kingdom,Male,55+,Active
+SUB0003,First3,Last3,user3@email.com,2024-03-07,Social Media,United Kingdom,Female,45-54,Active
+SUB0004,First4,Last4,user4@email.com,2024-06-14,Checkout,United States,Female,18-24,Active
+SUB0005,First5,Last5,user5@email.com,2024-03-27,Website Popup,United States,Male,25-34,Active
+SUB0006,First6,Last6,user6@email.com,2023-07-04,Checkout,Australia,Male,25-34,Active
+SUB0007,First7,Last7,user7@email.com,2023-10-10,Blog,United States,Male,55+,Active
+SUB0008,First8,Last8,user8@email.com,2023-09-21,Checkout,Australia,Male,55+,Active
+SUB0009,First9,Last9,user9@email.com,2024-06-03,Website Popup,United States,Female,18-24,Active
+SUB0010,First10,Last10,user10@email.com,2024-02-03,Website Popup,United Kingdom,Female,25-34,Active
+SUB0011,First11,Last11,user11@email.com,2024-03-24,Referral,Australia,Male,25-34,Active
+SUB0012,First12,Last12,user12@email.com,2024-04-05,Social Media,United States,Female,55+,Active
+SUB0013,First13,Last13,user13@email.com,2023-09-06,Social Media,Canada,Male,35-44,Active
+SUB0014,First14,Last14,user14@email.com,2024-01-26,Website Popup,United States,Male,25-34,Active
+SUB0015,First15,Last15,user15@email.com,2023-10-15,Website Popup,United States,Male,45-54,Unsubscribed
+SUB0016,First16,Last16,user16@email.com,2023-08-30,Checkout,United Kingdom,Female,18-24,Unsubscribed
+SUB0017,First17,Last17,user17@email.com,2023-07-25,Checkout,United States,Female,25-34,Active
+SUB0018,First18,Last18,user18@email.com,2024-01-06,Website Popup,United States,Female,35-44,Active
+SUB0019,First19,Last19,user19@email.com,2024-01-21,Website Popup,Canada,Male,35-44,Active
+SUB0020,First20,Last20,user20@email.com,2023-12-07,Social Media,United States,Male,25-34,Active
+SUB0021,First21,Last21,user21@email.com,2024-02-10,Website Popup,United States,Female,18-24,Active
+SUB0022,First22,Last22,user22@email.com,2023-11-28,Referral,Canada,Male,55+,Unsubscribed
+SUB0023,First23,Last23,user23@email.com,2023-11-09,Website Popup,Australia,Male,25-34,Active
+SUB0024,First24,Last24,user24@email.com,2024-06-12,Referral,United Kingdom,Female,18-24,Active
+SUB0025,First25,Last25,user25@email.com,2023-12-20,Website Popup,United Kingdom,Female,55+,Unsubscribed
+SUB0026,First26,Last26,user26@email.com,2023-10-07,Social Media,Canada,Female,35-44,Unsubscribed
+SUB0027,First27,Last27,user27@email.com,2024-06-26,Referral,United States,Female,18-24,Active
+SUB0028,First28,Last28,user28@email.com,2024-03-13,Website Popup,United States,Male,25-34,Active
+SUB0029,First29,Last29,user29@email.com,2024-02-13,Website Popup,Canada,Female,25-34,Unsubscribed
+SUB0030,First30,Last30,user30@email.com,2024-03-28,Social Media,Canada,Female,25-34,Active
+SUB0031,First31,Last31,user31@email.com,2023-07-11,Social Media,United States,Male,55+,Bounced
+SUB0032,First32,Last32,user32@email.com,2024-01-30,Blog,United Kingdom,Female,18-24,Active
+SUB0033,First33,Last33,user33@email.com,2023-08-21,Social Media,United States,Male,25-34,Bounced
+SUB0034,First34,Last34,user34@email.com,2023-12-16,Website Popup,United States,Female,25-34,Active
+SUB0035,First35,Last35,user35@email.com,2023-09-30,Website Popup,United States,Female,18-24,Active
+SUB0036,First36,Last36,user36@email.com,2024-03-02,Checkout,Australia,Male,55+,Active
+SUB0037,First37,Last37,user37@email.com,2024-03-29,Checkout,United States,Female,35-44,Active
+SUB0038,First38,Last38,user38@email.com,2023-08-06,Social Media,United Kingdom,Female,35-44,Active
+SUB0039,First39,Last39,user39@email.com,2024-04-24,Website Popup,United States,Male,25-34,Active
+SUB0040,First40,Last40,user40@email.com,2023-07-25,Website Popup,Canada,Male,45-54,Active
+SUB0041,First41,Last41,user41@email.com,2023-07-30,Checkout,Canada,Male,25-34,Active
+SUB0042,First42,Last42,user42@email.com,2023-11-17,Checkout,United Kingdom,Male,35-44,Active
+SUB0043,First43,Last43,user43@email.com,2023-09-27,Social Media,Canada,Male,35-44,Active
+SUB0044,First44,Last44,user44@email.com,2023-08-28,Social Media,United States,Male,18-24,Active
+SUB0045,First45,Last45,user45@email.com,2024-03-19,Website Popup,Canada,Male,35-44,Active
+SUB0046,First46,Last46,user46@email.com,2024-05-08,Social Media,Canada,Female,18-24,Active
+SUB0047,First47,Last47,user47@email.com,2023-09-30,Website Popup,United Kingdom,Male,25-34,Active
+SUB0048,First48,Last48,user48@email.com,2024-06-14,Social Media,Australia,Female,35-44,Active
+SUB0049,First49,Last49,user49@email.com,2024-05-04,Website Popup,Canada,Male,35-44,Unsubscribed
+SUB0050,First50,Last50,user50@email.com,2024-01-08,Checkout,United Kingdom,Male,25-34,Active
+SUB0051,First51,Last51,user51@email.com,2023-09-20,Website Popup,United States,Female,25-34,Active
+SUB0052,First52,Last52,user52@email.com,2024-03-09,Website Popup,United States,Female,45-54,Active
+SUB0053,First53,Last53,user53@email.com,2024-06-04,Social Media,United States,Female,35-44,Active
+SUB0054,First54,Last54,user54@email.com,2024-04-06,Social Media,Canada,Female,35-44,Active
+SUB0055,First55,Last55,user55@email.com,2024-01-31,Referral,United States,Female,55+,Active
+SUB0056,First56,Last56,user56@email.com,2023-10-17,Website Popup,Canada,Male,25-34,Active
+SUB0057,First57,Last57,user57@email.com,2024-04-15,Social Media,United States,Male,35-44,Bounced
+SUB0058,First58,Last58,user58@email.com,2023-08-01,Website Popup,United Kingdom,Female,18-24,Bounced
+SUB0059,First59,Last59,user59@email.com,2024-05-25,Checkout,Australia,Female,18-24,Active
+SUB0060,First60,Last60,user60@email.com,2024-04-27,Checkout,United States,Male,25-34,Active
+SUB0061,First61,Last61,user61@email.com,2023-09-20,Checkout,United States,Male,25-34,Active
+SUB0062,First62,Last62,user62@email.com,2023-10-12,Website Popup,United States,Male,18-24,Unsubscribed
+SUB0063,First63,Last63,user63@email.com,2024-06-16,Social Media,United Kingdom,Male,25-34,Active
+SUB0064,First64,Last64,user64@email.com,2024-03-25,Social Media,United States,Male,25-34,Active
+SUB0065,First65,Last65,user65@email.com,2023-12-13,Website Popup,United States,Male,55+,Active
+SUB0066,First66,Last66,user66@email.com,2024-02-09,Website Popup,United States,Female,18-24,Active
+SUB0067,First67,Last67,user67@email.com,2024-06-08,Checkout,United States,Female,18-24,Active
+SUB0068,First68,Last68,user68@email.com,2023-12-24,Social Media,United Kingdom,Male,25-34,Active
+SUB0069,First69,Last69,user69@email.com,2023-07-14,Website Popup,United States,Female,18-24,Active
+SUB0070,First70,Last70,user70@email.com,2023-12-10,Website Popup,United States,Male,18-24,Unsubscribed
+SUB0071,First71,Last71,user71@email.com,2023-09-29,Website Popup,United States,Male,35-44,Active
+SUB0072,First72,Last72,user72@email.com,2024-02-08,Checkout,United Kingdom,Female,25-34,Active
+SUB0073,First73,Last73,user73@email.com,2024-04-11,Social Media,Australia,Female,25-34,Unsubscribed
+SUB0074,First74,Last74,user74@email.com,2023-12-24,Website Popup,United States,Male,25-34,Active
+SUB0075,First75,Last75,user75@email.com,2023-12-14,Website Popup,United States,Male,25-34,Active
+SUB0076,First76,Last76,user76@email.com,2024-06-05,Website Popup,United Kingdom,Male,35-44,Active
+SUB0077,First77,Last77,user77@email.com,2023-09-01,Website Popup,Canada,Female,25-34,Active
+SUB0078,First78,Last78,user78@email.com,2023-12-12,Website Popup,United Kingdom,Male,45-54,Active
+SUB0079,First79,Last79,user79@email.com,2024-01-20,Website Popup,Australia,Female,35-44,Active
+SUB0080,First80,Last80,user80@email.com,2023-12-21,Website Popup,United States,Male,35-44,Bounced
+SUB0081,First81,Last81,user81@email.com,2024-01-26,Referral,United Kingdom,Male,18-24,Active
+SUB0082,First82,Last82,user82@email.com,2023-12-12,Social Media,Australia,Male,55+,Active
+SUB0083,First83,Last83,user83@email.com,2023-11-24,Website Popup,Canada,Female,55+,Active
+SUB0084,First84,Last84,user84@email.com,2024-06-26,Website Popup,United States,Female,25-34,Active
+SUB0085,First85,Last85,user85@email.com,2023-08-19,Referral,United States,Male,35-44,Active
+SUB0086,First86,Last86,user86@email.com,2023-09-02,Checkout,United States,Female,25-34,Active
+SUB0087,First87,Last87,user87@email.com,2023-11-26,Website Popup,Australia,Female,45-54,Active
+SUB0088,First88,Last88,user88@email.com,2023-11-07,Checkout,United States,Male,18-24,Active
+SUB0089,First89,Last89,user89@email.com,2024-03-18,Checkout,United Kingdom,Male,25-34,Active
+SUB0090,First90,Last90,user90@email.com,2024-02-08,Checkout,United States,Female,35-44,Active
+SUB0091,First91,Last91,user91@email.com,2023-08-12,Website Popup,United States,Male,18-24,Active
+SUB0092,First92,Last92,user92@email.com,2023-08-15,Website Popup,United States,Female,35-44,Active
+SUB0093,First93,Last93,user93@email.com,2023-09-27,Social Media,United States,Male,25-34,Unsubscribed
+SUB0094,First94,Last94,user94@email.com,2023-10-20,Website Popup,United States,Female,25-34,Active
+SUB0095,First95,Last95,user95@email.com,2024-05-11,Website Popup,United States,Female,35-44,Active
+SUB0096,First96,Last96,user96@email.com,2024-04-09,Referral,Canada,Female,35-44,Bounced
+SUB0097,First97,Last97,user97@email.com,2023-09-22,Checkout,United Kingdom,Female,18-24,Active
+SUB0098,First98,Last98,user98@email.com,2024-05-06,Website Popup,United States,Male,25-34,Active
+SUB0099,First99,Last99,user99@email.com,2024-06-09,Social Media,United States,Female,35-44,Active
+SUB0100,First100,Last100,user100@email.com,2024-06-17,Checkout,United States,Female,25-34,Active
+SUB0101,First101,Last101,user101@email.com,2024-05-21,Website Popup,United States,Female,25-34,Active
+SUB0102,First102,Last102,user102@email.com,2024-04-04,Checkout,United Kingdom,Female,25-34,Active
+SUB0103,First103,Last103,user103@email.com,2023-10-13,Checkout,United States,Male,45-54,Bounced
+SUB0104,First104,Last104,user104@email.com,2024-01-05,Checkout,United Kingdom,Female,55+,Active
+SUB0105,First105,Last105,user105@email.com,2023-11-19,Website Popup,United Kingdom,Male,25-34,Active
+SUB0106,First106,Last106,user106@email.com,2024-06-24,Social Media,Australia,Female,18-24,Active
+SUB0107,First107,Last107,user107@email.com,2024-01-27,Website Popup,United States,Female,18-24,Active
+SUB0108,First108,Last108,user108@email.com,2023-12-24,Checkout,United States,Male,25-34,Active
+SUB0109,First109,Last109,user109@email.com,2023-12-02,Checkout,United States,Female,45-54,Active
+SUB0110,First110,Last110,user110@email.com,2023-08-05,Checkout,United States,Female,35-44,Unsubscribed
+SUB0111,First111,Last111,user111@email.com,2024-03-31,Website Popup,Canada,Male,25-34,Bounced
+SUB0112,First112,Last112,user112@email.com,2024-05-25,Checkout,United Kingdom,Male,25-34,Active
+SUB0113,First113,Last113,user113@email.com,2023-07-23,Website Popup,United Kingdom,Male,45-54,Active
+SUB0114,First114,Last114,user114@email.com,2024-04-07,Social Media,United States,Male,25-34,Active
+SUB0115,First115,Last115,user115@email.com,2024-05-16,Website Popup,United States,Female,55+,Active
+SUB0116,First116,Last116,user116@email.com,2024-03-12,Website Popup,United States,Male,35-44,Active
+SUB0117,First117,Last117,user117@email.com,2023-07-17,Checkout,United States,Male,35-44,Active
+SUB0118,First118,Last118,user118@email.com,2024-06-11,Checkout,United States,Male,25-34,Active
+SUB0119,First119,Last119,user119@email.com,2024-01-28,Website Popup,United Kingdom,Female,18-24,Active
+SUB0120,First120,Last120,user120@email.com,2023-09-27,Website Popup,United States,Male,45-54,Active
+SUB0121,First121,Last121,user121@email.com,2024-06-29,Website Popup,Canada,Female,25-34,Unsubscribed
+SUB0122,First122,Last122,user122@email.com,2024-01-18,Website Popup,United States,Male,18-24,Active
+SUB0123,First123,Last123,user123@email.com,2024-04-06,Website Popup,Canada,Female,35-44,Active
+SUB0124,First124,Last124,user124@email.com,2023-09-29,Website Popup,United Kingdom,Female,35-44,Active
+SUB0125,First125,Last125,user125@email.com,2024-04-26,Blog,United States,Male,35-44,Active
+SUB0126,First126,Last126,user126@email.com,2024-01-20,Social Media,United Kingdom,Female,55+,Bounced
+SUB0127,First127,Last127,user127@email.com,2024-06-25,Website Popup,United Kingdom,Male,35-44,Active
+SUB0128,First128,Last128,user128@email.com,2024-01-14,Website Popup,United States,Male,25-34,Active
+SUB0129,First129,Last129,user129@email.com,2023-10-03,Website Popup,United Kingdom,Female,25-34,Active
+SUB0130,First130,Last130,user130@email.com,2023-11-12,Checkout,Australia,Female,35-44,Active
+SUB0131,First131,Last131,user131@email.com,2024-05-25,Website Popup,Australia,Male,25-34,Active
+SUB0132,First132,Last132,user132@email.com,2024-01-08,Website Popup,United States,Female,25-34,Active
+SUB0133,First133,Last133,user133@email.com,2024-02-18,Checkout,United Kingdom,Female,35-44,Active
+SUB0134,First134,Last134,user134@email.com,2023-08-20,Blog,Australia,Female,18-24,Active
+SUB0135,First135,Last135,user135@email.com,2023-12-24,Checkout,Canada,Female,45-54,Active
+SUB0136,First136,Last136,user136@email.com,2023-10-09,Social Media,Australia,Female,55+,Active
+SUB0137,First137,Last137,user137@email.com,2023-07-01,Checkout,United States,Male,35-44,Active
+SUB0138,First138,Last138,user138@email.com,2023-11-07,Social Media,United States,Male,35-44,Active
+SUB0139,First139,Last139,user139@email.com,2023-07-20,Referral,Australia,Male,25-34,Active
+SUB0140,First140,Last140,user140@email.com,2023-07-04,Website Popup,United States,Female,25-34,Active
+SUB0141,First141,Last141,user141@email.com,2023-12-20,Website Popup,United States,Male,35-44,Active
+SUB0142,First142,Last142,user142@email.com,2023-07-22,Referral,United States,Female,45-54,Unsubscribed
+SUB0143,First143,Last143,user143@email.com,2023-11-22,Social Media,United States,Female,25-34,Active
+SUB0144,First144,Last144,user144@email.com,2023-12-02,Checkout,United States,Female,18-24,Active
+SUB0145,First145,Last145,user145@email.com,2024-03-31,Website Popup,Australia,Male,55+,Active
+SUB0146,First146,Last146,user146@email.com,2024-06-29,Checkout,Australia,Male,18-24,Unsubscribed
+SUB0147,First147,Last147,user147@email.com,2023-12-31,Website Popup,United States,Female,45-54,Active
+SUB0148,First148,Last148,user148@email.com,2023-11-13,Checkout,United States,Female,45-54,Active
+SUB0149,First149,Last149,user149@email.com,2024-04-01,Social Media,United States,Male,35-44,Active
+SUB0150,First150,Last150,user150@email.com,2023-08-27,Referral,Australia,Male,18-24,Active
+SUB0151,First151,Last151,user151@email.com,2023-09-06,Social Media,United States,Male,45-54,Active
+SUB0152,First152,Last152,user152@email.com,2023-12-08,Website Popup,United Kingdom,Male,18-24,Active
+SUB0153,First153,Last153,user153@email.com,2024-06-28,Referral,United States,Male,18-24,Active
+SUB0154,First154,Last154,user154@email.com,2023-12-04,Checkout,United States,Female,35-44,Bounced
+SUB0155,First155,Last155,user155@email.com,2024-04-22,Website Popup,United States,Male,25-34,Active
+SUB0156,First156,Last156,user156@email.com,2023-08-27,Website Popup,United Kingdom,Male,35-44,Unsubscribed
+SUB0157,First157,Last157,user157@email.com,2024-06-16,Checkout,United States,Male,25-34,Active
+SUB0158,First158,Last158,user158@email.com,2024-02-05,Checkout,United States,Male,25-34,Active
+SUB0159,First159,Last159,user159@email.com,2023-10-25,Website Popup,United States,Male,45-54,Unsubscribed
+SUB0160,First160,Last160,user160@email.com,2024-02-25,Website Popup,United Kingdom,Male,18-24,Active
+SUB0161,First161,Last161,user161@email.com,2023-10-10,Social Media,United States,Male,18-24,Active
+SUB0162,First162,Last162,user162@email.com,2023-11-05,Website Popup,United States,Female,35-44,Active
+SUB0163,First163,Last163,user163@email.com,2024-01-07,Website Popup,United States,Male,25-34,Active
+SUB0164,First164,Last164,user164@email.com,2024-02-26,Checkout,Australia,Female,18-24,Active
+SUB0165,First165,Last165,user165@email.com,2023-12-07,Website Popup,United States,Male,35-44,Active
+SUB0166,First166,Last166,user166@email.com,2023-07-23,Website Popup,United Kingdom,Female,18-24,Active
+SUB0167,First167,Last167,user167@email.com,2024-04-09,Website Popup,United States,Female,45-54,Active
+SUB0168,First168,Last168,user168@email.com,2023-10-02,Website Popup,United States,Male,35-44,Active
+SUB0169,First169,Last169,user169@email.com,2023-11-13,Website Popup,Canada,Male,35-44,Active
+SUB0170,First170,Last170,user170@email.com,2024-02-11,Checkout,United States,Female,25-34,Active
+SUB0171,First171,Last171,user171@email.com,2023-09-05,Social Media,United States,Female,55+,Active
+SUB0172,First172,Last172,user172@email.com,2024-03-01,Social Media,United Kingdom,Male,45-54,Active
+SUB0173,First173,Last173,user173@email.com,2023-08-04,Checkout,United States,Male,45-54,Unsubscribed
+SUB0174,First174,Last174,user174@email.com,2024-03-27,Checkout,Canada,Female,35-44,Active
+SUB0175,First175,Last175,user175@email.com,2023-11-22,Social Media,Canada,Male,18-24,Active
+SUB0176,First176,Last176,user176@email.com,2023-10-10,Social Media,United States,Male,35-44,Active
+SUB0177,First177,Last177,user177@email.com,2024-03-03,Referral,Australia,Female,25-34,Active
+SUB0178,First178,Last178,user178@email.com,2023-11-02,Website Popup,United States,Male,35-44,Active
+SUB0179,First179,Last179,user179@email.com,2024-03-04,Website Popup,United States,Female,25-34,Active
+SUB0180,First180,Last180,user180@email.com,2023-09-27,Checkout,Canada,Female,25-34,Active
+SUB0181,First181,Last181,user181@email.com,2024-01-03,Referral,Canada,Female,35-44,Active
+SUB0182,First182,Last182,user182@email.com,2023-09-10,Checkout,United Kingdom,Male,25-34,Active
+SUB0183,First183,Last183,user183@email.com,2023-10-08,Website Popup,United Kingdom,Female,18-24,Active
+SUB0184,First184,Last184,user184@email.com,2024-02-08,Checkout,Australia,Female,55+,Active
+SUB0185,First185,Last185,user185@email.com,2024-05-09,Checkout,United Kingdom,Female,25-34,Active
+SUB0186,First186,Last186,user186@email.com,2023-12-13,Social Media,United Kingdom,Male,35-44,Active
+SUB0187,First187,Last187,user187@email.com,2023-11-02,Referral,United States,Male,35-44,Active
+SUB0188,First188,Last188,user188@email.com,2023-07-23,Checkout,United Kingdom,Female,45-54,Active
+SUB0189,First189,Last189,user189@email.com,2023-07-30,Checkout,United States,Male,25-34,Active
+SUB0190,First190,Last190,user190@email.com,2024-06-17,Website Popup,United States,Female,45-54,Active
+SUB0191,First191,Last191,user191@email.com,2023-08-12,Social Media,Canada,Male,25-34,Unsubscribed
+SUB0192,First192,Last192,user192@email.com,2024-03-15,Website Popup,United States,Female,25-34,Unsubscribed
+SUB0193,First193,Last193,user193@email.com,2024-04-12,Website Popup,United States,Female,35-44,Active
+SUB0194,First194,Last194,user194@email.com,2024-02-15,Website Popup,United States,Female,25-34,Active
+SUB0195,First195,Last195,user195@email.com,2024-01-08,Checkout,United Kingdom,Male,25-34,Active
+SUB0196,First196,Last196,user196@email.com,2024-03-23,Website Popup,United Kingdom,Female,25-34,Active
+SUB0197,First197,Last197,user197@email.com,2024-06-10,Website Popup,United Kingdom,Female,25-34,Active
+SUB0198,First198,Last198,user198@email.com,2023-10-05,Website Popup,United Kingdom,Male,18-24,Active
+SUB0199,First199,Last199,user199@email.com,2023-10-23,Social Media,Australia,Female,35-44,Active
+SUB0200,First200,Last200,user200@email.com,2024-04-25,Checkout,United States,Male,25-34,Active
+SUB0201,First201,Last201,user201@email.com,2024-01-23,Referral,United States,Female,25-34,Unsubscribed
+SUB0202,First202,Last202,user202@email.com,2023-10-08,Website Popup,United States,Female,25-34,Active
+SUB0203,First203,Last203,user203@email.com,2024-01-17,Social Media,United States,Male,18-24,Unsubscribed
+SUB0204,First204,Last204,user204@email.com,2024-04-24,Checkout,Australia,Female,25-34,Active
+SUB0205,First205,Last205,user205@email.com,2023-11-26,Referral,United Kingdom,Female,18-24,Active
+SUB0206,First206,Last206,user206@email.com,2023-11-25,Checkout,United States,Female,35-44,Unsubscribed
+SUB0207,First207,Last207,user207@email.com,2024-04-17,Social Media,United States,Male,25-34,Active
+SUB0208,First208,Last208,user208@email.com,2023-09-17,Social Media,United States,Male,25-34,Active
+SUB0209,First209,Last209,user209@email.com,2023-08-26,Social Media,Canada,Male,18-24,Active
+SUB0210,First210,Last210,user210@email.com,2024-03-27,Website Popup,United States,Male,35-44,Active
+SUB0211,First211,Last211,user211@email.com,2023-07-11,Website Popup,Canada,Female,25-34,Active
+SUB0212,First212,Last212,user212@email.com,2023-12-06,Checkout,United Kingdom,Male,35-44,Active
+SUB0213,First213,Last213,user213@email.com,2023-10-25,Website Popup,United States,Male,25-34,Active
+SUB0214,First214,Last214,user214@email.com,2023-07-05,Checkout,Canada,Female,35-44,Active
+SUB0215,First215,Last215,user215@email.com,2024-01-07,Social Media,United States,Male,35-44,Unsubscribed
+SUB0216,First216,Last216,user216@email.com,2023-09-11,Social Media,United Kingdom,Female,18-24,Active
+SUB0217,First217,Last217,user217@email.com,2024-06-17,Referral,United States,Male,25-34,Unsubscribed
+SUB0218,First218,Last218,user218@email.com,2023-07-28,Checkout,United Kingdom,Female,25-34,Active
+SUB0219,First219,Last219,user219@email.com,2023-12-02,Referral,United States,Male,35-44,Active
+SUB0220,First220,Last220,user220@email.com,2024-01-01,Website Popup,United Kingdom,Female,18-24,Active
+SUB0221,First221,Last221,user221@email.com,2024-04-27,Social Media,United States,Female,45-54,Active
+SUB0222,First222,Last222,user222@email.com,2024-03-05,Website Popup,United States,Male,18-24,Unsubscribed
+SUB0223,First223,Last223,user223@email.com,2023-10-26,Checkout,United States,Female,35-44,Active
+SUB0224,First224,Last224,user224@email.com,2023-09-29,Checkout,United States,Female,45-54,Active
+SUB0225,First225,Last225,user225@email.com,2023-07-01,Website Popup,United States,Male,25-34,Bounced
+SUB0226,First226,Last226,user226@email.com,2023-08-16,Checkout,United States,Female,35-44,Unsubscribed
+SUB0227,First227,Last227,user227@email.com,2023-10-08,Social Media,Australia,Male,18-24,Active
+SUB0228,First228,Last228,user228@email.com,2023-07-24,Website Popup,United States,Female,25-34,Active
+SUB0229,First229,Last229,user229@email.com,2024-06-28,Checkout,Canada,Male,35-44,Active
+SUB0230,First230,Last230,user230@email.com,2024-04-23,Social Media,Canada,Male,25-34,Active
+SUB0231,First231,Last231,user231@email.com,2023-07-28,Website Popup,United Kingdom,Male,45-54,Active
+SUB0232,First232,Last232,user232@email.com,2024-06-04,Website Popup,United Kingdom,Male,45-54,Active
+SUB0233,First233,Last233,user233@email.com,2024-06-30,Website Popup,Canada,Female,18-24,Unsubscribed
+SUB0234,First234,Last234,user234@email.com,2024-01-23,Website Popup,United States,Female,25-34,Active
+SUB0235,First235,Last235,user235@email.com,2024-05-04,Website Popup,United States,Male,25-34,Active
+SUB0236,First236,Last236,user236@email.com,2024-04-22,Checkout,Canada,Female,25-34,Active
+SUB0237,First237,Last237,user237@email.com,2023-11-28,Website Popup,United States,Male,25-34,Active
+SUB0238,First238,Last238,user238@email.com,2023-11-30,Blog,United Kingdom,Male,35-44,Active
+SUB0239,First239,Last239,user239@email.com,2023-09-01,Checkout,Australia,Female,25-34,Active
+SUB0240,First240,Last240,user240@email.com,2023-07-15,Checkout,United Kingdom,Male,18-24,Active
+SUB0241,First241,Last241,user241@email.com,2023-07-30,Checkout,United Kingdom,Male,35-44,Active
+SUB0242,First242,Last242,user242@email.com,2024-06-24,Checkout,United States,Male,18-24,Bounced
+SUB0243,First243,Last243,user243@email.com,2023-09-27,Website Popup,United States,Male,18-24,Unsubscribed
+SUB0244,First244,Last244,user244@email.com,2024-03-29,Checkout,United Kingdom,Female,18-24,Unsubscribed
+SUB0245,First245,Last245,user245@email.com,2023-10-03,Social Media,United States,Female,25-34,Unsubscribed
+SUB0246,First246,Last246,user246@email.com,2023-08-03,Checkout,United States,Male,25-34,Active
+SUB0247,First247,Last247,user247@email.com,2024-01-13,Checkout,United Kingdom,Male,25-34,Active
+SUB0248,First248,Last248,user248@email.com,2023-07-01,Checkout,United States,Female,18-24,Active
+SUB0249,First249,Last249,user249@email.com,2024-02-07,Website Popup,United States,Female,25-34,Active
+SUB0250,First250,Last250,user250@email.com,2024-02-16,Referral,United States,Female,25-34,Active
+SUB0251,First251,Last251,user251@email.com,2023-08-31,Blog,United States,Female,18-24,Active
+SUB0252,First252,Last252,user252@email.com,2024-02-13,Website Popup,United Kingdom,Female,18-24,Active
+SUB0253,First253,Last253,user253@email.com,2023-08-04,Website Popup,United States,Female,35-44,Active
+SUB0254,First254,Last254,user254@email.com,2024-06-01,Checkout,United States,Male,25-34,Active
+SUB0255,First255,Last255,user255@email.com,2023-10-18,Social Media,Canada,Male,45-54,Unsubscribed
+SUB0256,First256,Last256,user256@email.com,2023-07-20,Website Popup,United States,Female,35-44,Bounced
+SUB0257,First257,Last257,user257@email.com,2023-12-13,Referral,United Kingdom,Female,45-54,Active
+SUB0258,First258,Last258,user258@email.com,2023-08-31,Social Media,United States,Male,25-34,Active
+SUB0259,First259,Last259,user259@email.com,2024-05-05,Website Popup,United States,Male,25-34,Active
+SUB0260,First260,Last260,user260@email.com,2023-08-27,Website Popup,United States,Male,45-54,Active
+SUB0261,First261,Last261,user261@email.com,2024-02-21,Blog,United States,Female,18-24,Active
+SUB0262,First262,Last262,user262@email.com,2023-12-02,Social Media,Canada,Male,55+,Active
+SUB0263,First263,Last263,user263@email.com,2024-05-06,Checkout,United States,Female,35-44,Unsubscribed
+SUB0264,First264,Last264,user264@email.com,2024-04-28,Website Popup,United States,Female,18-24,Active
+SUB0265,First265,Last265,user265@email.com,2024-01-08,Website Popup,United Kingdom,Female,55+,Active
+SUB0266,First266,Last266,user266@email.com,2024-06-14,Referral,United States,Male,18-24,Active
+SUB0267,First267,Last267,user267@email.com,2023-09-18,Social Media,United States,Male,25-34,Active
+SUB0268,First268,Last268,user268@email.com,2024-01-19,Website Popup,United States,Female,25-34,Active
+SUB0269,First269,Last269,user269@email.com,2024-06-16,Checkout,Canada,Male,25-34,Active
+SUB0270,First270,Last270,user270@email.com,2024-06-11,Checkout,United Kingdom,Female,18-24,Active
+SUB0271,First271,Last271,user271@email.com,2024-03-25,Website Popup,Canada,Male,35-44,Active
+SUB0272,First272,Last272,user272@email.com,2023-07-18,Website Popup,Australia,Male,25-34,Active
+SUB0273,First273,Last273,user273@email.com,2023-10-06,Website Popup,United Kingdom,Male,25-34,Active
+SUB0274,First274,Last274,user274@email.com,2024-06-28,Checkout,United States,Female,25-34,Unsubscribed
+SUB0275,First275,Last275,user275@email.com,2024-01-30,Website Popup,United States,Male,35-44,Active
+SUB0276,First276,Last276,user276@email.com,2024-06-17,Social Media,United Kingdom,Female,18-24,Active
+SUB0277,First277,Last277,user277@email.com,2023-11-01,Referral,Canada,Male,25-34,Active
+SUB0278,First278,Last278,user278@email.com,2023-08-12,Website Popup,United States,Male,25-34,Active
+SUB0279,First279,Last279,user279@email.com,2024-03-31,Referral,United States,Female,25-34,Active
+SUB0280,First280,Last280,user280@email.com,2024-01-07,Website Popup,Canada,Female,25-34,Active
+SUB0281,First281,Last281,user281@email.com,2024-02-14,Website Popup,United Kingdom,Male,25-34,Active
+SUB0282,First282,Last282,user282@email.com,2024-01-13,Social Media,United States,Male,18-24,Active
+SUB0283,First283,Last283,user283@email.com,2024-06-07,Website Popup,United States,Female,45-54,Active
+SUB0284,First284,Last284,user284@email.com,2023-08-01,Website Popup,United States,Male,18-24,Active
+SUB0285,First285,Last285,user285@email.com,2024-03-02,Social Media,United States,Female,45-54,Active
+SUB0286,First286,Last286,user286@email.com,2023-10-06,Checkout,United Kingdom,Male,18-24,Active
+SUB0287,First287,Last287,user287@email.com,2023-08-20,Checkout,United States,Female,18-24,Active
+SUB0288,First288,Last288,user288@email.com,2024-01-14,Website Popup,Canada,Female,35-44,Unsubscribed
+SUB0289,First289,Last289,user289@email.com,2024-02-05,Website Popup,United States,Male,45-54,Active
+SUB0290,First290,Last290,user290@email.com,2024-01-07,Checkout,United States,Male,25-34,Active
+SUB0291,First291,Last291,user291@email.com,2024-03-03,Checkout,Canada,Female,45-54,Active
+SUB0292,First292,Last292,user292@email.com,2024-04-01,Checkout,United States,Male,18-24,Bounced
+SUB0293,First293,Last293,user293@email.com,2024-06-04,Website Popup,Canada,Male,25-34,Active
+SUB0294,First294,Last294,user294@email.com,2023-12-07,Website Popup,United States,Female,45-54,Active
+SUB0295,First295,Last295,user295@email.com,2023-11-15,Website Popup,United States,Female,25-34,Bounced
+SUB0296,First296,Last296,user296@email.com,2024-04-03,Website Popup,United Kingdom,Male,45-54,Active
+SUB0297,First297,Last297,user297@email.com,2024-03-08,Website Popup,United States,Male,35-44,Active
+SUB0298,First298,Last298,user298@email.com,2023-11-21,Checkout,United States,Female,25-34,Active
+SUB0299,First299,Last299,user299@email.com,2024-04-10,Referral,Canada,Female,35-44,Bounced
+SUB0300,First300,Last300,user300@email.com,2024-04-28,Checkout,United Kingdom,Male,18-24,Active
+SUB0301,First301,Last301,user301@email.com,2024-03-13,Social Media,United Kingdom,Male,18-24,Active
+SUB0302,First302,Last302,user302@email.com,2024-06-17,Website Popup,United States,Male,25-34,Active
+SUB0303,First303,Last303,user303@email.com,2024-01-15,Website Popup,United States,Male,25-34,Active
+SUB0304,First304,Last304,user304@email.com,2024-03-05,Social Media,United States,Female,18-24,Bounced
+SUB0305,First305,Last305,user305@email.com,2024-04-05,Website Popup,United States,Male,55+,Unsubscribed
+SUB0306,First306,Last306,user306@email.com,2024-05-21,Blog,United Kingdom,Male,35-44,Active
+SUB0307,First307,Last307,user307@email.com,2024-05-24,Social Media,United Kingdom,Male,25-34,Active
+SUB0308,First308,Last308,user308@email.com,2024-02-07,Social Media,United States,Female,18-24,Unsubscribed
+SUB0309,First309,Last309,user309@email.com,2023-09-30,Checkout,United Kingdom,Female,35-44,Active
+SUB0310,First310,Last310,user310@email.com,2024-04-30,Website Popup,United States,Male,35-44,Active
+SUB0311,First311,Last311,user311@email.com,2024-06-10,Checkout,United Kingdom,Male,35-44,Active
+SUB0312,First312,Last312,user312@email.com,2024-01-20,Checkout,United Kingdom,Female,25-34,Unsubscribed
+SUB0313,First313,Last313,user313@email.com,2023-11-10,Checkout,United States,Female,35-44,Active
+SUB0314,First314,Last314,user314@email.com,2023-10-23,Checkout,United States,Female,25-34,Active
+SUB0315,First315,Last315,user315@email.com,2024-02-11,Website Popup,United States,Male,35-44,Active
+SUB0316,First316,Last316,user316@email.com,2024-03-18,Checkout,United States,Female,55+,Unsubscribed
+SUB0317,First317,Last317,user317@email.com,2023-11-09,Social Media,Australia,Male,45-54,Unsubscribed
+SUB0318,First318,Last318,user318@email.com,2024-03-31,Checkout,United Kingdom,Male,25-34,Active
+SUB0319,First319,Last319,user319@email.com,2023-08-29,Checkout,United States,Male,25-34,Active
+SUB0320,First320,Last320,user320@email.com,2024-01-24,Social Media,United Kingdom,Female,18-24,Active
+SUB0321,First321,Last321,user321@email.com,2024-04-15,Website Popup,United Kingdom,Male,25-34,Active
+SUB0322,First322,Last322,user322@email.com,2023-11-07,Website Popup,Australia,Male,35-44,Unsubscribed
+SUB0323,First323,Last323,user323@email.com,2024-01-27,Checkout,Canada,Female,55+,Active
+SUB0324,First324,Last324,user324@email.com,2024-02-12,Referral,United States,Male,18-24,Bounced
+SUB0325,First325,Last325,user325@email.com,2024-01-24,Website Popup,United States,Male,18-24,Active
+SUB0326,First326,Last326,user326@email.com,2023-12-09,Website Popup,United Kingdom,Female,18-24,Active
+SUB0327,First327,Last327,user327@email.com,2023-08-30,Website Popup,United States,Female,25-34,Active
+SUB0328,First328,Last328,user328@email.com,2023-08-14,Referral,United States,Male,25-34,Active
+SUB0329,First329,Last329,user329@email.com,2023-11-12,Referral,United Kingdom,Female,25-34,Active
+SUB0330,First330,Last330,user330@email.com,2024-02-03,Website Popup,Canada,Male,25-34,Active
+SUB0331,First331,Last331,user331@email.com,2024-05-05,Website Popup,Australia,Male,25-34,Active
+SUB0332,First332,Last332,user332@email.com,2024-03-27,Referral,United States,Female,25-34,Active
+SUB0333,First333,Last333,user333@email.com,2024-01-22,Referral,United Kingdom,Male,25-34,Active
+SUB0334,First334,Last334,user334@email.com,2023-08-22,Checkout,United Kingdom,Female,45-54,Bounced
+SUB0335,First335,Last335,user335@email.com,2023-07-19,Checkout,Canada,Male,18-24,Active
+SUB0336,First336,Last336,user336@email.com,2024-04-30,Website Popup,United Kingdom,Female,18-24,Active
+SUB0337,First337,Last337,user337@email.com,2024-04-11,Checkout,United States,Female,35-44,Active
+SUB0338,First338,Last338,user338@email.com,2023-09-15,Referral,United States,Female,35-44,Active
+SUB0339,First339,Last339,user339@email.com,2023-08-14,Checkout,United Kingdom,Male,35-44,Unsubscribed
+SUB0340,First340,Last340,user340@email.com,2023-10-30,Social Media,United Kingdom,Female,35-44,Active
+SUB0341,First341,Last341,user341@email.com,2023-11-01,Checkout,United States,Male,35-44,Active
+SUB0342,First342,Last342,user342@email.com,2023-07-15,Website Popup,United States,Male,45-54,Active
+SUB0343,First343,Last343,user343@email.com,2024-02-17,Checkout,United Kingdom,Male,18-24,Unsubscribed
+SUB0344,First344,Last344,user344@email.com,2023-08-23,Checkout,United Kingdom,Female,25-34,Active
+SUB0345,First345,Last345,user345@email.com,2024-03-06,Social Media,United States,Female,35-44,Active
+SUB0346,First346,Last346,user346@email.com,2024-01-30,Referral,United States,Female,35-44,Active
+SUB0347,First347,Last347,user347@email.com,2024-04-19,Website Popup,United States,Male,25-34,Unsubscribed
+SUB0348,First348,Last348,user348@email.com,2023-07-05,Social Media,United States,Male,35-44,Active
+SUB0349,First349,Last349,user349@email.com,2024-03-29,Checkout,Australia,Female,25-34,Active
+SUB0350,First350,Last350,user350@email.com,2024-06-02,Website Popup,Canada,Female,18-24,Active
+SUB0351,First351,Last351,user351@email.com,2024-05-06,Checkout,United Kingdom,Female,25-34,Active
+SUB0352,First352,Last352,user352@email.com,2024-03-27,Website Popup,United Kingdom,Male,45-54,Active
+SUB0353,First353,Last353,user353@email.com,2023-11-30,Website Popup,United Kingdom,Male,45-54,Active
+SUB0354,First354,Last354,user354@email.com,2023-07-11,Checkout,United States,Female,25-34,Active
+SUB0355,First355,Last355,user355@email.com,2023-08-22,Social Media,Canada,Male,35-44,Active
+SUB0356,First356,Last356,user356@email.com,2024-06-23,Checkout,Australia,Male,25-34,Active
+SUB0357,First357,Last357,user357@email.com,2023-10-11,Blog,United Kingdom,Female,35-44,Active
+SUB0358,First358,Last358,user358@email.com,2024-02-06,Checkout,United States,Female,35-44,Active
+SUB0359,First359,Last359,user359@email.com,2024-06-04,Website Popup,United Kingdom,Male,45-54,Unsubscribed
+SUB0360,First360,Last360,user360@email.com,2023-08-19,Website Popup,United States,Female,45-54,Active
+SUB0361,First361,Last361,user361@email.com,2023-10-21,Checkout,Australia,Female,18-24,Active
+SUB0362,First362,Last362,user362@email.com,2023-08-18,Checkout,United Kingdom,Female,55+,Unsubscribed
+SUB0363,First363,Last363,user363@email.com,2023-08-06,Checkout,Australia,Male,55+,Active
+SUB0364,First364,Last364,user364@email.com,2024-06-01,Social Media,United States,Male,18-24,Active
+SUB0365,First365,Last365,user365@email.com,2023-07-04,Checkout,United Kingdom,Male,55+,Unsubscribed
+SUB0366,First366,Last366,user366@email.com,2024-02-26,Checkout,United States,Male,45-54,Unsubscribed
+SUB0367,First367,Last367,user367@email.com,2024-06-14,Website Popup,United States,Male,35-44,Unsubscribed
+SUB0368,First368,Last368,user368@email.com,2023-11-30,Checkout,United States,Male,55+,Unsubscribed
+SUB0369,First369,Last369,user369@email.com,2023-11-10,Checkout,United States,Female,35-44,Active
+SUB0370,First370,Last370,user370@email.com,2023-10-17,Social Media,United States,Female,35-44,Active
+SUB0371,First371,Last371,user371@email.com,2024-06-09,Social Media,United States,Male,18-24,Active
+SUB0372,First372,Last372,user372@email.com,2024-05-05,Social Media,Canada,Male,25-34,Active
+SUB0373,First373,Last373,user373@email.com,2023-11-21,Website Popup,United Kingdom,Female,35-44,Active
+SUB0374,First374,Last374,user374@email.com,2023-09-15,Website Popup,United States,Male,35-44,Active
+SUB0375,First375,Last375,user375@email.com,2023-10-02,Social Media,Canada,Female,35-44,Active
+SUB0376,First376,Last376,user376@email.com,2024-01-30,Website Popup,United States,Female,45-54,Active
+SUB0377,First377,Last377,user377@email.com,2024-02-17,Checkout,United States,Female,25-34,Active
+SUB0378,First378,Last378,user378@email.com,2024-01-16,Website Popup,Canada,Male,25-34,Active
+SUB0379,First379,Last379,user379@email.com,2024-05-19,Checkout,Australia,Female,25-34,Active
+SUB0380,First380,Last380,user380@email.com,2023-10-08,Website Popup,Australia,Female,35-44,Active
+SUB0381,First381,Last381,user381@email.com,2023-08-28,Checkout,United States,Female,25-34,Bounced
+SUB0382,First382,Last382,user382@email.com,2023-07-08,Checkout,Canada,Female,18-24,Unsubscribed
+SUB0383,First383,Last383,user383@email.com,2023-08-12,Blog,United States,Female,25-34,Active
+SUB0384,First384,Last384,user384@email.com,2023-07-12,Social Media,United Kingdom,Female,25-34,Active
+SUB0385,First385,Last385,user385@email.com,2023-11-28,Social Media,United States,Male,18-24,Active
+SUB0386,First386,Last386,user386@email.com,2024-05-10,Checkout,United States,Male,45-54,Unsubscribed
+SUB0387,First387,Last387,user387@email.com,2024-01-14,Social Media,United Kingdom,Female,18-24,Active
+SUB0388,First388,Last388,user388@email.com,2023-07-05,Website Popup,Australia,Female,55+,Active
+SUB0389,First389,Last389,user389@email.com,2024-01-31,Website Popup,United States,Male,25-34,Unsubscribed
+SUB0390,First390,Last390,user390@email.com,2023-08-10,Website Popup,United States,Male,18-24,Active
+SUB0391,First391,Last391,user391@email.com,2024-03-13,Checkout,United Kingdom,Female,25-34,Active
+SUB0392,First392,Last392,user392@email.com,2023-10-05,Checkout,United States,Male,55+,Active
+SUB0393,First393,Last393,user393@email.com,2024-06-15,Checkout,Australia,Female,25-34,Active
+SUB0394,First394,Last394,user394@email.com,2023-12-16,Website Popup,United States,Male,25-34,Unsubscribed
+SUB0395,First395,Last395,user395@email.com,2023-08-27,Social Media,United States,Female,35-44,Active
+SUB0396,First396,Last396,user396@email.com,2023-10-28,Checkout,United States,Male,45-54,Active
+SUB0397,First397,Last397,user397@email.com,2023-10-25,Referral,Canada,Female,25-34,Unsubscribed
+SUB0398,First398,Last398,user398@email.com,2023-12-21,Checkout,United Kingdom,Female,25-34,Active
+SUB0399,First399,Last399,user399@email.com,2024-03-03,Social Media,United States,Female,18-24,Active
+SUB0400,First400,Last400,user400@email.com,2024-02-14,Checkout,United Kingdom,Male,45-54,Active
+SUB0401,First401,Last401,user401@email.com,2023-08-03,Checkout,United Kingdom,Male,35-44,Active
+SUB0402,First402,Last402,user402@email.com,2024-05-01,Website Popup,Canada,Female,35-44,Active
+SUB0403,First403,Last403,user403@email.com,2023-11-18,Checkout,United States,Male,25-34,Active
+SUB0404,First404,Last404,user404@email.com,2023-07-30,Checkout,Canada,Female,25-34,Active
+SUB0405,First405,Last405,user405@email.com,2023-11-20,Checkout,United States,Male,18-24,Active
+SUB0406,First406,Last406,user406@email.com,2023-07-01,Social Media,Canada,Female,18-24,Active
+SUB0407,First407,Last407,user407@email.com,2024-05-03,Referral,United States,Female,35-44,Active
+SUB0408,First408,Last408,user408@email.com,2024-02-02,Referral,Australia,Female,35-44,Active
+SUB0409,First409,Last409,user409@email.com,2024-05-02,Social Media,United States,Female,25-34,Active
+SUB0410,First410,Last410,user410@email.com,2023-11-01,Website Popup,Canada,Male,45-54,Active
+SUB0411,First411,Last411,user411@email.com,2023-08-26,Checkout,Australia,Male,35-44,Active
+SUB0412,First412,Last412,user412@email.com,2024-01-10,Referral,Australia,Male,35-44,Active
+SUB0413,First413,Last413,user413@email.com,2023-12-21,Social Media,United States,Female,18-24,Active
+SUB0414,First414,Last414,user414@email.com,2024-01-26,Checkout,Canada,Female,35-44,Active
+SUB0415,First415,Last415,user415@email.com,2024-04-06,Social Media,United States,Female,25-34,Active
+SUB0416,First416,Last416,user416@email.com,2023-11-26,Social Media,United States,Female,18-24,Active
+SUB0417,First417,Last417,user417@email.com,2023-10-15,Blog,United States,Male,25-34,Active
+SUB0418,First418,Last418,user418@email.com,2024-05-18,Website Popup,United Kingdom,Female,25-34,Active
+SUB0419,First419,Last419,user419@email.com,2023-08-31,Website Popup,Australia,Female,35-44,Active
+SUB0420,First420,Last420,user420@email.com,2024-04-21,Referral,United States,Male,25-34,Active
+SUB0421,First421,Last421,user421@email.com,2023-11-28,Checkout,United States,Female,35-44,Bounced
+SUB0422,First422,Last422,user422@email.com,2024-04-21,Website Popup,United Kingdom,Female,18-24,Active
+SUB0423,First423,Last423,user423@email.com,2024-03-17,Referral,United States,Female,18-24,Active
+SUB0424,First424,Last424,user424@email.com,2023-07-05,Referral,Australia,Female,35-44,Active
+SUB0425,First425,Last425,user425@email.com,2023-11-29,Website Popup,United Kingdom,Male,25-34,Active
+SUB0426,First426,Last426,user426@email.com,2023-09-26,Social Media,Canada,Male,55+,Active
+SUB0427,First427,Last427,user427@email.com,2024-06-30,Website Popup,United States,Female,18-24,Active
+SUB0428,First428,Last428,user428@email.com,2023-09-06,Social Media,Australia,Female,45-54,Active
+SUB0429,First429,Last429,user429@email.com,2023-09-25,Referral,United States,Female,18-24,Active
+SUB0430,First430,Last430,user430@email.com,2024-03-25,Checkout,Australia,Male,35-44,Active
+SUB0431,First431,Last431,user431@email.com,2024-01-09,Website Popup,United States,Male,35-44,Active
+SUB0432,First432,Last432,user432@email.com,2023-08-02,Checkout,United States,Male,18-24,Active
+SUB0433,First433,Last433,user433@email.com,2024-01-31,Website Popup,United States,Male,18-24,Active
+SUB0434,First434,Last434,user434@email.com,2023-07-17,Checkout,United Kingdom,Female,18-24,Active
+SUB0435,First435,Last435,user435@email.com,2024-03-18,Checkout,United Kingdom,Female,25-34,Unsubscribed
+SUB0436,First436,Last436,user436@email.com,2024-01-05,Referral,United Kingdom,Female,18-24,Active
+SUB0437,First437,Last437,user437@email.com,2024-05-05,Social Media,United States,Male,25-34,Active
+SUB0438,First438,Last438,user438@email.com,2024-06-26,Social Media,United States,Male,25-34,Active
+SUB0439,First439,Last439,user439@email.com,2024-04-17,Social Media,Canada,Female,25-34,Bounced
+SUB0440,First440,Last440,user440@email.com,2024-02-12,Website Popup,United Kingdom,Female,25-34,Active
+SUB0441,First441,Last441,user441@email.com,2023-10-21,Checkout,United States,Female,35-44,Active
+SUB0442,First442,Last442,user442@email.com,2023-08-19,Checkout,Australia,Male,25-34,Active
+SUB0443,First443,Last443,user443@email.com,2023-10-15,Website Popup,United States,Female,35-44,Active
+SUB0444,First444,Last444,user444@email.com,2023-10-20,Website Popup,United States,Male,25-34,Active
+SUB0445,First445,Last445,user445@email.com,2024-03-22,Checkout,Canada,Female,25-34,Active
+SUB0446,First446,Last446,user446@email.com,2024-01-19,Social Media,United States,Female,18-24,Unsubscribed
+SUB0447,First447,Last447,user447@email.com,2023-09-08,Website Popup,United States,Female,35-44,Active
+SUB0448,First448,Last448,user448@email.com,2023-11-04,Checkout,United States,Female,45-54,Active
+SUB0449,First449,Last449,user449@email.com,2023-07-31,Social Media,Australia,Male,18-24,Unsubscribed
+SUB0450,First450,Last450,user450@email.com,2024-01-05,Checkout,United States,Male,25-34,Active
+SUB0451,First451,Last451,user451@email.com,2024-03-18,Website Popup,United States,Male,18-24,Active
+SUB0452,First452,Last452,user452@email.com,2024-06-21,Checkout,United States,Female,18-24,Active
+SUB0453,First453,Last453,user453@email.com,2024-03-23,Social Media,United States,Male,25-34,Active
+SUB0454,First454,Last454,user454@email.com,2023-10-18,Checkout,United Kingdom,Male,25-34,Active
+SUB0455,First455,Last455,user455@email.com,2024-01-26,Website Popup,United States,Female,25-34,Active
+SUB0456,First456,Last456,user456@email.com,2024-04-29,Website Popup,United Kingdom,Female,25-34,Active
+SUB0457,First457,Last457,user457@email.com,2023-11-21,Social Media,United States,Male,35-44,Active
+SUB0458,First458,Last458,user458@email.com,2024-02-15,Social Media,United Kingdom,Female,45-54,Active
+SUB0459,First459,Last459,user459@email.com,2023-09-02,Website Popup,United States,Female,35-44,Active
+SUB0460,First460,Last460,user460@email.com,2024-05-31,Social Media,United States,Male,25-34,Active
+SUB0461,First461,Last461,user461@email.com,2024-03-08,Blog,Australia,Female,18-24,Active
+SUB0462,First462,Last462,user462@email.com,2023-10-11,Website Popup,United States,Female,35-44,Active
+SUB0463,First463,Last463,user463@email.com,2024-03-11,Referral,Canada,Male,25-34,Active
+SUB0464,First464,Last464,user464@email.com,2024-05-20,Checkout,Canada,Male,25-34,Active
+SUB0465,First465,Last465,user465@email.com,2023-09-14,Social Media,United States,Male,35-44,Bounced
+SUB0466,First466,Last466,user466@email.com,2023-09-08,Social Media,United States,Male,35-44,Active
+SUB0467,First467,Last467,user467@email.com,2024-03-23,Checkout,United States,Male,25-34,Active
+SUB0468,First468,Last468,user468@email.com,2023-11-13,Blog,United States,Female,18-24,Active
+SUB0469,First469,Last469,user469@email.com,2024-04-06,Social Media,United States,Female,25-34,Active
+SUB0470,First470,Last470,user470@email.com,2023-08-24,Website Popup,Canada,Female,25-34,Active
+SUB0471,First471,Last471,user471@email.com,2024-04-22,Checkout,United States,Female,35-44,Active
+SUB0472,First472,Last472,user472@email.com,2024-03-22,Referral,United States,Female,25-34,Unsubscribed
+SUB0473,First473,Last473,user473@email.com,2023-10-23,Checkout,United States,Female,25-34,Active
+SUB0474,First474,Last474,user474@email.com,2023-11-10,Checkout,United States,Female,35-44,Active
+SUB0475,First475,Last475,user475@email.com,2023-10-20,Website Popup,United States,Male,18-24,Active
+SUB0476,First476,Last476,user476@email.com,2024-02-26,Website Popup,United States,Male,25-34,Bounced
+SUB0477,First477,Last477,user477@email.com,2024-05-12,Website Popup,United States,Female,18-24,Active
+SUB0478,First478,Last478,user478@email.com,2024-06-13,Social Media,United Kingdom,Male,25-34,Active
+SUB0479,First479,Last479,user479@email.com,2024-06-16,Website Popup,United States,Female,25-34,Active
+SUB0480,First480,Last480,user480@email.com,2024-02-10,Blog,United Kingdom,Female,35-44,Unsubscribed
+SUB0481,First481,Last481,user481@email.com,2023-08-30,Website Popup,United States,Female,35-44,Active
+SUB0482,First482,Last482,user482@email.com,2024-04-28,Checkout,United States,Female,25-34,Active
+SUB0483,First483,Last483,user483@email.com,2023-10-17,Checkout,United States,Female,25-34,Active
+SUB0484,First484,Last484,user484@email.com,2024-04-05,Referral,United States,Male,45-54,Active
+SUB0485,First485,Last485,user485@email.com,2023-10-09,Checkout,United Kingdom,Female,45-54,Active
+SUB0486,First486,Last486,user486@email.com,2023-09-25,Website Popup,Canada,Male,35-44,Active
+SUB0487,First487,Last487,user487@email.com,2024-06-02,Checkout,United Kingdom,Female,25-34,Active
+SUB0488,First488,Last488,user488@email.com,2024-06-23,Website Popup,United States,Male,35-44,Active
+SUB0489,First489,Last489,user489@email.com,2024-01-17,Blog,Australia,Male,25-34,Active
+SUB0490,First490,Last490,user490@email.com,2024-06-03,Referral,United Kingdom,Male,25-34,Active
+SUB0491,First491,Last491,user491@email.com,2024-06-05,Referral,United States,Female,45-54,Active
+SUB0492,First492,Last492,user492@email.com,2023-07-01,Checkout,United States,Female,35-44,Active
+SUB0493,First493,Last493,user493@email.com,2023-10-26,Website Popup,Canada,Male,35-44,Active
+SUB0494,First494,Last494,user494@email.com,2023-12-17,Blog,Canada,Male,45-54,Active
+SUB0495,First495,Last495,user495@email.com,2024-03-06,Checkout,Canada,Male,45-54,Active
+SUB0496,First496,Last496,user496@email.com,2024-01-07,Referral,Australia,Male,35-44,Active
+SUB0497,First497,Last497,user497@email.com,2024-02-22,Checkout,Australia,Male,35-44,Active
+SUB0498,First498,Last498,user498@email.com,2024-06-03,Blog,United States,Female,35-44,Active
+SUB0499,First499,Last499,user499@email.com,2023-09-23,Website Popup,United States,Female,25-34,Active
+SUB0500,First500,Last500,user500@email.com,2023-10-03,Checkout,United States,Female,35-44,Active
+SUB0501,First501,Last501,user501@email.com,2023-09-27,Website Popup,United Kingdom,Female,25-34,Bounced
+SUB0502,First502,Last502,user502@email.com,2023-09-17,Social Media,United Kingdom,Female,25-34,Active
+SUB0503,First503,Last503,user503@email.com,2023-11-12,Referral,United Kingdom,Male,35-44,Active
+SUB0504,First504,Last504,user504@email.com,2024-03-05,Social Media,Canada,Female,25-34,Active
+SUB0505,First505,Last505,user505@email.com,2023-09-04,Referral,United States,Male,18-24,Unsubscribed
+SUB0506,First506,Last506,user506@email.com,2023-08-18,Checkout,United Kingdom,Male,45-54,Unsubscribed
+SUB0507,First507,Last507,user507@email.com,2024-05-16,Referral,United States,Male,35-44,Active
+SUB0508,First508,Last508,user508@email.com,2024-06-22,Website Popup,United States,Female,45-54,Active
+SUB0509,First509,Last509,user509@email.com,2023-12-30,Social Media,United States,Female,25-34,Active
+SUB0510,First510,Last510,user510@email.com,2023-07-04,Social Media,United States,Female,25-34,Active
+SUB0511,First511,Last511,user511@email.com,2023-11-02,Website Popup,United States,Male,35-44,Active
+SUB0512,First512,Last512,user512@email.com,2023-08-09,Social Media,United States,Female,55+,Active
+SUB0513,First513,Last513,user513@email.com,2024-06-17,Website Popup,United States,Female,35-44,Active
+SUB0514,First514,Last514,user514@email.com,2024-04-17,Blog,Canada,Male,18-24,Active
+SUB0515,First515,Last515,user515@email.com,2024-06-30,Website Popup,United States,Female,25-34,Active
+SUB0516,First516,Last516,user516@email.com,2024-01-22,Referral,United States,Male,25-34,Active
+SUB0517,First517,Last517,user517@email.com,2023-07-23,Blog,United Kingdom,Male,45-54,Unsubscribed
+SUB0518,First518,Last518,user518@email.com,2023-11-13,Blog,Canada,Female,18-24,Active
+SUB0519,First519,Last519,user519@email.com,2023-11-09,Social Media,United Kingdom,Male,45-54,Active
+SUB0520,First520,Last520,user520@email.com,2024-04-26,Checkout,United States,Female,35-44,Active
+SUB0521,First521,Last521,user521@email.com,2023-12-07,Website Popup,Australia,Male,18-24,Active
+SUB0522,First522,Last522,user522@email.com,2024-06-18,Blog,Canada,Male,18-24,Active
+SUB0523,First523,Last523,user523@email.com,2024-04-22,Website Popup,United Kingdom,Female,35-44,Active
+SUB0524,First524,Last524,user524@email.com,2023-11-01,Checkout,United Kingdom,Male,35-44,Active
+SUB0525,First525,Last525,user525@email.com,2023-10-29,Website Popup,United Kingdom,Female,25-34,Active
+SUB0526,First526,Last526,user526@email.com,2023-11-25,Checkout,United States,Female,18-24,Active
+SUB0527,First527,Last527,user527@email.com,2024-04-17,Checkout,United States,Female,35-44,Active
+SUB0528,First528,Last528,user528@email.com,2024-01-06,Checkout,United States,Male,18-24,Unsubscribed
+SUB0529,First529,Last529,user529@email.com,2023-07-29,Checkout,United Kingdom,Male,45-54,Active
+SUB0530,First530,Last530,user530@email.com,2023-08-12,Referral,United States,Male,35-44,Active
+SUB0531,First531,Last531,user531@email.com,2023-09-15,Checkout,United States,Female,45-54,Active
+SUB0532,First532,Last532,user532@email.com,2024-06-19,Social Media,Canada,Female,35-44,Active
+SUB0533,First533,Last533,user533@email.com,2024-01-01,Website Popup,United States,Female,18-24,Active
+SUB0534,First534,Last534,user534@email.com,2023-08-07,Checkout,United States,Female,25-34,Bounced
+SUB0535,First535,Last535,user535@email.com,2023-09-20,Social Media,United States,Female,55+,Active
+SUB0536,First536,Last536,user536@email.com,2023-10-02,Checkout,United Kingdom,Male,25-34,Active
+SUB0537,First537,Last537,user537@email.com,2023-09-10,Referral,United States,Male,35-44,Active
+SUB0538,First538,Last538,user538@email.com,2023-08-26,Website Popup,United States,Male,25-34,Active
+SUB0539,First539,Last539,user539@email.com,2024-03-01,Website Popup,Australia,Male,25-34,Active
+SUB0540,First540,Last540,user540@email.com,2024-03-14,Checkout,United Kingdom,Female,25-34,Active
+SUB0541,First541,Last541,user541@email.com,2023-11-08,Checkout,United States,Male,25-34,Active
+SUB0542,First542,Last542,user542@email.com,2024-03-24,Social Media,United States,Male,18-24,Active
+SUB0543,First543,Last543,user543@email.com,2024-01-29,Referral,United States,Male,18-24,Active
+SUB0544,First544,Last544,user544@email.com,2024-06-10,Checkout,United Kingdom,Female,55+,Active
+SUB0545,First545,Last545,user545@email.com,2023-09-19,Blog,Australia,Female,18-24,Active
+SUB0546,First546,Last546,user546@email.com,2024-03-02,Website Popup,United States,Male,45-54,Active
+SUB0547,First547,Last547,user547@email.com,2023-12-11,Checkout,United Kingdom,Female,18-24,Active
+SUB0548,First548,Last548,user548@email.com,2024-02-02,Social Media,Canada,Female,35-44,Active
+SUB0549,First549,Last549,user549@email.com,2023-12-15,Website Popup,United States,Female,45-54,Active
+SUB0550,First550,Last550,user550@email.com,2024-03-19,Referral,United States,Female,25-34,Active
+SUB0551,First551,Last551,user551@email.com,2024-01-03,Referral,United Kingdom,Male,45-54,Bounced
+SUB0552,First552,Last552,user552@email.com,2023-10-30,Social Media,United States,Male,25-34,Active
+SUB0553,First553,Last553,user553@email.com,2024-05-10,Website Popup,United States,Male,18-24,Active
+SUB0554,First554,Last554,user554@email.com,2024-06-14,Website Popup,United States,Female,35-44,Active
+SUB0555,First555,Last555,user555@email.com,2023-08-16,Website Popup,Canada,Male,25-34,Active
+SUB0556,First556,Last556,user556@email.com,2023-08-07,Blog,United States,Female,25-34,Active
+SUB0557,First557,Last557,user557@email.com,2023-08-14,Checkout,United States,Male,18-24,Active
+SUB0558,First558,Last558,user558@email.com,2023-10-06,Checkout,Australia,Male,25-34,Active
+SUB0559,First559,Last559,user559@email.com,2024-02-09,Checkout,United Kingdom,Female,55+,Active
+SUB0560,First560,Last560,user560@email.com,2023-10-20,Website Popup,United Kingdom,Female,25-34,Unsubscribed
+SUB0561,First561,Last561,user561@email.com,2023-10-28,Social Media,United States,Female,35-44,Active
+SUB0562,First562,Last562,user562@email.com,2023-08-15,Checkout,United States,Female,25-34,Bounced
+SUB0563,First563,Last563,user563@email.com,2024-03-11,Social Media,United Kingdom,Male,25-34,Active
+SUB0564,First564,Last564,user564@email.com,2023-09-04,Referral,United States,Female,45-54,Active
+SUB0565,First565,Last565,user565@email.com,2024-04-05,Website Popup,United States,Female,35-44,Active
+SUB0566,First566,Last566,user566@email.com,2024-05-27,Checkout,United States,Female,18-24,Active
+SUB0567,First567,Last567,user567@email.com,2024-04-04,Checkout,United States,Male,25-34,Unsubscribed
+SUB0568,First568,Last568,user568@email.com,2024-02-19,Checkout,United Kingdom,Male,25-34,Active
+SUB0569,First569,Last569,user569@email.com,2023-10-17,Referral,Canada,Female,35-44,Bounced
+SUB0570,First570,Last570,user570@email.com,2023-09-23,Checkout,United Kingdom,Male,25-34,Active
+SUB0571,First571,Last571,user571@email.com,2023-08-15,Social Media,United States,Female,55+,Active
+SUB0572,First572,Last572,user572@email.com,2024-01-06,Checkout,United Kingdom,Female,18-24,Active
+SUB0573,First573,Last573,user573@email.com,2023-11-18,Blog,Canada,Female,35-44,Active
+SUB0574,First574,Last574,user574@email.com,2023-09-04,Checkout,United States,Male,25-34,Active
+SUB0575,First575,Last575,user575@email.com,2023-08-06,Checkout,United States,Female,55+,Active
+SUB0576,First576,Last576,user576@email.com,2024-02-16,Checkout,United States,Male,35-44,Bounced
+SUB0577,First577,Last577,user577@email.com,2023-11-12,Website Popup,Australia,Male,18-24,Unsubscribed
+SUB0578,First578,Last578,user578@email.com,2023-12-18,Checkout,United States,Male,55+,Unsubscribed
+SUB0579,First579,Last579,user579@email.com,2024-03-25,Social Media,United States,Male,55+,Active
+SUB0580,First580,Last580,user580@email.com,2024-06-20,Website Popup,United States,Female,25-34,Active
+SUB0581,First581,Last581,user581@email.com,2023-08-28,Social Media,United States,Male,18-24,Active
+SUB0582,First582,Last582,user582@email.com,2024-05-20,Website Popup,United States,Female,25-34,Active
+SUB0583,First583,Last583,user583@email.com,2024-01-01,Website Popup,United States,Female,25-34,Active
+SUB0584,First584,Last584,user584@email.com,2023-08-28,Website Popup,United States,Male,18-24,Active
+SUB0585,First585,Last585,user585@email.com,2024-03-15,Website Popup,United Kingdom,Male,25-34,Active
+SUB0586,First586,Last586,user586@email.com,2023-12-09,Website Popup,Australia,Female,25-34,Active
+SUB0587,First587,Last587,user587@email.com,2024-04-21,Website Popup,United States,Female,35-44,Active
+SUB0588,First588,Last588,user588@email.com,2024-01-23,Social Media,United States,Female,25-34,Unsubscribed
+SUB0589,First589,Last589,user589@email.com,2024-02-22,Checkout,United Kingdom,Male,25-34,Unsubscribed
+SUB0590,First590,Last590,user590@email.com,2024-03-07,Website Popup,Australia,Female,18-24,Active
+SUB0591,First591,Last591,user591@email.com,2024-01-05,Referral,United States,Female,35-44,Active
+SUB0592,First592,Last592,user592@email.com,2024-04-03,Website Popup,United Kingdom,Male,18-24,Active
+SUB0593,First593,Last593,user593@email.com,2024-05-19,Social Media,United States,Female,35-44,Active
+SUB0594,First594,Last594,user594@email.com,2023-09-25,Referral,United States,Female,25-34,Active
+SUB0595,First595,Last595,user595@email.com,2024-04-17,Website Popup,United States,Female,25-34,Active
+SUB0596,First596,Last596,user596@email.com,2023-12-03,Social Media,Canada,Female,18-24,Active
+SUB0597,First597,Last597,user597@email.com,2024-06-18,Checkout,United Kingdom,Female,35-44,Unsubscribed
+SUB0598,First598,Last598,user598@email.com,2024-05-08,Website Popup,United States,Female,25-34,Active
+SUB0599,First599,Last599,user599@email.com,2023-10-15,Checkout,United States,Female,55+,Active
+SUB0600,First600,Last600,user600@email.com,2024-03-31,Referral,Australia,Male,18-24,Active
+SUB0601,First601,Last601,user601@email.com,2023-11-25,Website Popup,United Kingdom,Male,18-24,Active
+SUB0602,First602,Last602,user602@email.com,2024-01-14,Checkout,United States,Male,35-44,Active
+SUB0603,First603,Last603,user603@email.com,2024-02-16,Website Popup,United Kingdom,Female,45-54,Active
+SUB0604,First604,Last604,user604@email.com,2023-09-04,Checkout,United Kingdom,Female,25-34,Bounced
+SUB0605,First605,Last605,user605@email.com,2024-06-28,Blog,United States,Male,35-44,Active
+SUB0606,First606,Last606,user606@email.com,2023-07-03,Checkout,United States,Female,25-34,Unsubscribed
+SUB0607,First607,Last607,user607@email.com,2023-12-23,Website Popup,Canada,Male,25-34,Active
+SUB0608,First608,Last608,user608@email.com,2024-05-26,Referral,United States,Female,55+,Active
+SUB0609,First609,Last609,user609@email.com,2024-03-29,Social Media,United States,Female,55+,Unsubscribed
+SUB0610,First610,Last610,user610@email.com,2023-12-27,Website Popup,United States,Female,25-34,Active
+SUB0611,First611,Last611,user611@email.com,2023-12-18,Social Media,United States,Male,35-44,Active
+SUB0612,First612,Last612,user612@email.com,2023-07-09,Website Popup,United Kingdom,Female,18-24,Active
+SUB0613,First613,Last613,user613@email.com,2023-10-10,Referral,United States,Male,35-44,Active
+SUB0614,First614,Last614,user614@email.com,2023-08-29,Checkout,United Kingdom,Male,18-24,Active
+SUB0615,First615,Last615,user615@email.com,2023-10-17,Checkout,Canada,Male,45-54,Active
+SUB0616,First616,Last616,user616@email.com,2024-02-26,Checkout,United States,Male,35-44,Unsubscribed
+SUB0617,First617,Last617,user617@email.com,2023-12-17,Website Popup,Canada,Female,35-44,Active
+SUB0618,First618,Last618,user618@email.com,2024-01-14,Social Media,Australia,Male,35-44,Unsubscribed
+SUB0619,First619,Last619,user619@email.com,2024-06-20,Blog,Canada,Female,18-24,Active
+SUB0620,First620,Last620,user620@email.com,2024-02-16,Checkout,United Kingdom,Male,18-24,Active
+SUB0621,First621,Last621,user621@email.com,2023-11-10,Blog,Australia,Male,18-24,Active
+SUB0622,First622,Last622,user622@email.com,2023-09-23,Website Popup,United States,Female,18-24,Active
+SUB0623,First623,Last623,user623@email.com,2024-02-13,Checkout,Canada,Male,25-34,Active
+SUB0624,First624,Last624,user624@email.com,2024-02-16,Checkout,United States,Male,35-44,Active
+SUB0625,First625,Last625,user625@email.com,2023-12-07,Social Media,United States,Female,25-34,Active
+SUB0626,First626,Last626,user626@email.com,2023-07-07,Referral,United Kingdom,Male,35-44,Active
+SUB0627,First627,Last627,user627@email.com,2024-04-18,Social Media,Canada,Female,35-44,Bounced
+SUB0628,First628,Last628,user628@email.com,2023-10-01,Checkout,United States,Female,25-34,Active
+SUB0629,First629,Last629,user629@email.com,2023-09-10,Website Popup,Australia,Male,18-24,Active
+SUB0630,First630,Last630,user630@email.com,2023-08-17,Referral,United States,Male,18-24,Active
+SUB0631,First631,Last631,user631@email.com,2024-03-28,Website Popup,United States,Male,25-34,Active
+SUB0632,First632,Last632,user632@email.com,2023-09-13,Referral,United States,Female,55+,Active
+SUB0633,First633,Last633,user633@email.com,2024-04-01,Website Popup,United States,Female,25-34,Active
+SUB0634,First634,Last634,user634@email.com,2023-10-15,Website Popup,United Kingdom,Male,55+,Active
+SUB0635,First635,Last635,user635@email.com,2024-05-17,Website Popup,United States,Male,25-34,Active
+SUB0636,First636,Last636,user636@email.com,2024-01-27,Website Popup,United States,Female,35-44,Active
+SUB0637,First637,Last637,user637@email.com,2023-09-30,Website Popup,Canada,Male,35-44,Active
+SUB0638,First638,Last638,user638@email.com,2024-04-13,Checkout,United States,Male,45-54,Active
+SUB0639,First639,Last639,user639@email.com,2024-04-06,Website Popup,Australia,Male,35-44,Unsubscribed
+SUB0640,First640,Last640,user640@email.com,2024-04-11,Website Popup,United States,Female,35-44,Active
+SUB0641,First641,Last641,user641@email.com,2024-04-22,Checkout,United Kingdom,Female,35-44,Active
+SUB0642,First642,Last642,user642@email.com,2023-11-13,Checkout,Canada,Male,35-44,Active
+SUB0643,First643,Last643,user643@email.com,2024-01-15,Social Media,United States,Female,25-34,Active
+SUB0644,First644,Last644,user644@email.com,2024-04-02,Website Popup,Canada,Male,18-24,Bounced
+SUB0645,First645,Last645,user645@email.com,2023-11-01,Social Media,United States,Female,35-44,Active
+SUB0646,First646,Last646,user646@email.com,2023-07-03,Social Media,United States,Male,25-34,Active
+SUB0647,First647,Last647,user647@email.com,2023-12-24,Website Popup,Canada,Female,45-54,Active
+SUB0648,First648,Last648,user648@email.com,2024-01-27,Checkout,United States,Female,55+,Active
+SUB0649,First649,Last649,user649@email.com,2023-10-02,Social Media,United States,Male,18-24,Active
+SUB0650,First650,Last650,user650@email.com,2024-02-26,Website Popup,United States,Female,35-44,Active
+SUB0651,First651,Last651,user651@email.com,2024-06-08,Checkout,United States,Male,35-44,Active
+SUB0652,First652,Last652,user652@email.com,2023-10-22,Checkout,United States,Female,18-24,Active
+SUB0653,First653,Last653,user653@email.com,2023-10-23,Checkout,United States,Male,35-44,Active
+SUB0654,First654,Last654,user654@email.com,2023-12-02,Social Media,United States,Male,35-44,Active
+SUB0655,First655,Last655,user655@email.com,2024-04-02,Website Popup,Canada,Male,25-34,Active
+SUB0656,First656,Last656,user656@email.com,2023-12-26,Website Popup,United Kingdom,Male,55+,Bounced
+SUB0657,First657,Last657,user657@email.com,2024-04-24,Checkout,United States,Male,35-44,Active
+SUB0658,First658,Last658,user658@email.com,2024-05-03,Website Popup,Australia,Female,55+,Active
+SUB0659,First659,Last659,user659@email.com,2023-08-21,Website Popup,Australia,Female,45-54,Active
+SUB0660,First660,Last660,user660@email.com,2024-01-04,Website Popup,United Kingdom,Male,25-34,Active
+SUB0661,First661,Last661,user661@email.com,2024-06-17,Referral,United States,Female,25-34,Active
+SUB0662,First662,Last662,user662@email.com,2023-12-12,Website Popup,United Kingdom,Male,45-54,Active
+SUB0663,First663,Last663,user663@email.com,2024-01-07,Blog,Canada,Female,18-24,Active
+SUB0664,First664,Last664,user664@email.com,2024-01-03,Website Popup,Australia,Male,55+,Active
+SUB0665,First665,Last665,user665@email.com,2023-12-11,Website Popup,United Kingdom,Male,25-34,Active
+SUB0666,First666,Last666,user666@email.com,2024-03-25,Referral,United Kingdom,Female,35-44,Unsubscribed
+SUB0667,First667,Last667,user667@email.com,2024-05-09,Checkout,United States,Male,25-34,Unsubscribed
+SUB0668,First668,Last668,user668@email.com,2024-01-21,Checkout,Australia,Male,25-34,Active
+SUB0669,First669,Last669,user669@email.com,2023-10-01,Website Popup,United Kingdom,Male,35-44,Active
+SUB0670,First670,Last670,user670@email.com,2024-05-17,Checkout,United States,Male,18-24,Active
+SUB0671,First671,Last671,user671@email.com,2024-06-22,Social Media,United Kingdom,Male,18-24,Active
+SUB0672,First672,Last672,user672@email.com,2024-04-14,Checkout,United States,Female,18-24,Active
+SUB0673,First673,Last673,user673@email.com,2023-12-18,Social Media,Canada,Female,45-54,Active
+SUB0674,First674,Last674,user674@email.com,2023-12-24,Social Media,United Kingdom,Male,25-34,Unsubscribed
+SUB0675,First675,Last675,user675@email.com,2023-09-05,Website Popup,Canada,Female,35-44,Active
+SUB0676,First676,Last676,user676@email.com,2024-03-22,Website Popup,United States,Female,18-24,Unsubscribed
+SUB0677,First677,Last677,user677@email.com,2024-04-08,Social Media,United States,Female,25-34,Active
+SUB0678,First678,Last678,user678@email.com,2023-11-10,Referral,United States,Female,35-44,Active
+SUB0679,First679,Last679,user679@email.com,2023-08-12,Checkout,United States,Male,18-24,Active
+SUB0680,First680,Last680,user680@email.com,2023-08-18,Referral,Canada,Male,25-34,Active
+SUB0681,First681,Last681,user681@email.com,2023-12-02,Website Popup,Canada,Male,25-34,Active
+SUB0682,First682,Last682,user682@email.com,2023-12-24,Checkout,United Kingdom,Female,45-54,Active
+SUB0683,First683,Last683,user683@email.com,2023-11-07,Social Media,United States,Female,25-34,Active
+SUB0684,First684,Last684,user684@email.com,2023-10-31,Checkout,United States,Male,55+,Active
+SUB0685,First685,Last685,user685@email.com,2023-12-07,Website Popup,United States,Male,45-54,Active
+SUB0686,First686,Last686,user686@email.com,2023-11-27,Website Popup,United States,Female,25-34,Active
+SUB0687,First687,Last687,user687@email.com,2024-06-07,Social Media,United States,Female,18-24,Active
+SUB0688,First688,Last688,user688@email.com,2024-03-19,Checkout,United States,Female,35-44,Active
+SUB0689,First689,Last689,user689@email.com,2024-01-29,Website Popup,United States,Male,25-34,Active
+SUB0690,First690,Last690,user690@email.com,2024-05-02,Social Media,United States,Male,25-34,Active
+SUB0691,First691,Last691,user691@email.com,2023-07-20,Website Popup,United States,Female,35-44,Active
+SUB0692,First692,Last692,user692@email.com,2024-01-31,Checkout,Canada,Male,25-34,Active
+SUB0693,First693,Last693,user693@email.com,2024-02-08,Checkout,United Kingdom,Male,35-44,Active
+SUB0694,First694,Last694,user694@email.com,2023-09-18,Website Popup,United States,Female,18-24,Active
+SUB0695,First695,Last695,user695@email.com,2024-05-15,Website Popup,Canada,Female,25-34,Bounced
+SUB0696,First696,Last696,user696@email.com,2023-08-03,Checkout,United States,Male,45-54,Active
+SUB0697,First697,Last697,user697@email.com,2023-09-10,Social Media,United Kingdom,Male,35-44,Active
+SUB0698,First698,Last698,user698@email.com,2024-01-03,Checkout,Canada,Female,35-44,Active
+SUB0699,First699,Last699,user699@email.com,2023-09-17,Referral,Canada,Male,25-34,Active
+SUB0700,First700,Last700,user700@email.com,2024-01-04,Checkout,Canada,Male,18-24,Active
+SUB0701,First701,Last701,user701@email.com,2024-04-17,Social Media,Canada,Male,25-34,Active
+SUB0702,First702,Last702,user702@email.com,2023-09-14,Website Popup,United States,Male,18-24,Active
+SUB0703,First703,Last703,user703@email.com,2023-09-01,Referral,United States,Male,25-34,Active
+SUB0704,First704,Last704,user704@email.com,2023-08-21,Referral,United States,Female,25-34,Active
+SUB0705,First705,Last705,user705@email.com,2024-05-20,Checkout,United States,Female,25-34,Active
+SUB0706,First706,Last706,user706@email.com,2023-11-29,Blog,United Kingdom,Female,35-44,Active
+SUB0707,First707,Last707,user707@email.com,2023-11-16,Checkout,United States,Female,35-44,Active
+SUB0708,First708,Last708,user708@email.com,2023-12-12,Website Popup,United States,Female,25-34,Active
+SUB0709,First709,Last709,user709@email.com,2023-10-17,Checkout,United Kingdom,Male,25-34,Active
+SUB0710,First710,Last710,user710@email.com,2023-07-13,Website Popup,Australia,Female,35-44,Active
+SUB0711,First711,Last711,user711@email.com,2023-12-12,Website Popup,Australia,Male,25-34,Active
+SUB0712,First712,Last712,user712@email.com,2024-04-19,Website Popup,United Kingdom,Male,18-24,Unsubscribed
+SUB0713,First713,Last713,user713@email.com,2024-01-19,Blog,United States,Male,25-34,Active
+SUB0714,First714,Last714,user714@email.com,2024-03-20,Website Popup,United States,Male,35-44,Active
+SUB0715,First715,Last715,user715@email.com,2023-07-09,Checkout,United States,Female,35-44,Active
+SUB0716,First716,Last716,user716@email.com,2024-06-19,Checkout,United States,Male,45-54,Active
+SUB0717,First717,Last717,user717@email.com,2023-07-11,Website Popup,United States,Female,55+,Active
+SUB0718,First718,Last718,user718@email.com,2023-11-11,Social Media,United States,Male,18-24,Active
+SUB0719,First719,Last719,user719@email.com,2023-12-16,Checkout,United States,Female,18-24,Active
+SUB0720,First720,Last720,user720@email.com,2023-12-20,Checkout,Canada,Female,45-54,Active
+SUB0721,First721,Last721,user721@email.com,2023-12-14,Checkout,United Kingdom,Male,25-34,Unsubscribed
+SUB0722,First722,Last722,user722@email.com,2024-04-01,Checkout,United States,Female,45-54,Unsubscribed
+SUB0723,First723,Last723,user723@email.com,2023-07-20,Website Popup,United Kingdom,Male,18-24,Active
+SUB0724,First724,Last724,user724@email.com,2024-02-11,Checkout,Canada,Male,45-54,Active
+SUB0725,First725,Last725,user725@email.com,2024-05-19,Website Popup,Canada,Male,25-34,Active
+SUB0726,First726,Last726,user726@email.com,2023-10-24,Website Popup,United Kingdom,Female,18-24,Unsubscribed
+SUB0727,First727,Last727,user727@email.com,2024-02-21,Social Media,United Kingdom,Female,18-24,Bounced
+SUB0728,First728,Last728,user728@email.com,2024-05-30,Website Popup,United Kingdom,Male,25-34,Active
+SUB0729,First729,Last729,user729@email.com,2024-01-18,Checkout,United Kingdom,Male,18-24,Unsubscribed
+SUB0730,First730,Last730,user730@email.com,2024-06-16,Checkout,United States,Female,18-24,Active
+SUB0731,First731,Last731,user731@email.com,2023-10-15,Website Popup,Canada,Male,25-34,Active
+SUB0732,First732,Last732,user732@email.com,2024-05-07,Social Media,United States,Female,25-34,Active
+SUB0733,First733,Last733,user733@email.com,2024-04-06,Social Media,Canada,Male,25-34,Active
+SUB0734,First734,Last734,user734@email.com,2024-06-09,Referral,United Kingdom,Female,18-24,Unsubscribed
+SUB0735,First735,Last735,user735@email.com,2024-02-28,Social Media,United States,Male,25-34,Active
+SUB0736,First736,Last736,user736@email.com,2023-11-26,Social Media,United Kingdom,Male,25-34,Active
+SUB0737,First737,Last737,user737@email.com,2023-08-26,Referral,United Kingdom,Female,25-34,Active
+SUB0738,First738,Last738,user738@email.com,2023-10-29,Checkout,Canada,Female,45-54,Active
+SUB0739,First739,Last739,user739@email.com,2024-04-25,Social Media,United Kingdom,Male,25-34,Unsubscribed
+SUB0740,First740,Last740,user740@email.com,2023-07-26,Website Popup,United States,Female,45-54,Active
+SUB0741,First741,Last741,user741@email.com,2023-07-23,Checkout,United States,Male,45-54,Active
+SUB0742,First742,Last742,user742@email.com,2024-02-17,Website Popup,Canada,Female,25-34,Active
+SUB0743,First743,Last743,user743@email.com,2023-10-21,Social Media,Canada,Male,55+,Active
+SUB0744,First744,Last744,user744@email.com,2023-08-11,Website Popup,United States,Male,25-34,Unsubscribed
+SUB0745,First745,Last745,user745@email.com,2024-01-15,Social Media,United States,Female,25-34,Active
+SUB0746,First746,Last746,user746@email.com,2023-09-29,Website Popup,United Kingdom,Female,25-34,Active
+SUB0747,First747,Last747,user747@email.com,2023-07-02,Social Media,United States,Female,25-34,Active
+SUB0748,First748,Last748,user748@email.com,2023-09-06,Referral,United States,Female,45-54,Unsubscribed
+SUB0749,First749,Last749,user749@email.com,2023-10-25,Social Media,United Kingdom,Male,18-24,Active
+SUB0750,First750,Last750,user750@email.com,2023-07-10,Checkout,United States,Male,35-44,Active
+SUB0751,First751,Last751,user751@email.com,2023-12-23,Checkout,United States,Male,18-24,Active
+SUB0752,First752,Last752,user752@email.com,2024-03-29,Website Popup,United Kingdom,Female,55+,Active
+SUB0753,First753,Last753,user753@email.com,2023-12-27,Website Popup,Australia,Male,25-34,Unsubscribed
+SUB0754,First754,Last754,user754@email.com,2024-01-03,Social Media,United States,Male,35-44,Unsubscribed
+SUB0755,First755,Last755,user755@email.com,2024-05-01,Checkout,Canada,Male,25-34,Active
+SUB0756,First756,Last756,user756@email.com,2023-07-11,Website Popup,United Kingdom,Male,35-44,Active
+SUB0757,First757,Last757,user757@email.com,2023-11-17,Social Media,Australia,Male,18-24,Bounced
+SUB0758,First758,Last758,user758@email.com,2023-11-01,Social Media,United Kingdom,Female,25-34,Active
+SUB0759,First759,Last759,user759@email.com,2024-01-29,Social Media,United Kingdom,Female,35-44,Unsubscribed
+SUB0760,First760,Last760,user760@email.com,2024-01-14,Checkout,United Kingdom,Male,45-54,Active
+SUB0761,First761,Last761,user761@email.com,2024-04-07,Website Popup,Australia,Male,18-24,Active
+SUB0762,First762,Last762,user762@email.com,2024-03-12,Website Popup,Canada,Female,18-24,Active
+SUB0763,First763,Last763,user763@email.com,2024-02-19,Social Media,Canada,Female,25-34,Active
+SUB0764,First764,Last764,user764@email.com,2024-03-26,Social Media,United Kingdom,Male,55+,Active
+SUB0765,First765,Last765,user765@email.com,2023-09-12,Website Popup,United States,Female,25-34,Active
+SUB0766,First766,Last766,user766@email.com,2024-02-09,Website Popup,Canada,Female,35-44,Active
+SUB0767,First767,Last767,user767@email.com,2023-09-10,Website Popup,Canada,Male,35-44,Active
+SUB0768,First768,Last768,user768@email.com,2024-01-21,Website Popup,United States,Female,55+,Active
+SUB0769,First769,Last769,user769@email.com,2024-02-23,Checkout,United States,Male,25-34,Active
+SUB0770,First770,Last770,user770@email.com,2024-06-03,Website Popup,Australia,Female,25-34,Bounced
+SUB0771,First771,Last771,user771@email.com,2023-12-11,Checkout,United States,Female,18-24,Active
+SUB0772,First772,Last772,user772@email.com,2023-07-29,Website Popup,Australia,Female,35-44,Unsubscribed
+SUB0773,First773,Last773,user773@email.com,2023-11-30,Social Media,United States,Female,25-34,Active
+SUB0774,First774,Last774,user774@email.com,2024-04-23,Checkout,United Kingdom,Female,35-44,Active
+SUB0775,First775,Last775,user775@email.com,2023-11-30,Checkout,United States,Male,25-34,Active
+SUB0776,First776,Last776,user776@email.com,2023-07-12,Website Popup,United States,Female,25-34,Active
+SUB0777,First777,Last777,user777@email.com,2024-01-22,Website Popup,United Kingdom,Male,25-34,Bounced
+SUB0778,First778,Last778,user778@email.com,2023-12-24,Website Popup,United Kingdom,Male,25-34,Active
+SUB0779,First779,Last779,user779@email.com,2024-06-09,Social Media,United Kingdom,Male,55+,Active
+SUB0780,First780,Last780,user780@email.com,2024-02-18,Checkout,Canada,Male,45-54,Active
+SUB0781,First781,Last781,user781@email.com,2024-04-08,Website Popup,Australia,Female,45-54,Active
+SUB0782,First782,Last782,user782@email.com,2023-11-16,Referral,United Kingdom,Female,35-44,Active
+SUB0783,First783,Last783,user783@email.com,2024-01-13,Blog,United States,Female,55+,Active
+SUB0784,First784,Last784,user784@email.com,2023-10-23,Social Media,United Kingdom,Male,35-44,Active
+SUB0785,First785,Last785,user785@email.com,2024-05-27,Checkout,Canada,Female,55+,Active
+SUB0786,First786,Last786,user786@email.com,2023-08-15,Referral,United Kingdom,Female,35-44,Active
+SUB0787,First787,Last787,user787@email.com,2023-11-09,Checkout,United States,Female,25-34,Active
+SUB0788,First788,Last788,user788@email.com,2024-05-10,Checkout,United Kingdom,Female,25-34,Active
+SUB0789,First789,Last789,user789@email.com,2023-08-07,Social Media,United States,Female,35-44,Active
+SUB0790,First790,Last790,user790@email.com,2024-02-29,Checkout,United States,Male,55+,Active
+SUB0791,First791,Last791,user791@email.com,2023-10-23,Social Media,United States,Male,18-24,Active
+SUB0792,First792,Last792,user792@email.com,2024-04-04,Website Popup,Canada,Female,35-44,Unsubscribed
+SUB0793,First793,Last793,user793@email.com,2024-05-12,Website Popup,United Kingdom,Female,18-24,Active
+SUB0794,First794,Last794,user794@email.com,2023-08-27,Referral,United Kingdom,Male,25-34,Active
+SUB0795,First795,Last795,user795@email.com,2024-01-13,Social Media,United States,Male,35-44,Active
+SUB0796,First796,Last796,user796@email.com,2024-04-09,Social Media,Canada,Male,35-44,Active
+SUB0797,First797,Last797,user797@email.com,2023-07-10,Social Media,Canada,Female,35-44,Bounced
+SUB0798,First798,Last798,user798@email.com,2023-11-29,Website Popup,United States,Female,25-34,Active
+SUB0799,First799,Last799,user799@email.com,2023-12-09,Referral,United Kingdom,Male,18-24,Active
+SUB0800,First800,Last800,user800@email.com,2023-11-07,Referral,United Kingdom,Male,25-34,Active
+SUB0801,First801,Last801,user801@email.com,2023-12-27,Referral,Canada,Female,35-44,Active
+SUB0802,First802,Last802,user802@email.com,2023-10-04,Website Popup,United States,Male,45-54,Active
+SUB0803,First803,Last803,user803@email.com,2024-06-04,Website Popup,United States,Male,25-34,Active
+SUB0804,First804,Last804,user804@email.com,2023-12-04,Website Popup,United States,Male,25-34,Active
+SUB0805,First805,Last805,user805@email.com,2024-04-22,Checkout,United Kingdom,Female,25-34,Active
+SUB0806,First806,Last806,user806@email.com,2024-01-26,Blog,United Kingdom,Female,25-34,Active
+SUB0807,First807,Last807,user807@email.com,2024-02-05,Checkout,United States,Male,25-34,Active
+SUB0808,First808,Last808,user808@email.com,2023-12-15,Checkout,United States,Female,25-34,Active
+SUB0809,First809,Last809,user809@email.com,2024-04-23,Social Media,United Kingdom,Female,35-44,Active
+SUB0810,First810,Last810,user810@email.com,2024-04-18,Website Popup,Australia,Male,25-34,Active
+SUB0811,First811,Last811,user811@email.com,2024-03-10,Website Popup,United Kingdom,Female,45-54,Bounced
+SUB0812,First812,Last812,user812@email.com,2023-08-27,Blog,Australia,Female,35-44,Active
+SUB0813,First813,Last813,user813@email.com,2023-08-09,Social Media,United States,Male,25-34,Active
+SUB0814,First814,Last814,user814@email.com,2023-12-16,Referral,Australia,Male,25-34,Active
+SUB0815,First815,Last815,user815@email.com,2024-02-06,Checkout,United States,Male,25-34,Active
+SUB0816,First816,Last816,user816@email.com,2023-07-04,Social Media,United Kingdom,Male,25-34,Active
+SUB0817,First817,Last817,user817@email.com,2024-03-26,Blog,United Kingdom,Female,18-24,Active
+SUB0818,First818,Last818,user818@email.com,2024-01-30,Checkout,United States,Male,25-34,Active
+SUB0819,First819,Last819,user819@email.com,2023-09-04,Website Popup,United States,Female,25-34,Active
+SUB0820,First820,Last820,user820@email.com,2024-03-23,Blog,Canada,Female,45-54,Active
+SUB0821,First821,Last821,user821@email.com,2024-05-08,Blog,Australia,Female,25-34,Active
+SUB0822,First822,Last822,user822@email.com,2023-09-15,Website Popup,Canada,Male,35-44,Active
+SUB0823,First823,Last823,user823@email.com,2024-02-17,Checkout,United States,Female,25-34,Active
+SUB0824,First824,Last824,user824@email.com,2023-08-17,Website Popup,United States,Female,25-34,Active
+SUB0825,First825,Last825,user825@email.com,2023-10-19,Social Media,United Kingdom,Female,18-24,Active
+SUB0826,First826,Last826,user826@email.com,2023-09-13,Website Popup,United States,Female,25-34,Active
+SUB0827,First827,Last827,user827@email.com,2023-12-07,Checkout,United States,Male,18-24,Bounced
+SUB0828,First828,Last828,user828@email.com,2024-04-30,Website Popup,United States,Female,35-44,Active
+SUB0829,First829,Last829,user829@email.com,2024-05-19,Website Popup,United States,Male,25-34,Active
+SUB0830,First830,Last830,user830@email.com,2024-05-29,Checkout,United States,Female,55+,Active
+SUB0831,First831,Last831,user831@email.com,2024-01-29,Website Popup,United States,Male,18-24,Active
+SUB0832,First832,Last832,user832@email.com,2023-12-23,Checkout,United States,Male,25-34,Active
+SUB0833,First833,Last833,user833@email.com,2023-09-17,Social Media,United States,Male,25-34,Active
+SUB0834,First834,Last834,user834@email.com,2024-03-28,Social Media,Canada,Male,25-34,Active
+SUB0835,First835,Last835,user835@email.com,2023-09-05,Checkout,United States,Male,25-34,Active
+SUB0836,First836,Last836,user836@email.com,2024-06-19,Checkout,United Kingdom,Female,35-44,Unsubscribed
+SUB0837,First837,Last837,user837@email.com,2024-06-23,Website Popup,Canada,Male,45-54,Bounced
+SUB0838,First838,Last838,user838@email.com,2024-06-17,Checkout,United States,Female,25-34,Active
+SUB0839,First839,Last839,user839@email.com,2023-11-25,Website Popup,Canada,Male,35-44,Active
+SUB0840,First840,Last840,user840@email.com,2023-10-04,Checkout,Canada,Female,55+,Active
+SUB0841,First841,Last841,user841@email.com,2023-08-05,Checkout,United States,Female,25-34,Bounced
+SUB0842,First842,Last842,user842@email.com,2023-10-05,Social Media,United States,Male,25-34,Active
+SUB0843,First843,Last843,user843@email.com,2023-11-21,Referral,United States,Female,35-44,Active
+SUB0844,First844,Last844,user844@email.com,2023-12-07,Website Popup,United States,Female,25-34,Active
+SUB0845,First845,Last845,user845@email.com,2024-04-06,Social Media,United Kingdom,Male,25-34,Active
+SUB0846,First846,Last846,user846@email.com,2023-12-21,Website Popup,United Kingdom,Male,25-34,Active
+SUB0847,First847,Last847,user847@email.com,2024-06-05,Social Media,Canada,Male,45-54,Active
+SUB0848,First848,Last848,user848@email.com,2024-06-21,Website Popup,United States,Female,35-44,Active
+SUB0849,First849,Last849,user849@email.com,2024-04-24,Checkout,Australia,Male,25-34,Bounced
+SUB0850,First850,Last850,user850@email.com,2023-09-19,Checkout,United Kingdom,Male,18-24,Active
+SUB0851,First851,Last851,user851@email.com,2024-05-30,Referral,Australia,Male,25-34,Bounced
+SUB0852,First852,Last852,user852@email.com,2024-06-02,Referral,United States,Female,35-44,Active
+SUB0853,First853,Last853,user853@email.com,2023-11-04,Blog,Canada,Female,18-24,Unsubscribed
+SUB0854,First854,Last854,user854@email.com,2023-10-23,Website Popup,United States,Male,55+,Active
+SUB0855,First855,Last855,user855@email.com,2023-12-03,Website Popup,United States,Female,25-34,Unsubscribed
+SUB0856,First856,Last856,user856@email.com,2024-03-15,Social Media,United States,Female,55+,Active
+SUB0857,First857,Last857,user857@email.com,2024-04-21,Website Popup,United States,Female,25-34,Active
+SUB0858,First858,Last858,user858@email.com,2024-03-13,Referral,Canada,Male,35-44,Active
+SUB0859,First859,Last859,user859@email.com,2024-05-09,Social Media,United Kingdom,Male,25-34,Unsubscribed
+SUB0860,First860,Last860,user860@email.com,2024-01-12,Website Popup,United States,Male,25-34,Active
+SUB0861,First861,Last861,user861@email.com,2023-09-27,Social Media,United Kingdom,Female,18-24,Active
+SUB0862,First862,Last862,user862@email.com,2024-02-29,Website Popup,Canada,Female,35-44,Active
+SUB0863,First863,Last863,user863@email.com,2024-06-21,Website Popup,United States,Female,55+,Active
+SUB0864,First864,Last864,user864@email.com,2023-08-03,Social Media,Australia,Female,45-54,Active
+SUB0865,First865,Last865,user865@email.com,2023-08-22,Website Popup,United States,Female,18-24,Active
+SUB0866,First866,Last866,user866@email.com,2023-10-15,Website Popup,United Kingdom,Female,18-24,Unsubscribed
+SUB0867,First867,Last867,user867@email.com,2024-04-20,Website Popup,Australia,Female,35-44,Active
+SUB0868,First868,Last868,user868@email.com,2023-11-06,Checkout,United States,Male,45-54,Active
+SUB0869,First869,Last869,user869@email.com,2024-01-10,Website Popup,Australia,Male,25-34,Active
+SUB0870,First870,Last870,user870@email.com,2023-12-17,Checkout,United States,Male,35-44,Active
+SUB0871,First871,Last871,user871@email.com,2023-11-29,Website Popup,Canada,Female,35-44,Active
+SUB0872,First872,Last872,user872@email.com,2023-10-30,Referral,United States,Male,55+,Active
+SUB0873,First873,Last873,user873@email.com,2024-06-26,Checkout,United Kingdom,Female,18-24,Active
+SUB0874,First874,Last874,user874@email.com,2024-03-04,Referral,Canada,Male,45-54,Active
+SUB0875,First875,Last875,user875@email.com,2024-01-16,Website Popup,Canada,Male,55+,Active
+SUB0876,First876,Last876,user876@email.com,2023-12-28,Checkout,United States,Male,35-44,Active
+SUB0877,First877,Last877,user877@email.com,2023-07-19,Website Popup,United States,Female,18-24,Unsubscribed
+SUB0878,First878,Last878,user878@email.com,2024-05-11,Social Media,United States,Female,35-44,Active
+SUB0879,First879,Last879,user879@email.com,2024-01-23,Social Media,United States,Female,25-34,Active
+SUB0880,First880,Last880,user880@email.com,2023-10-15,Website Popup,United States,Male,25-34,Bounced
+SUB0881,First881,Last881,user881@email.com,2024-03-23,Checkout,United States,Female,35-44,Active
+SUB0882,First882,Last882,user882@email.com,2023-12-26,Checkout,United States,Female,35-44,Active
+SUB0883,First883,Last883,user883@email.com,2024-03-28,Website Popup,United Kingdom,Female,45-54,Active
+SUB0884,First884,Last884,user884@email.com,2024-04-04,Social Media,United States,Male,25-34,Active
+SUB0885,First885,Last885,user885@email.com,2024-04-03,Website Popup,United Kingdom,Female,35-44,Active
+SUB0886,First886,Last886,user886@email.com,2023-10-03,Checkout,United States,Male,35-44,Active
+SUB0887,First887,Last887,user887@email.com,2023-09-11,Checkout,United States,Male,18-24,Active
+SUB0888,First888,Last888,user888@email.com,2024-04-14,Social Media,United States,Male,25-34,Active
+SUB0889,First889,Last889,user889@email.com,2024-05-21,Website Popup,United Kingdom,Female,35-44,Active
+SUB0890,First890,Last890,user890@email.com,2024-02-12,Checkout,United Kingdom,Male,25-34,Active
+SUB0891,First891,Last891,user891@email.com,2024-02-04,Blog,United States,Female,35-44,Active
+SUB0892,First892,Last892,user892@email.com,2023-10-18,Website Popup,United States,Female,25-34,Active
+SUB0893,First893,Last893,user893@email.com,2024-01-24,Checkout,United Kingdom,Male,25-34,Active
+SUB0894,First894,Last894,user894@email.com,2024-04-17,Website Popup,United States,Female,45-54,Active
+SUB0895,First895,Last895,user895@email.com,2024-05-26,Blog,United States,Female,35-44,Active
+SUB0896,First896,Last896,user896@email.com,2023-09-25,Checkout,United States,Female,25-34,Active
+SUB0897,First897,Last897,user897@email.com,2023-10-31,Website Popup,Canada,Female,25-34,Active
+SUB0898,First898,Last898,user898@email.com,2023-10-03,Checkout,Australia,Male,25-34,Active
+SUB0899,First899,Last899,user899@email.com,2024-01-02,Checkout,United States,Male,25-34,Active
+SUB0900,First900,Last900,user900@email.com,2024-02-27,Checkout,United Kingdom,Male,18-24,Active
+SUB0901,First901,Last901,user901@email.com,2024-03-26,Website Popup,United Kingdom,Female,35-44,Active
+SUB0902,First902,Last902,user902@email.com,2023-10-07,Website Popup,United States,Female,45-54,Active
+SUB0903,First903,Last903,user903@email.com,2023-09-09,Website Popup,United States,Male,25-34,Bounced
+SUB0904,First904,Last904,user904@email.com,2023-10-27,Blog,United States,Female,35-44,Active
+SUB0905,First905,Last905,user905@email.com,2023-10-20,Referral,United States,Male,18-24,Active
+SUB0906,First906,Last906,user906@email.com,2023-09-11,Checkout,Australia,Male,25-34,Unsubscribed
+SUB0907,First907,Last907,user907@email.com,2023-09-19,Social Media,United States,Male,35-44,Active
+SUB0908,First908,Last908,user908@email.com,2023-08-12,Referral,United Kingdom,Male,18-24,Active
+SUB0909,First909,Last909,user909@email.com,2023-08-30,Checkout,United States,Male,18-24,Active
+SUB0910,First910,Last910,user910@email.com,2023-10-31,Referral,Australia,Female,25-34,Active
+SUB0911,First911,Last911,user911@email.com,2023-09-16,Website Popup,United States,Male,35-44,Active
+SUB0912,First912,Last912,user912@email.com,2023-09-25,Checkout,United Kingdom,Female,45-54,Unsubscribed
+SUB0913,First913,Last913,user913@email.com,2023-08-26,Blog,Canada,Male,25-34,Active
+SUB0914,First914,Last914,user914@email.com,2023-11-21,Website Popup,United States,Female,35-44,Active
+SUB0915,First915,Last915,user915@email.com,2024-03-10,Checkout,United States,Female,25-34,Active
+SUB0916,First916,Last916,user916@email.com,2023-08-19,Checkout,United States,Male,35-44,Active
+SUB0917,First917,Last917,user917@email.com,2024-05-10,Website Popup,United Kingdom,Male,25-34,Unsubscribed
+SUB0918,First918,Last918,user918@email.com,2023-07-06,Social Media,United Kingdom,Female,18-24,Active
+SUB0919,First919,Last919,user919@email.com,2023-07-22,Website Popup,United Kingdom,Female,35-44,Active
+SUB0920,First920,Last920,user920@email.com,2023-11-20,Website Popup,United States,Male,45-54,Active
+SUB0921,First921,Last921,user921@email.com,2023-08-28,Checkout,United States,Male,55+,Active
+SUB0922,First922,Last922,user922@email.com,2024-04-15,Blog,United States,Female,55+,Active
+SUB0923,First923,Last923,user923@email.com,2023-11-24,Social Media,United Kingdom,Female,55+,Active
+SUB0924,First924,Last924,user924@email.com,2023-08-10,Website Popup,United Kingdom,Female,45-54,Active
+SUB0925,First925,Last925,user925@email.com,2023-12-08,Social Media,United Kingdom,Male,35-44,Active
+SUB0926,First926,Last926,user926@email.com,2023-09-02,Website Popup,United States,Male,25-34,Active
+SUB0927,First927,Last927,user927@email.com,2023-10-05,Website Popup,Canada,Female,55+,Bounced
+SUB0928,First928,Last928,user928@email.com,2023-11-03,Checkout,Australia,Male,25-34,Active
+SUB0929,First929,Last929,user929@email.com,2023-12-10,Blog,United Kingdom,Female,18-24,Active
+SUB0930,First930,Last930,user930@email.com,2024-04-18,Social Media,United States,Female,45-54,Bounced
+SUB0931,First931,Last931,user931@email.com,2024-03-25,Social Media,United States,Male,45-54,Active
+SUB0932,First932,Last932,user932@email.com,2024-03-17,Website Popup,United States,Female,45-54,Active
+SUB0933,First933,Last933,user933@email.com,2023-08-11,Website Popup,United States,Female,25-34,Active
+SUB0934,First934,Last934,user934@email.com,2023-07-12,Blog,United States,Male,18-24,Active
+SUB0935,First935,Last935,user935@email.com,2024-05-09,Website Popup,United States,Male,35-44,Active
+SUB0936,First936,Last936,user936@email.com,2023-12-26,Checkout,United States,Female,25-34,Unsubscribed
+SUB0937,First937,Last937,user937@email.com,2023-10-19,Website Popup,United States,Male,25-34,Active
+SUB0938,First938,Last938,user938@email.com,2024-04-09,Website Popup,Canada,Male,18-24,Active
+SUB0939,First939,Last939,user939@email.com,2024-02-07,Website Popup,United States,Female,25-34,Active
+SUB0940,First940,Last940,user940@email.com,2024-02-25,Website Popup,United Kingdom,Male,25-34,Active
+SUB0941,First941,Last941,user941@email.com,2024-06-30,Website Popup,United States,Female,35-44,Active
+SUB0942,First942,Last942,user942@email.com,2024-01-20,Website Popup,United States,Male,35-44,Active
+SUB0943,First943,Last943,user943@email.com,2023-12-14,Social Media,United Kingdom,Male,25-34,Active
+SUB0944,First944,Last944,user944@email.com,2024-02-18,Social Media,Australia,Male,25-34,Active
+SUB0945,First945,Last945,user945@email.com,2024-03-27,Website Popup,United States,Female,25-34,Unsubscribed
+SUB0946,First946,Last946,user946@email.com,2024-01-11,Social Media,United Kingdom,Male,25-34,Active
+SUB0947,First947,Last947,user947@email.com,2023-07-12,Checkout,Australia,Female,45-54,Unsubscribed
+SUB0948,First948,Last948,user948@email.com,2023-10-09,Website Popup,Canada,Male,25-34,Active
+SUB0949,First949,Last949,user949@email.com,2024-04-28,Checkout,United States,Female,35-44,Active
+SUB0950,First950,Last950,user950@email.com,2023-10-14,Social Media,Canada,Male,18-24,Bounced
+SUB0951,First951,Last951,user951@email.com,2024-03-07,Referral,Australia,Female,45-54,Active
+SUB0952,First952,Last952,user952@email.com,2023-10-01,Social Media,United Kingdom,Female,35-44,Active
+SUB0953,First953,Last953,user953@email.com,2023-08-01,Social Media,Australia,Male,18-24,Unsubscribed
+SUB0954,First954,Last954,user954@email.com,2024-06-05,Checkout,United States,Male,35-44,Active
+SUB0955,First955,Last955,user955@email.com,2024-03-23,Website Popup,United States,Male,35-44,Active
+SUB0956,First956,Last956,user956@email.com,2023-10-21,Checkout,Australia,Female,25-34,Active
+SUB0957,First957,Last957,user957@email.com,2023-09-13,Referral,United States,Female,55+,Unsubscribed
+SUB0958,First958,Last958,user958@email.com,2024-02-18,Checkout,United States,Male,35-44,Active
+SUB0959,First959,Last959,user959@email.com,2024-03-27,Checkout,United States,Female,18-24,Active
+SUB0960,First960,Last960,user960@email.com,2023-09-28,Website Popup,United States,Female,18-24,Active
+SUB0961,First961,Last961,user961@email.com,2023-08-17,Website Popup,United States,Male,55+,Bounced
+SUB0962,First962,Last962,user962@email.com,2024-02-05,Website Popup,Australia,Female,45-54,Active
+SUB0963,First963,Last963,user963@email.com,2023-12-28,Referral,Canada,Male,25-34,Active
+SUB0964,First964,Last964,user964@email.com,2024-01-25,Social Media,United States,Female,35-44,Bounced
+SUB0965,First965,Last965,user965@email.com,2023-08-15,Social Media,Canada,Male,55+,Active
+SUB0966,First966,Last966,user966@email.com,2023-07-06,Checkout,United Kingdom,Female,35-44,Active
+SUB0967,First967,Last967,user967@email.com,2023-08-21,Social Media,United Kingdom,Female,25-34,Active
+SUB0968,First968,Last968,user968@email.com,2023-09-06,Referral,United Kingdom,Female,35-44,Active
+SUB0969,First969,Last969,user969@email.com,2024-03-28,Checkout,United Kingdom,Female,25-34,Active
+SUB0970,First970,Last970,user970@email.com,2023-10-16,Checkout,United States,Male,45-54,Active
+SUB0971,First971,Last971,user971@email.com,2023-12-24,Social Media,Australia,Female,55+,Active
+SUB0972,First972,Last972,user972@email.com,2023-08-05,Website Popup,Canada,Female,18-24,Active
+SUB0973,First973,Last973,user973@email.com,2023-12-04,Social Media,United Kingdom,Male,25-34,Bounced
+SUB0974,First974,Last974,user974@email.com,2024-02-11,Website Popup,United States,Female,35-44,Active
+SUB0975,First975,Last975,user975@email.com,2023-09-13,Social Media,United States,Male,45-54,Active
+SUB0976,First976,Last976,user976@email.com,2023-12-27,Checkout,United States,Female,35-44,Active
+SUB0977,First977,Last977,user977@email.com,2024-02-01,Referral,United States,Male,18-24,Active
+SUB0978,First978,Last978,user978@email.com,2024-03-15,Checkout,United States,Female,35-44,Active
+SUB0979,First979,Last979,user979@email.com,2024-01-12,Website Popup,United Kingdom,Female,25-34,Active
+SUB0980,First980,Last980,user980@email.com,2023-09-09,Website Popup,United Kingdom,Male,35-44,Active
+SUB0981,First981,Last981,user981@email.com,2023-08-09,Checkout,United States,Female,55+,Active
+SUB0982,First982,Last982,user982@email.com,2023-07-02,Blog,United States,Female,45-54,Active
+SUB0983,First983,Last983,user983@email.com,2024-04-02,Checkout,Canada,Female,35-44,Active
+SUB0984,First984,Last984,user984@email.com,2024-04-06,Website Popup,United Kingdom,Female,25-34,Active
+SUB0985,First985,Last985,user985@email.com,2023-11-05,Website Popup,United States,Female,18-24,Active
+SUB0986,First986,Last986,user986@email.com,2023-10-10,Checkout,United States,Male,35-44,Bounced
+SUB0987,First987,Last987,user987@email.com,2024-03-08,Checkout,United States,Female,18-24,Active
+SUB0988,First988,Last988,user988@email.com,2023-12-18,Checkout,United States,Male,18-24,Active
+SUB0989,First989,Last989,user989@email.com,2024-02-23,Social Media,United States,Female,25-34,Active
+SUB0990,First990,Last990,user990@email.com,2023-08-30,Blog,United States,Female,25-34,Active
+SUB0991,First991,Last991,user991@email.com,2023-09-26,Referral,Australia,Female,25-34,Active
+SUB0992,First992,Last992,user992@email.com,2023-10-21,Website Popup,United States,Male,35-44,Active
+SUB0993,First993,Last993,user993@email.com,2024-02-03,Social Media,United States,Male,25-34,Unsubscribed
+SUB0994,First994,Last994,user994@email.com,2024-02-26,Checkout,United States,Male,55+,Active
+SUB0995,First995,Last995,user995@email.com,2023-09-20,Website Popup,United States,Female,45-54,Active
+SUB0996,First996,Last996,user996@email.com,2024-01-12,Website Popup,United Kingdom,Male,35-44,Active
+SUB0997,First997,Last997,user997@email.com,2024-01-01,Blog,United States,Female,18-24,Active
+SUB0998,First998,Last998,user998@email.com,2023-09-18,Website Popup,Australia,Female,35-44,Active
+SUB0999,First999,Last999,user999@email.com,2023-08-02,Checkout,Australia,Female,25-34,Active
+SUB1000,First1000,Last1000,user1000@email.com,2024-05-09,Checkout,United Kingdom,Male,45-54,Active
+SUB1001,First1001,Last1001,user1001@email.com,2024-03-24,Referral,United Kingdom,Male,35-44,Bounced
+SUB1002,First1002,Last1002,user1002@email.com,2024-04-09,Checkout,United Kingdom,Female,18-24,Active
+SUB1003,First1003,Last1003,user1003@email.com,2024-05-30,Website Popup,United Kingdom,Female,35-44,Active
+SUB1004,First1004,Last1004,user1004@email.com,2023-09-09,Checkout,United States,Male,35-44,Active
+SUB1005,First1005,Last1005,user1005@email.com,2023-09-05,Checkout,United Kingdom,Female,25-34,Active
+SUB1006,First1006,Last1006,user1006@email.com,2024-04-05,Checkout,Canada,Female,25-34,Active
+SUB1007,First1007,Last1007,user1007@email.com,2023-10-01,Website Popup,United Kingdom,Male,35-44,Active
+SUB1008,First1008,Last1008,user1008@email.com,2023-07-08,Website Popup,United Kingdom,Male,25-34,Active
+SUB1009,First1009,Last1009,user1009@email.com,2023-10-11,Checkout,Australia,Female,25-34,Active
+SUB1010,First1010,Last1010,user1010@email.com,2024-04-21,Blog,Canada,Male,35-44,Active
+SUB1011,First1011,Last1011,user1011@email.com,2023-10-20,Referral,United States,Male,18-24,Active
+SUB1012,First1012,Last1012,user1012@email.com,2024-04-06,Blog,United States,Female,25-34,Active
+SUB1013,First1013,Last1013,user1013@email.com,2024-03-12,Checkout,United Kingdom,Female,25-34,Active
+SUB1014,First1014,Last1014,user1014@email.com,2023-11-07,Website Popup,United Kingdom,Male,45-54,Active
+SUB1015,First1015,Last1015,user1015@email.com,2023-09-17,Checkout,Canada,Female,35-44,Active
+SUB1016,First1016,Last1016,user1016@email.com,2024-02-15,Social Media,Canada,Female,55+,Active
+SUB1017,First1017,Last1017,user1017@email.com,2024-03-02,Checkout,United Kingdom,Female,45-54,Active
+SUB1018,First1018,Last1018,user1018@email.com,2024-01-17,Website Popup,United States,Female,45-54,Active
+SUB1019,First1019,Last1019,user1019@email.com,2024-04-23,Referral,Canada,Male,25-34,Active
+SUB1020,First1020,Last1020,user1020@email.com,2023-10-13,Checkout,United Kingdom,Male,25-34,Active
+SUB1021,First1021,Last1021,user1021@email.com,2023-12-12,Blog,United States,Male,55+,Active
+SUB1022,First1022,Last1022,user1022@email.com,2024-04-07,Checkout,United States,Female,25-34,Unsubscribed
+SUB1023,First1023,Last1023,user1023@email.com,2023-07-10,Website Popup,Canada,Male,35-44,Active
+SUB1024,First1024,Last1024,user1024@email.com,2024-04-15,Website Popup,United States,Female,45-54,Active
+SUB1025,First1025,Last1025,user1025@email.com,2023-10-30,Social Media,United Kingdom,Male,25-34,Active
+SUB1026,First1026,Last1026,user1026@email.com,2024-06-30,Website Popup,United States,Female,25-34,Active
+SUB1027,First1027,Last1027,user1027@email.com,2024-05-26,Social Media,Canada,Male,18-24,Active
+SUB1028,First1028,Last1028,user1028@email.com,2024-05-18,Checkout,United States,Male,18-24,Active
+SUB1029,First1029,Last1029,user1029@email.com,2024-04-28,Website Popup,United States,Female,45-54,Active
+SUB1030,First1030,Last1030,user1030@email.com,2023-07-05,Checkout,United States,Male,35-44,Active
+SUB1031,First1031,Last1031,user1031@email.com,2023-12-07,Website Popup,United Kingdom,Female,18-24,Active
+SUB1032,First1032,Last1032,user1032@email.com,2024-04-13,Social Media,United States,Male,35-44,Active
+SUB1033,First1033,Last1033,user1033@email.com,2023-10-18,Checkout,United Kingdom,Female,35-44,Active
+SUB1034,First1034,Last1034,user1034@email.com,2024-03-30,Social Media,United States,Male,35-44,Active
+SUB1035,First1035,Last1035,user1035@email.com,2023-12-25,Checkout,Canada,Male,35-44,Active
+SUB1036,First1036,Last1036,user1036@email.com,2024-01-12,Social Media,United States,Female,25-34,Active
+SUB1037,First1037,Last1037,user1037@email.com,2023-11-03,Blog,Canada,Female,18-24,Active
+SUB1038,First1038,Last1038,user1038@email.com,2024-03-20,Website Popup,United Kingdom,Male,45-54,Active
+SUB1039,First1039,Last1039,user1039@email.com,2024-02-01,Website Popup,Australia,Female,18-24,Active
+SUB1040,First1040,Last1040,user1040@email.com,2023-12-08,Checkout,United Kingdom,Female,25-34,Active
+SUB1041,First1041,Last1041,user1041@email.com,2023-10-16,Referral,Canada,Male,35-44,Active
+SUB1042,First1042,Last1042,user1042@email.com,2023-12-01,Website Popup,United States,Male,18-24,Active
+SUB1043,First1043,Last1043,user1043@email.com,2023-09-25,Checkout,United States,Female,25-34,Active
+SUB1044,First1044,Last1044,user1044@email.com,2024-05-05,Referral,United Kingdom,Male,55+,Unsubscribed
+SUB1045,First1045,Last1045,user1045@email.com,2023-11-27,Checkout,United States,Female,25-34,Active
+SUB1046,First1046,Last1046,user1046@email.com,2023-07-13,Social Media,Australia,Female,18-24,Active
+SUB1047,First1047,Last1047,user1047@email.com,2023-12-19,Referral,United States,Male,55+,Active
+SUB1048,First1048,Last1048,user1048@email.com,2023-09-11,Checkout,Australia,Male,55+,Active
+SUB1049,First1049,Last1049,user1049@email.com,2024-05-06,Website Popup,Canada,Female,25-34,Active
+SUB1050,First1050,Last1050,user1050@email.com,2023-10-23,Checkout,United States,Female,35-44,Active
+SUB1051,First1051,Last1051,user1051@email.com,2024-01-03,Social Media,United Kingdom,Female,25-34,Active
+SUB1052,First1052,Last1052,user1052@email.com,2024-03-15,Website Popup,United States,Male,25-34,Active
+SUB1053,First1053,Last1053,user1053@email.com,2024-05-09,Website Popup,United Kingdom,Male,18-24,Active
+SUB1054,First1054,Last1054,user1054@email.com,2023-08-20,Social Media,United States,Female,35-44,Active
+SUB1055,First1055,Last1055,user1055@email.com,2023-12-29,Social Media,Canada,Male,25-34,Active
+SUB1056,First1056,Last1056,user1056@email.com,2024-02-06,Social Media,United States,Male,25-34,Bounced
+SUB1057,First1057,Last1057,user1057@email.com,2024-03-25,Referral,United States,Female,25-34,Active
+SUB1058,First1058,Last1058,user1058@email.com,2024-02-24,Blog,United States,Male,25-34,Active
+SUB1059,First1059,Last1059,user1059@email.com,2023-09-06,Blog,Canada,Female,18-24,Active
+SUB1060,First1060,Last1060,user1060@email.com,2024-04-09,Website Popup,United States,Female,25-34,Active
+SUB1061,First1061,Last1061,user1061@email.com,2024-04-02,Social Media,Australia,Male,18-24,Active
+SUB1062,First1062,Last1062,user1062@email.com,2024-02-09,Website Popup,United Kingdom,Male,35-44,Active
+SUB1063,First1063,Last1063,user1063@email.com,2024-04-28,Website Popup,United States,Female,45-54,Active
+SUB1064,First1064,Last1064,user1064@email.com,2023-12-12,Checkout,Canada,Female,45-54,Bounced
+SUB1065,First1065,Last1065,user1065@email.com,2024-02-02,Website Popup,United States,Male,18-24,Active
+SUB1066,First1066,Last1066,user1066@email.com,2023-07-15,Checkout,United Kingdom,Male,35-44,Unsubscribed
+SUB1067,First1067,Last1067,user1067@email.com,2024-05-26,Checkout,Canada,Female,25-34,Active
+SUB1068,First1068,Last1068,user1068@email.com,2023-08-03,Website Popup,Australia,Female,45-54,Active
+SUB1069,First1069,Last1069,user1069@email.com,2023-11-26,Website Popup,United Kingdom,Male,18-24,Unsubscribed
+SUB1070,First1070,Last1070,user1070@email.com,2023-08-16,Checkout,Australia,Male,25-34,Unsubscribed
+SUB1071,First1071,Last1071,user1071@email.com,2023-10-27,Checkout,Canada,Female,25-34,Active
+SUB1072,First1072,Last1072,user1072@email.com,2023-08-16,Referral,United Kingdom,Female,25-34,Unsubscribed
+SUB1073,First1073,Last1073,user1073@email.com,2024-04-10,Website Popup,United Kingdom,Female,25-34,Active
+SUB1074,First1074,Last1074,user1074@email.com,2023-09-04,Social Media,United States,Male,18-24,Active
+SUB1075,First1075,Last1075,user1075@email.com,2023-11-11,Website Popup,United States,Female,35-44,Unsubscribed
+SUB1076,First1076,Last1076,user1076@email.com,2024-02-22,Website Popup,United States,Male,18-24,Active
+SUB1077,First1077,Last1077,user1077@email.com,2023-12-12,Checkout,United Kingdom,Female,45-54,Active
+SUB1078,First1078,Last1078,user1078@email.com,2023-09-21,Social Media,United States,Male,45-54,Active
+SUB1079,First1079,Last1079,user1079@email.com,2024-01-02,Website Popup,United States,Male,18-24,Active
+SUB1080,First1080,Last1080,user1080@email.com,2024-04-08,Referral,United States,Male,45-54,Active
+SUB1081,First1081,Last1081,user1081@email.com,2024-06-17,Blog,United Kingdom,Female,35-44,Active
+SUB1082,First1082,Last1082,user1082@email.com,2023-07-15,Social Media,United States,Male,18-24,Active
+SUB1083,First1083,Last1083,user1083@email.com,2024-05-13,Social Media,United States,Female,25-34,Active
+SUB1084,First1084,Last1084,user1084@email.com,2024-03-20,Blog,Canada,Male,35-44,Active
+SUB1085,First1085,Last1085,user1085@email.com,2024-06-07,Referral,Canada,Male,35-44,Active
+SUB1086,First1086,Last1086,user1086@email.com,2024-03-15,Checkout,Canada,Female,18-24,Bounced
+SUB1087,First1087,Last1087,user1087@email.com,2023-07-13,Referral,United States,Male,25-34,Unsubscribed
+SUB1088,First1088,Last1088,user1088@email.com,2023-11-30,Social Media,United States,Male,55+,Active
+SUB1089,First1089,Last1089,user1089@email.com,2023-11-30,Website Popup,United Kingdom,Female,35-44,Active
+SUB1090,First1090,Last1090,user1090@email.com,2023-07-05,Checkout,United States,Female,35-44,Unsubscribed
+SUB1091,First1091,Last1091,user1091@email.com,2023-10-25,Referral,United Kingdom,Female,35-44,Active
+SUB1092,First1092,Last1092,user1092@email.com,2024-04-11,Website Popup,United Kingdom,Female,45-54,Active
+SUB1093,First1093,Last1093,user1093@email.com,2024-05-06,Website Popup,United Kingdom,Male,18-24,Active
+SUB1094,First1094,Last1094,user1094@email.com,2024-02-05,Checkout,United States,Male,18-24,Bounced
+SUB1095,First1095,Last1095,user1095@email.com,2023-07-07,Checkout,Canada,Female,35-44,Active
+SUB1096,First1096,Last1096,user1096@email.com,2024-06-07,Social Media,Canada,Male,35-44,Active
+SUB1097,First1097,Last1097,user1097@email.com,2023-10-05,Checkout,Australia,Female,25-34,Active
+SUB1098,First1098,Last1098,user1098@email.com,2023-12-15,Website Popup,United States,Female,45-54,Active
+SUB1099,First1099,Last1099,user1099@email.com,2024-03-13,Referral,United Kingdom,Female,35-44,Active
+SUB1100,First1100,Last1100,user1100@email.com,2023-09-02,Checkout,United States,Female,25-34,Active
+SUB1101,First1101,Last1101,user1101@email.com,2023-08-25,Referral,Canada,Male,18-24,Active
+SUB1102,First1102,Last1102,user1102@email.com,2024-06-21,Checkout,Australia,Female,25-34,Active
+SUB1103,First1103,Last1103,user1103@email.com,2023-09-03,Website Popup,Canada,Female,55+,Active
+SUB1104,First1104,Last1104,user1104@email.com,2023-10-07,Website Popup,United States,Female,18-24,Unsubscribed
+SUB1105,First1105,Last1105,user1105@email.com,2023-10-20,Social Media,United Kingdom,Male,55+,Bounced
+SUB1106,First1106,Last1106,user1106@email.com,2023-08-22,Referral,United Kingdom,Male,55+,Active
+SUB1107,First1107,Last1107,user1107@email.com,2024-06-07,Website Popup,United Kingdom,Male,18-24,Unsubscribed
+SUB1108,First1108,Last1108,user1108@email.com,2023-07-22,Website Popup,United Kingdom,Female,18-24,Active
+SUB1109,First1109,Last1109,user1109@email.com,2024-06-01,Website Popup,Canada,Female,35-44,Active
+SUB1110,First1110,Last1110,user1110@email.com,2023-11-01,Website Popup,Canada,Female,25-34,Active
+SUB1111,First1111,Last1111,user1111@email.com,2023-10-24,Website Popup,Australia,Male,45-54,Active
+SUB1112,First1112,Last1112,user1112@email.com,2023-12-16,Checkout,Canada,Male,35-44,Active
+SUB1113,First1113,Last1113,user1113@email.com,2023-09-29,Checkout,United Kingdom,Male,55+,Active
+SUB1114,First1114,Last1114,user1114@email.com,2024-05-07,Checkout,Canada,Male,45-54,Active
+SUB1115,First1115,Last1115,user1115@email.com,2024-02-19,Social Media,Australia,Female,55+,Bounced
+SUB1116,First1116,Last1116,user1116@email.com,2023-07-22,Website Popup,Australia,Female,25-34,Active
+SUB1117,First1117,Last1117,user1117@email.com,2024-04-21,Checkout,United Kingdom,Female,18-24,Bounced
+SUB1118,First1118,Last1118,user1118@email.com,2023-10-10,Checkout,United States,Female,25-34,Unsubscribed
+SUB1119,First1119,Last1119,user1119@email.com,2023-12-12,Social Media,Canada,Female,35-44,Bounced
+SUB1120,First1120,Last1120,user1120@email.com,2024-02-01,Website Popup,United Kingdom,Male,25-34,Active
+SUB1121,First1121,Last1121,user1121@email.com,2024-04-26,Website Popup,United States,Male,18-24,Active
+SUB1122,First1122,Last1122,user1122@email.com,2024-06-28,Checkout,United States,Male,55+,Active
+SUB1123,First1123,Last1123,user1123@email.com,2023-09-30,Referral,United States,Female,18-24,Active
+SUB1124,First1124,Last1124,user1124@email.com,2024-05-03,Blog,United States,Male,25-34,Active
+SUB1125,First1125,Last1125,user1125@email.com,2023-08-22,Website Popup,Canada,Female,25-34,Active
+SUB1126,First1126,Last1126,user1126@email.com,2024-01-29,Website Popup,United States,Female,35-44,Active
+SUB1127,First1127,Last1127,user1127@email.com,2024-01-18,Website Popup,United States,Male,35-44,Active
+SUB1128,First1128,Last1128,user1128@email.com,2024-06-25,Website Popup,United Kingdom,Female,18-24,Active
+SUB1129,First1129,Last1129,user1129@email.com,2023-08-28,Checkout,United Kingdom,Male,35-44,Active
+SUB1130,First1130,Last1130,user1130@email.com,2024-03-04,Checkout,United Kingdom,Male,25-34,Active
+SUB1131,First1131,Last1131,user1131@email.com,2023-09-10,Social Media,United States,Male,35-44,Active
+SUB1132,First1132,Last1132,user1132@email.com,2024-04-29,Checkout,Canada,Female,18-24,Unsubscribed
+SUB1133,First1133,Last1133,user1133@email.com,2023-10-15,Referral,United States,Female,25-34,Active
+SUB1134,First1134,Last1134,user1134@email.com,2024-04-10,Website Popup,United States,Male,35-44,Bounced
+SUB1135,First1135,Last1135,user1135@email.com,2024-03-03,Social Media,United States,Male,25-34,Active
+SUB1136,First1136,Last1136,user1136@email.com,2023-08-18,Checkout,United States,Female,25-34,Active
+SUB1137,First1137,Last1137,user1137@email.com,2024-03-13,Website Popup,United Kingdom,Female,18-24,Active
+SUB1138,First1138,Last1138,user1138@email.com,2023-08-15,Checkout,Canada,Male,35-44,Unsubscribed
+SUB1139,First1139,Last1139,user1139@email.com,2023-09-08,Checkout,Australia,Female,45-54,Active
+SUB1140,First1140,Last1140,user1140@email.com,2024-06-28,Checkout,United States,Male,18-24,Active
+SUB1141,First1141,Last1141,user1141@email.com,2023-07-10,Social Media,United Kingdom,Female,25-34,Active
+SUB1142,First1142,Last1142,user1142@email.com,2023-10-27,Website Popup,United Kingdom,Male,18-24,Active
+SUB1143,First1143,Last1143,user1143@email.com,2023-10-28,Checkout,United States,Male,25-34,Active
+SUB1144,First1144,Last1144,user1144@email.com,2023-07-21,Website Popup,United Kingdom,Female,18-24,Active
+SUB1145,First1145,Last1145,user1145@email.com,2023-07-28,Referral,United Kingdom,Male,18-24,Active
+SUB1146,First1146,Last1146,user1146@email.com,2024-02-18,Referral,United States,Female,45-54,Unsubscribed
+SUB1147,First1147,Last1147,user1147@email.com,2023-11-23,Website Popup,United States,Male,25-34,Active
+SUB1148,First1148,Last1148,user1148@email.com,2023-08-09,Checkout,Canada,Female,35-44,Active
+SUB1149,First1149,Last1149,user1149@email.com,2024-05-17,Website Popup,Canada,Female,25-34,Active
+SUB1150,First1150,Last1150,user1150@email.com,2023-12-29,Blog,United States,Female,45-54,Active
+SUB1151,First1151,Last1151,user1151@email.com,2023-08-29,Website Popup,United States,Female,25-34,Active
+SUB1152,First1152,Last1152,user1152@email.com,2024-04-02,Checkout,United States,Male,35-44,Active
+SUB1153,First1153,Last1153,user1153@email.com,2023-10-19,Referral,United States,Male,18-24,Unsubscribed
+SUB1154,First1154,Last1154,user1154@email.com,2023-11-17,Checkout,United States,Female,18-24,Active
+SUB1155,First1155,Last1155,user1155@email.com,2023-11-24,Website Popup,United States,Male,25-34,Active
+SUB1156,First1156,Last1156,user1156@email.com,2024-03-07,Referral,Canada,Female,35-44,Unsubscribed
+SUB1157,First1157,Last1157,user1157@email.com,2023-10-18,Social Media,United States,Male,18-24,Unsubscribed
+SUB1158,First1158,Last1158,user1158@email.com,2024-02-29,Checkout,Australia,Female,18-24,Active
+SUB1159,First1159,Last1159,user1159@email.com,2023-09-13,Checkout,United Kingdom,Male,25-34,Active
+SUB1160,First1160,Last1160,user1160@email.com,2024-01-22,Checkout,United Kingdom,Male,18-24,Active
+SUB1161,First1161,Last1161,user1161@email.com,2023-08-05,Website Popup,Australia,Female,25-34,Bounced
+SUB1162,First1162,Last1162,user1162@email.com,2024-06-30,Referral,United States,Male,35-44,Active
+SUB1163,First1163,Last1163,user1163@email.com,2024-06-14,Checkout,United States,Male,25-34,Active
+SUB1164,First1164,Last1164,user1164@email.com,2024-04-20,Website Popup,United States,Male,55+,Active
+SUB1165,First1165,Last1165,user1165@email.com,2023-08-23,Referral,Australia,Female,25-34,Active
+SUB1166,First1166,Last1166,user1166@email.com,2024-06-16,Checkout,United States,Female,35-44,Active
+SUB1167,First1167,Last1167,user1167@email.com,2024-02-22,Referral,Canada,Male,45-54,Unsubscribed
+SUB1168,First1168,Last1168,user1168@email.com,2024-04-20,Checkout,United Kingdom,Female,18-24,Active
+SUB1169,First1169,Last1169,user1169@email.com,2024-04-03,Checkout,United States,Male,18-24,Active
+SUB1170,First1170,Last1170,user1170@email.com,2023-10-02,Social Media,Australia,Male,45-54,Bounced
+SUB1171,First1171,Last1171,user1171@email.com,2023-11-16,Checkout,United Kingdom,Female,25-34,Active
+SUB1172,First1172,Last1172,user1172@email.com,2023-11-15,Referral,Canada,Male,18-24,Active
+SUB1173,First1173,Last1173,user1173@email.com,2024-04-17,Social Media,United States,Male,18-24,Unsubscribed
+SUB1174,First1174,Last1174,user1174@email.com,2024-01-09,Social Media,United States,Male,55+,Active
+SUB1175,First1175,Last1175,user1175@email.com,2023-08-18,Checkout,Canada,Female,18-24,Active
+SUB1176,First1176,Last1176,user1176@email.com,2024-05-19,Referral,Australia,Male,55+,Unsubscribed
+SUB1177,First1177,Last1177,user1177@email.com,2023-10-28,Website Popup,Canada,Male,25-34,Unsubscribed
+SUB1178,First1178,Last1178,user1178@email.com,2024-06-18,Website Popup,United Kingdom,Male,35-44,Active
+SUB1179,First1179,Last1179,user1179@email.com,2024-06-16,Blog,United States,Female,35-44,Active
+SUB1180,First1180,Last1180,user1180@email.com,2023-07-07,Checkout,Canada,Female,45-54,Active
+SUB1181,First1181,Last1181,user1181@email.com,2023-10-07,Social Media,United States,Male,35-44,Active
+SUB1182,First1182,Last1182,user1182@email.com,2024-05-09,Website Popup,United States,Male,25-34,Active
+SUB1183,First1183,Last1183,user1183@email.com,2023-12-14,Referral,United States,Female,35-44,Active
+SUB1184,First1184,Last1184,user1184@email.com,2023-11-28,Referral,United Kingdom,Male,25-34,Active
+SUB1185,First1185,Last1185,user1185@email.com,2024-06-01,Social Media,United States,Female,35-44,Active
+SUB1186,First1186,Last1186,user1186@email.com,2023-08-02,Website Popup,Australia,Male,18-24,Active
+SUB1187,First1187,Last1187,user1187@email.com,2024-03-08,Website Popup,United States,Female,35-44,Active
+SUB1188,First1188,Last1188,user1188@email.com,2024-02-08,Referral,United States,Female,25-34,Active
+SUB1189,First1189,Last1189,user1189@email.com,2023-12-17,Website Popup,Australia,Female,35-44,Active
+SUB1190,First1190,Last1190,user1190@email.com,2024-01-20,Website Popup,United States,Male,45-54,Active
+SUB1191,First1191,Last1191,user1191@email.com,2023-09-09,Checkout,United States,Male,35-44,Active
+SUB1192,First1192,Last1192,user1192@email.com,2023-11-08,Social Media,United States,Male,45-54,Unsubscribed
+SUB1193,First1193,Last1193,user1193@email.com,2023-07-18,Website Popup,United Kingdom,Female,35-44,Active
+SUB1194,First1194,Last1194,user1194@email.com,2023-12-06,Blog,Australia,Male,25-34,Active
+SUB1195,First1195,Last1195,user1195@email.com,2024-06-09,Social Media,United States,Female,25-34,Active
+SUB1196,First1196,Last1196,user1196@email.com,2023-07-23,Referral,United Kingdom,Male,18-24,Bounced
+SUB1197,First1197,Last1197,user1197@email.com,2023-08-09,Website Popup,United States,Female,25-34,Unsubscribed
+SUB1198,First1198,Last1198,user1198@email.com,2023-12-25,Checkout,Canada,Male,18-24,Bounced
+SUB1199,First1199,Last1199,user1199@email.com,2023-08-02,Checkout,United Kingdom,Male,18-24,Active
+SUB1200,First1200,Last1200,user1200@email.com,2024-01-31,Social Media,United States,Male,55+,Active
+SUB1201,First1201,Last1201,user1201@email.com,2024-03-15,Social Media,Australia,Male,35-44,Active
+SUB1202,First1202,Last1202,user1202@email.com,2024-05-30,Social Media,Canada,Male,18-24,Active
+SUB1203,First1203,Last1203,user1203@email.com,2024-06-14,Website Popup,Australia,Male,18-24,Active
+SUB1204,First1204,Last1204,user1204@email.com,2023-10-13,Checkout,Canada,Female,18-24,Active
+SUB1205,First1205,Last1205,user1205@email.com,2023-12-29,Social Media,United States,Male,18-24,Active
+SUB1206,First1206,Last1206,user1206@email.com,2023-12-25,Website Popup,Australia,Male,18-24,Active
+SUB1207,First1207,Last1207,user1207@email.com,2024-06-04,Website Popup,United States,Female,45-54,Unsubscribed
+SUB1208,First1208,Last1208,user1208@email.com,2023-12-09,Checkout,Australia,Female,25-34,Active
+SUB1209,First1209,Last1209,user1209@email.com,2024-01-18,Website Popup,United States,Female,35-44,Unsubscribed
+SUB1210,First1210,Last1210,user1210@email.com,2024-05-04,Social Media,United States,Female,35-44,Active
+SUB1211,First1211,Last1211,user1211@email.com,2023-12-26,Blog,United Kingdom,Female,18-24,Active
+SUB1212,First1212,Last1212,user1212@email.com,2023-12-16,Checkout,United States,Female,45-54,Active
+SUB1213,First1213,Last1213,user1213@email.com,2023-11-03,Checkout,United Kingdom,Male,18-24,Active
+SUB1214,First1214,Last1214,user1214@email.com,2024-02-04,Checkout,United States,Male,35-44,Unsubscribed
+SUB1215,First1215,Last1215,user1215@email.com,2024-03-04,Website Popup,United States,Female,18-24,Active
+SUB1216,First1216,Last1216,user1216@email.com,2023-07-18,Referral,United States,Male,55+,Active
+SUB1217,First1217,Last1217,user1217@email.com,2023-09-15,Social Media,United Kingdom,Female,35-44,Active
+SUB1218,First1218,Last1218,user1218@email.com,2024-05-09,Website Popup,Australia,Male,35-44,Active
+SUB1219,First1219,Last1219,user1219@email.com,2024-05-02,Checkout,United States,Male,18-24,Bounced
+SUB1220,First1220,Last1220,user1220@email.com,2024-03-15,Checkout,Australia,Female,18-24,Active
+SUB1221,First1221,Last1221,user1221@email.com,2024-05-21,Blog,United Kingdom,Female,18-24,Active
+SUB1222,First1222,Last1222,user1222@email.com,2024-01-13,Website Popup,Canada,Female,18-24,Active
+SUB1223,First1223,Last1223,user1223@email.com,2023-12-30,Referral,United States,Female,25-34,Active
+SUB1224,First1224,Last1224,user1224@email.com,2024-04-03,Checkout,Canada,Male,35-44,Active
+SUB1225,First1225,Last1225,user1225@email.com,2023-10-19,Website Popup,United States,Male,35-44,Active
+SUB1226,First1226,Last1226,user1226@email.com,2023-07-14,Website Popup,United States,Female,35-44,Active
+SUB1227,First1227,Last1227,user1227@email.com,2023-07-22,Referral,United States,Male,55+,Active
+SUB1228,First1228,Last1228,user1228@email.com,2024-01-07,Social Media,United States,Female,25-34,Active
+SUB1229,First1229,Last1229,user1229@email.com,2024-01-12,Checkout,United States,Female,18-24,Active
+SUB1230,First1230,Last1230,user1230@email.com,2023-10-08,Checkout,Canada,Male,35-44,Active
+SUB1231,First1231,Last1231,user1231@email.com,2023-08-05,Checkout,United Kingdom,Female,25-34,Active
+SUB1232,First1232,Last1232,user1232@email.com,2024-03-28,Website Popup,United Kingdom,Female,35-44,Active
+SUB1233,First1233,Last1233,user1233@email.com,2024-05-26,Website Popup,United States,Male,25-34,Active
+SUB1234,First1234,Last1234,user1234@email.com,2024-04-19,Social Media,United Kingdom,Female,18-24,Active
+SUB1235,First1235,Last1235,user1235@email.com,2023-10-14,Website Popup,United States,Male,45-54,Active
+SUB1236,First1236,Last1236,user1236@email.com,2024-02-01,Blog,United Kingdom,Female,45-54,Active
+SUB1237,First1237,Last1237,user1237@email.com,2023-12-31,Social Media,Australia,Female,18-24,Unsubscribed
+SUB1238,First1238,Last1238,user1238@email.com,2023-10-22,Social Media,United States,Female,25-34,Bounced
+SUB1239,First1239,Last1239,user1239@email.com,2024-05-24,Website Popup,United States,Female,18-24,Active
+SUB1240,First1240,Last1240,user1240@email.com,2023-11-27,Website Popup,Canada,Female,18-24,Active
+SUB1241,First1241,Last1241,user1241@email.com,2023-09-30,Referral,Australia,Female,45-54,Active
+SUB1242,First1242,Last1242,user1242@email.com,2024-05-12,Website Popup,United States,Female,18-24,Active
+SUB1243,First1243,Last1243,user1243@email.com,2024-01-26,Checkout,United Kingdom,Female,55+,Active
+SUB1244,First1244,Last1244,user1244@email.com,2023-10-12,Website Popup,United States,Male,25-34,Active
+SUB1245,First1245,Last1245,user1245@email.com,2024-02-27,Checkout,United States,Female,45-54,Active
+SUB1246,First1246,Last1246,user1246@email.com,2023-07-01,Checkout,United States,Male,18-24,Active
+SUB1247,First1247,Last1247,user1247@email.com,2023-08-18,Website Popup,United States,Male,45-54,Active
+SUB1248,First1248,Last1248,user1248@email.com,2023-09-19,Website Popup,United Kingdom,Female,18-24,Active
+SUB1249,First1249,Last1249,user1249@email.com,2024-01-20,Social Media,United States,Female,18-24,Active
+SUB1250,First1250,Last1250,user1250@email.com,2023-09-30,Website Popup,United States,Female,35-44,Active
+SUB1251,First1251,Last1251,user1251@email.com,2024-01-20,Social Media,United Kingdom,Female,18-24,Active
+SUB1252,First1252,Last1252,user1252@email.com,2023-11-26,Blog,United States,Male,55+,Active
+SUB1253,First1253,Last1253,user1253@email.com,2024-04-29,Checkout,United States,Female,35-44,Active
+SUB1254,First1254,Last1254,user1254@email.com,2023-08-18,Referral,United States,Male,35-44,Active
+SUB1255,First1255,Last1255,user1255@email.com,2023-09-16,Checkout,United Kingdom,Female,45-54,Active
+SUB1256,First1256,Last1256,user1256@email.com,2023-07-21,Social Media,Australia,Female,45-54,Active
+SUB1257,First1257,Last1257,user1257@email.com,2024-04-08,Website Popup,United States,Female,18-24,Unsubscribed
+SUB1258,First1258,Last1258,user1258@email.com,2024-04-07,Checkout,Canada,Female,25-34,Unsubscribed
+SUB1259,First1259,Last1259,user1259@email.com,2024-01-14,Website Popup,United Kingdom,Male,25-34,Active
+SUB1260,First1260,Last1260,user1260@email.com,2024-04-04,Blog,United Kingdom,Female,18-24,Active
+SUB1261,First1261,Last1261,user1261@email.com,2023-08-06,Website Popup,United States,Female,35-44,Active
+SUB1262,First1262,Last1262,user1262@email.com,2023-12-14,Checkout,United States,Male,25-34,Active
+SUB1263,First1263,Last1263,user1263@email.com,2024-01-25,Website Popup,United Kingdom,Male,55+,Active
+SUB1264,First1264,Last1264,user1264@email.com,2024-06-24,Website Popup,United States,Male,35-44,Active
+SUB1265,First1265,Last1265,user1265@email.com,2024-04-22,Website Popup,Australia,Male,25-34,Active
+SUB1266,First1266,Last1266,user1266@email.com,2024-02-12,Checkout,United States,Female,35-44,Active
+SUB1267,First1267,Last1267,user1267@email.com,2023-08-03,Website Popup,Canada,Female,18-24,Active
+SUB1268,First1268,Last1268,user1268@email.com,2023-08-07,Checkout,United States,Male,35-44,Active
+SUB1269,First1269,Last1269,user1269@email.com,2023-09-04,Referral,United States,Male,18-24,Active
+SUB1270,First1270,Last1270,user1270@email.com,2024-01-04,Website Popup,United States,Male,25-34,Unsubscribed
+SUB1271,First1271,Last1271,user1271@email.com,2024-02-18,Social Media,United Kingdom,Male,25-34,Active
+SUB1272,First1272,Last1272,user1272@email.com,2024-04-01,Social Media,Australia,Female,25-34,Active
+SUB1273,First1273,Last1273,user1273@email.com,2023-11-17,Website Popup,United States,Male,55+,Active
+SUB1274,First1274,Last1274,user1274@email.com,2024-06-21,Website Popup,United Kingdom,Female,35-44,Active
+SUB1275,First1275,Last1275,user1275@email.com,2024-06-15,Social Media,United Kingdom,Female,55+,Active
+SUB1276,First1276,Last1276,user1276@email.com,2023-08-11,Website Popup,United States,Male,18-24,Active
+SUB1277,First1277,Last1277,user1277@email.com,2024-05-18,Checkout,United States,Male,18-24,Active
+SUB1278,First1278,Last1278,user1278@email.com,2023-10-03,Checkout,United States,Female,45-54,Active
+SUB1279,First1279,Last1279,user1279@email.com,2023-08-24,Referral,United States,Male,25-34,Active
+SUB1280,First1280,Last1280,user1280@email.com,2023-12-03,Checkout,United States,Female,45-54,Active
+SUB1281,First1281,Last1281,user1281@email.com,2023-12-05,Checkout,United States,Male,25-34,Active
+SUB1282,First1282,Last1282,user1282@email.com,2024-04-03,Checkout,United Kingdom,Male,35-44,Active
+SUB1283,First1283,Last1283,user1283@email.com,2024-02-23,Social Media,United States,Female,35-44,Active
+SUB1284,First1284,Last1284,user1284@email.com,2023-08-13,Website Popup,United Kingdom,Female,18-24,Unsubscribed
+SUB1285,First1285,Last1285,user1285@email.com,2023-09-22,Blog,United Kingdom,Male,35-44,Active
+SUB1286,First1286,Last1286,user1286@email.com,2024-06-12,Social Media,United States,Male,18-24,Active
+SUB1287,First1287,Last1287,user1287@email.com,2023-12-28,Website Popup,United States,Female,35-44,Active
+SUB1288,First1288,Last1288,user1288@email.com,2023-12-15,Referral,United States,Male,55+,Active
+SUB1289,First1289,Last1289,user1289@email.com,2024-04-06,Checkout,Australia,Female,35-44,Active
+SUB1290,First1290,Last1290,user1290@email.com,2023-09-16,Website Popup,United States,Female,18-24,Bounced
+SUB1291,First1291,Last1291,user1291@email.com,2024-02-23,Blog,Australia,Female,18-24,Active
+SUB1292,First1292,Last1292,user1292@email.com,2024-05-01,Social Media,United States,Female,55+,Active
+SUB1293,First1293,Last1293,user1293@email.com,2024-06-19,Blog,United States,Male,55+,Unsubscribed
+SUB1294,First1294,Last1294,user1294@email.com,2024-01-29,Social Media,United States,Male,18-24,Active
+SUB1295,First1295,Last1295,user1295@email.com,2023-10-28,Social Media,United States,Male,35-44,Active
+SUB1296,First1296,Last1296,user1296@email.com,2024-06-28,Social Media,United States,Female,25-34,Unsubscribed
+SUB1297,First1297,Last1297,user1297@email.com,2023-10-14,Social Media,Australia,Female,35-44,Unsubscribed
+SUB1298,First1298,Last1298,user1298@email.com,2023-09-04,Blog,United Kingdom,Female,35-44,Unsubscribed
+SUB1299,First1299,Last1299,user1299@email.com,2023-07-23,Social Media,Australia,Female,25-34,Active
+SUB1300,First1300,Last1300,user1300@email.com,2024-04-30,Checkout,United Kingdom,Male,55+,Unsubscribed
+SUB1301,First1301,Last1301,user1301@email.com,2023-08-22,Website Popup,United States,Male,25-34,Active
+SUB1302,First1302,Last1302,user1302@email.com,2024-03-26,Website Popup,Canada,Male,18-24,Active
+SUB1303,First1303,Last1303,user1303@email.com,2024-05-14,Social Media,United Kingdom,Female,25-34,Bounced
+SUB1304,First1304,Last1304,user1304@email.com,2024-03-08,Blog,United Kingdom,Female,25-34,Active
+SUB1305,First1305,Last1305,user1305@email.com,2023-11-07,Checkout,United Kingdom,Male,55+,Active
+SUB1306,First1306,Last1306,user1306@email.com,2024-01-17,Checkout,United Kingdom,Male,35-44,Active
+SUB1307,First1307,Last1307,user1307@email.com,2024-05-28,Referral,Australia,Female,18-24,Active
+SUB1308,First1308,Last1308,user1308@email.com,2024-03-17,Blog,United Kingdom,Female,25-34,Active
+SUB1309,First1309,Last1309,user1309@email.com,2023-07-08,Checkout,Canada,Male,45-54,Active
+SUB1310,First1310,Last1310,user1310@email.com,2024-04-14,Website Popup,United Kingdom,Female,18-24,Active
+SUB1311,First1311,Last1311,user1311@email.com,2023-12-21,Checkout,Australia,Female,45-54,Unsubscribed
+SUB1312,First1312,Last1312,user1312@email.com,2024-02-12,Website Popup,United States,Female,25-34,Active
+SUB1313,First1313,Last1313,user1313@email.com,2024-05-10,Social Media,United States,Male,25-34,Active
+SUB1314,First1314,Last1314,user1314@email.com,2024-01-06,Checkout,Canada,Male,45-54,Active
+SUB1315,First1315,Last1315,user1315@email.com,2024-05-10,Website Popup,United States,Male,18-24,Active
+SUB1316,First1316,Last1316,user1316@email.com,2024-02-08,Checkout,Canada,Male,35-44,Active
+SUB1317,First1317,Last1317,user1317@email.com,2024-01-14,Website Popup,United States,Male,35-44,Active
+SUB1318,First1318,Last1318,user1318@email.com,2023-12-09,Checkout,United States,Female,45-54,Active
+SUB1319,First1319,Last1319,user1319@email.com,2024-06-26,Website Popup,United States,Female,25-34,Active
+SUB1320,First1320,Last1320,user1320@email.com,2023-07-18,Website Popup,United States,Male,18-24,Active
+SUB1321,First1321,Last1321,user1321@email.com,2024-04-28,Social Media,United States,Female,45-54,Active
+SUB1322,First1322,Last1322,user1322@email.com,2023-07-13,Blog,Australia,Female,25-34,Active
+SUB1323,First1323,Last1323,user1323@email.com,2023-09-19,Checkout,United States,Male,25-34,Active
+SUB1324,First1324,Last1324,user1324@email.com,2024-05-03,Website Popup,United Kingdom,Female,45-54,Active
+SUB1325,First1325,Last1325,user1325@email.com,2023-09-05,Checkout,United States,Male,55+,Active
+SUB1326,First1326,Last1326,user1326@email.com,2024-05-29,Referral,United States,Male,18-24,Active
+SUB1327,First1327,Last1327,user1327@email.com,2024-03-08,Website Popup,Australia,Male,25-34,Active
+SUB1328,First1328,Last1328,user1328@email.com,2024-06-13,Website Popup,United States,Female,35-44,Active
+SUB1329,First1329,Last1329,user1329@email.com,2023-10-08,Social Media,United States,Female,45-54,Active
+SUB1330,First1330,Last1330,user1330@email.com,2023-09-29,Website Popup,United States,Male,18-24,Active
+SUB1331,First1331,Last1331,user1331@email.com,2023-07-05,Website Popup,Canada,Female,35-44,Active
+SUB1332,First1332,Last1332,user1332@email.com,2023-07-31,Blog,Canada,Female,35-44,Active
+SUB1333,First1333,Last1333,user1333@email.com,2023-12-31,Website Popup,Canada,Female,25-34,Active
+SUB1334,First1334,Last1334,user1334@email.com,2024-06-19,Social Media,United States,Male,25-34,Active
+SUB1335,First1335,Last1335,user1335@email.com,2024-05-04,Website Popup,Australia,Female,35-44,Active
+SUB1336,First1336,Last1336,user1336@email.com,2024-03-28,Website Popup,United States,Male,55+,Active
+SUB1337,First1337,Last1337,user1337@email.com,2023-11-13,Checkout,United States,Female,18-24,Active
+SUB1338,First1338,Last1338,user1338@email.com,2024-03-26,Website Popup,Australia,Female,25-34,Active
+SUB1339,First1339,Last1339,user1339@email.com,2024-04-20,Website Popup,Australia,Female,18-24,Active
+SUB1340,First1340,Last1340,user1340@email.com,2024-04-02,Social Media,United States,Male,18-24,Unsubscribed
+SUB1341,First1341,Last1341,user1341@email.com,2023-07-31,Website Popup,United States,Female,18-24,Bounced
+SUB1342,First1342,Last1342,user1342@email.com,2024-03-31,Checkout,United States,Female,25-34,Active
+SUB1343,First1343,Last1343,user1343@email.com,2024-03-14,Social Media,Australia,Male,18-24,Bounced
+SUB1344,First1344,Last1344,user1344@email.com,2023-11-17,Referral,United Kingdom,Female,35-44,Active
+SUB1345,First1345,Last1345,user1345@email.com,2023-10-26,Checkout,United States,Male,25-34,Active
+SUB1346,First1346,Last1346,user1346@email.com,2024-03-26,Checkout,United States,Male,25-34,Unsubscribed
+SUB1347,First1347,Last1347,user1347@email.com,2023-10-11,Referral,United States,Male,35-44,Active
+SUB1348,First1348,Last1348,user1348@email.com,2024-01-13,Referral,United States,Female,18-24,Active
+SUB1349,First1349,Last1349,user1349@email.com,2024-06-05,Website Popup,United States,Male,35-44,Active
+SUB1350,First1350,Last1350,user1350@email.com,2024-06-24,Checkout,United States,Male,25-34,Active
+SUB1351,First1351,Last1351,user1351@email.com,2023-12-08,Website Popup,United States,Female,55+,Active
+SUB1352,First1352,Last1352,user1352@email.com,2023-07-26,Social Media,Australia,Male,25-34,Active
+SUB1353,First1353,Last1353,user1353@email.com,2024-05-27,Social Media,United States,Male,18-24,Unsubscribed
+SUB1354,First1354,Last1354,user1354@email.com,2024-03-29,Social Media,Australia,Female,45-54,Unsubscribed
+SUB1355,First1355,Last1355,user1355@email.com,2023-07-18,Social Media,United States,Female,35-44,Active
+SUB1356,First1356,Last1356,user1356@email.com,2024-04-25,Social Media,Australia,Male,55+,Active
+SUB1357,First1357,Last1357,user1357@email.com,2024-04-07,Website Popup,United States,Female,25-34,Active
+SUB1358,First1358,Last1358,user1358@email.com,2023-12-11,Checkout,Canada,Female,25-34,Active
+SUB1359,First1359,Last1359,user1359@email.com,2024-05-04,Blog,United Kingdom,Male,55+,Active
+SUB1360,First1360,Last1360,user1360@email.com,2024-03-20,Checkout,Canada,Male,35-44,Active
+SUB1361,First1361,Last1361,user1361@email.com,2024-06-12,Website Popup,United States,Male,35-44,Active
+SUB1362,First1362,Last1362,user1362@email.com,2024-01-18,Checkout,United Kingdom,Male,25-34,Active
+SUB1363,First1363,Last1363,user1363@email.com,2024-04-16,Referral,United States,Male,25-34,Bounced
+SUB1364,First1364,Last1364,user1364@email.com,2023-12-06,Checkout,United States,Male,55+,Active
+SUB1365,First1365,Last1365,user1365@email.com,2023-09-12,Website Popup,United States,Male,25-34,Active
+SUB1366,First1366,Last1366,user1366@email.com,2024-04-13,Checkout,Canada,Female,25-34,Active
+SUB1367,First1367,Last1367,user1367@email.com,2023-07-29,Website Popup,Canada,Male,55+,Active
+SUB1368,First1368,Last1368,user1368@email.com,2024-03-22,Referral,Australia,Male,35-44,Bounced
+SUB1369,First1369,Last1369,user1369@email.com,2024-03-23,Website Popup,United Kingdom,Female,45-54,Active
+SUB1370,First1370,Last1370,user1370@email.com,2023-11-23,Social Media,United States,Male,25-34,Active
+SUB1371,First1371,Last1371,user1371@email.com,2023-12-09,Checkout,United Kingdom,Male,55+,Active
+SUB1372,First1372,Last1372,user1372@email.com,2023-11-09,Checkout,United States,Female,35-44,Unsubscribed
+SUB1373,First1373,Last1373,user1373@email.com,2023-10-22,Social Media,Canada,Female,35-44,Active
+SUB1374,First1374,Last1374,user1374@email.com,2024-04-28,Checkout,United States,Female,18-24,Active
+SUB1375,First1375,Last1375,user1375@email.com,2024-05-14,Social Media,Australia,Male,35-44,Active
+SUB1376,First1376,Last1376,user1376@email.com,2024-06-28,Checkout,Canada,Female,25-34,Active
+SUB1377,First1377,Last1377,user1377@email.com,2024-06-04,Checkout,United Kingdom,Female,25-34,Active
+SUB1378,First1378,Last1378,user1378@email.com,2023-07-10,Checkout,United States,Female,18-24,Active
+SUB1379,First1379,Last1379,user1379@email.com,2023-11-26,Social Media,United Kingdom,Female,55+,Bounced
+SUB1380,First1380,Last1380,user1380@email.com,2023-10-02,Checkout,United States,Female,25-34,Active
+SUB1381,First1381,Last1381,user1381@email.com,2024-05-29,Website Popup,United States,Female,25-34,Unsubscribed
+SUB1382,First1382,Last1382,user1382@email.com,2024-03-20,Referral,United Kingdom,Female,25-34,Unsubscribed
+SUB1383,First1383,Last1383,user1383@email.com,2023-12-12,Social Media,United Kingdom,Female,45-54,Unsubscribed
+SUB1384,First1384,Last1384,user1384@email.com,2024-06-12,Website Popup,United States,Male,55+,Active
+SUB1385,First1385,Last1385,user1385@email.com,2023-09-29,Checkout,United Kingdom,Male,55+,Active
+SUB1386,First1386,Last1386,user1386@email.com,2024-03-29,Checkout,Canada,Male,35-44,Active
+SUB1387,First1387,Last1387,user1387@email.com,2023-07-16,Checkout,Australia,Male,25-34,Active
+SUB1388,First1388,Last1388,user1388@email.com,2023-10-27,Checkout,Australia,Male,25-34,Active
+SUB1389,First1389,Last1389,user1389@email.com,2023-07-01,Referral,United States,Female,45-54,Active
+SUB1390,First1390,Last1390,user1390@email.com,2024-03-15,Checkout,United Kingdom,Female,35-44,Active
+SUB1391,First1391,Last1391,user1391@email.com,2023-10-08,Website Popup,United States,Female,25-34,Active
+SUB1392,First1392,Last1392,user1392@email.com,2024-05-07,Social Media,United Kingdom,Male,18-24,Active
+SUB1393,First1393,Last1393,user1393@email.com,2023-10-10,Social Media,Australia,Male,45-54,Active
+SUB1394,First1394,Last1394,user1394@email.com,2023-09-16,Social Media,United Kingdom,Male,35-44,Active
+SUB1395,First1395,Last1395,user1395@email.com,2023-10-16,Referral,United States,Male,35-44,Active
+SUB1396,First1396,Last1396,user1396@email.com,2024-01-05,Checkout,Canada,Female,35-44,Bounced
+SUB1397,First1397,Last1397,user1397@email.com,2023-12-01,Checkout,United Kingdom,Male,25-34,Active
+SUB1398,First1398,Last1398,user1398@email.com,2024-05-27,Referral,United States,Male,45-54,Active
+SUB1399,First1399,Last1399,user1399@email.com,2023-07-14,Website Popup,United States,Female,35-44,Active
+SUB1400,First1400,Last1400,user1400@email.com,2023-10-11,Website Popup,United States,Female,35-44,Active
+SUB1401,First1401,Last1401,user1401@email.com,2024-02-25,Website Popup,Canada,Female,35-44,Active
+SUB1402,First1402,Last1402,user1402@email.com,2024-06-16,Website Popup,United States,Male,35-44,Bounced
+SUB1403,First1403,Last1403,user1403@email.com,2024-03-09,Website Popup,United Kingdom,Male,35-44,Active
+SUB1404,First1404,Last1404,user1404@email.com,2023-12-30,Checkout,United Kingdom,Female,25-34,Active
+SUB1405,First1405,Last1405,user1405@email.com,2024-04-28,Website Popup,Australia,Female,18-24,Active
+SUB1406,First1406,Last1406,user1406@email.com,2024-01-11,Website Popup,United States,Female,25-34,Active
+SUB1407,First1407,Last1407,user1407@email.com,2023-08-29,Checkout,United States,Female,55+,Active
+SUB1408,First1408,Last1408,user1408@email.com,2023-09-07,Referral,Canada,Male,25-34,Active
+SUB1409,First1409,Last1409,user1409@email.com,2023-12-30,Checkout,Australia,Male,35-44,Active
+SUB1410,First1410,Last1410,user1410@email.com,2024-06-28,Website Popup,United States,Male,45-54,Active
+SUB1411,First1411,Last1411,user1411@email.com,2023-08-25,Checkout,United Kingdom,Female,25-34,Active
+SUB1412,First1412,Last1412,user1412@email.com,2024-06-09,Checkout,United Kingdom,Male,18-24,Active
+SUB1413,First1413,Last1413,user1413@email.com,2023-12-24,Website Popup,United Kingdom,Female,45-54,Active
+SUB1414,First1414,Last1414,user1414@email.com,2024-05-18,Referral,United States,Female,25-34,Active
+SUB1415,First1415,Last1415,user1415@email.com,2023-12-27,Social Media,United States,Female,25-34,Active
+SUB1416,First1416,Last1416,user1416@email.com,2023-09-07,Social Media,United States,Male,45-54,Active
+SUB1417,First1417,Last1417,user1417@email.com,2023-10-23,Social Media,United States,Female,18-24,Active
+SUB1418,First1418,Last1418,user1418@email.com,2023-08-25,Website Popup,United States,Female,18-24,Active
+SUB1419,First1419,Last1419,user1419@email.com,2023-10-12,Social Media,Australia,Male,25-34,Active
+SUB1420,First1420,Last1420,user1420@email.com,2024-02-21,Checkout,United States,Female,55+,Active
+SUB1421,First1421,Last1421,user1421@email.com,2023-11-28,Website Popup,United States,Female,35-44,Active
+SUB1422,First1422,Last1422,user1422@email.com,2024-04-16,Website Popup,United Kingdom,Female,18-24,Active
+SUB1423,First1423,Last1423,user1423@email.com,2024-03-23,Website Popup,United States,Male,35-44,Active
+SUB1424,First1424,Last1424,user1424@email.com,2023-10-09,Referral,United States,Male,35-44,Active
+SUB1425,First1425,Last1425,user1425@email.com,2024-02-16,Checkout,United States,Male,25-34,Active
+SUB1426,First1426,Last1426,user1426@email.com,2024-03-14,Blog,United States,Female,18-24,Active
+SUB1427,First1427,Last1427,user1427@email.com,2023-10-24,Checkout,Canada,Male,25-34,Unsubscribed
+SUB1428,First1428,Last1428,user1428@email.com,2023-12-14,Blog,United States,Male,25-34,Active
+SUB1429,First1429,Last1429,user1429@email.com,2023-08-23,Social Media,United Kingdom,Male,25-34,Active
+SUB1430,First1430,Last1430,user1430@email.com,2024-01-28,Checkout,United States,Male,25-34,Active
+SUB1431,First1431,Last1431,user1431@email.com,2024-02-12,Website Popup,United Kingdom,Female,18-24,Active
+SUB1432,First1432,Last1432,user1432@email.com,2024-04-17,Website Popup,United States,Female,25-34,Active
+SUB1433,First1433,Last1433,user1433@email.com,2023-07-02,Website Popup,United Kingdom,Female,35-44,Active
+SUB1434,First1434,Last1434,user1434@email.com,2023-12-02,Referral,United States,Female,45-54,Active
+SUB1435,First1435,Last1435,user1435@email.com,2023-09-17,Website Popup,Australia,Female,25-34,Active
+SUB1436,First1436,Last1436,user1436@email.com,2024-05-30,Social Media,United Kingdom,Female,25-34,Active
+SUB1437,First1437,Last1437,user1437@email.com,2023-08-09,Website Popup,United States,Male,55+,Unsubscribed
+SUB1438,First1438,Last1438,user1438@email.com,2023-09-27,Checkout,United States,Female,45-54,Bounced
+SUB1439,First1439,Last1439,user1439@email.com,2024-04-12,Checkout,Australia,Male,18-24,Active
+SUB1440,First1440,Last1440,user1440@email.com,2023-12-07,Referral,United States,Female,45-54,Active
+SUB1441,First1441,Last1441,user1441@email.com,2024-01-28,Blog,United States,Male,18-24,Active
+SUB1442,First1442,Last1442,user1442@email.com,2024-02-29,Checkout,Canada,Male,25-34,Active
+SUB1443,First1443,Last1443,user1443@email.com,2024-05-12,Website Popup,United States,Female,35-44,Active
+SUB1444,First1444,Last1444,user1444@email.com,2023-08-07,Checkout,United Kingdom,Female,18-24,Active
+SUB1445,First1445,Last1445,user1445@email.com,2024-05-15,Checkout,United States,Female,25-34,Active
+SUB1446,First1446,Last1446,user1446@email.com,2023-11-15,Referral,United States,Female,35-44,Active
+SUB1447,First1447,Last1447,user1447@email.com,2024-04-14,Blog,United States,Male,35-44,Active
+SUB1448,First1448,Last1448,user1448@email.com,2024-01-24,Website Popup,United States,Female,25-34,Bounced
+SUB1449,First1449,Last1449,user1449@email.com,2023-10-15,Website Popup,United States,Male,45-54,Active
+SUB1450,First1450,Last1450,user1450@email.com,2024-06-12,Website Popup,United States,Female,45-54,Active
+SUB1451,First1451,Last1451,user1451@email.com,2023-09-29,Checkout,United States,Female,25-34,Active
+SUB1452,First1452,Last1452,user1452@email.com,2024-01-29,Website Popup,United States,Female,35-44,Active
+SUB1453,First1453,Last1453,user1453@email.com,2023-08-12,Checkout,United Kingdom,Female,18-24,Active
+SUB1454,First1454,Last1454,user1454@email.com,2024-04-19,Checkout,Canada,Male,18-24,Active
+SUB1455,First1455,Last1455,user1455@email.com,2023-12-22,Website Popup,United Kingdom,Female,55+,Unsubscribed
+SUB1456,First1456,Last1456,user1456@email.com,2023-07-15,Referral,United Kingdom,Male,25-34,Active
+SUB1457,First1457,Last1457,user1457@email.com,2023-12-14,Website Popup,United States,Female,35-44,Active
+SUB1458,First1458,Last1458,user1458@email.com,2023-08-03,Social Media,United States,Male,45-54,Active
+SUB1459,First1459,Last1459,user1459@email.com,2023-10-19,Website Popup,United Kingdom,Male,55+,Active
+SUB1460,First1460,Last1460,user1460@email.com,2023-10-01,Website Popup,United States,Male,25-34,Active
+SUB1461,First1461,Last1461,user1461@email.com,2024-05-05,Social Media,United Kingdom,Female,35-44,Active
+SUB1462,First1462,Last1462,user1462@email.com,2023-10-31,Website Popup,United States,Male,45-54,Bounced
+SUB1463,First1463,Last1463,user1463@email.com,2023-10-06,Referral,Canada,Female,25-34,Active
+SUB1464,First1464,Last1464,user1464@email.com,2023-11-22,Social Media,United States,Male,45-54,Active
+SUB1465,First1465,Last1465,user1465@email.com,2024-05-28,Website Popup,United States,Female,18-24,Active
+SUB1466,First1466,Last1466,user1466@email.com,2023-08-29,Website Popup,United States,Male,18-24,Active
+SUB1467,First1467,Last1467,user1467@email.com,2023-12-26,Website Popup,United States,Male,35-44,Active
+SUB1468,First1468,Last1468,user1468@email.com,2024-01-05,Social Media,United Kingdom,Male,25-34,Unsubscribed
+SUB1469,First1469,Last1469,user1469@email.com,2023-11-18,Social Media,United States,Male,25-34,Active
+SUB1470,First1470,Last1470,user1470@email.com,2023-08-31,Referral,Australia,Female,35-44,Active
+SUB1471,First1471,Last1471,user1471@email.com,2024-01-11,Social Media,United States,Female,35-44,Active
+SUB1472,First1472,Last1472,user1472@email.com,2023-11-04,Website Popup,United Kingdom,Female,35-44,Active
+SUB1473,First1473,Last1473,user1473@email.com,2024-02-28,Blog,United States,Male,45-54,Bounced
+SUB1474,First1474,Last1474,user1474@email.com,2023-12-10,Website Popup,United Kingdom,Female,35-44,Unsubscribed
+SUB1475,First1475,Last1475,user1475@email.com,2023-11-13,Social Media,Canada,Female,35-44,Active
+SUB1476,First1476,Last1476,user1476@email.com,2024-03-27,Website Popup,United States,Male,25-34,Active
+SUB1477,First1477,Last1477,user1477@email.com,2023-09-22,Social Media,Australia,Male,55+,Active
+SUB1478,First1478,Last1478,user1478@email.com,2024-05-14,Checkout,United Kingdom,Female,55+,Bounced
+SUB1479,First1479,Last1479,user1479@email.com,2024-06-19,Website Popup,United Kingdom,Male,18-24,Active
+SUB1480,First1480,Last1480,user1480@email.com,2024-01-07,Website Popup,United States,Female,55+,Active
+SUB1481,First1481,Last1481,user1481@email.com,2023-12-07,Website Popup,United States,Male,18-24,Active
+SUB1482,First1482,Last1482,user1482@email.com,2023-12-28,Social Media,United States,Female,25-34,Bounced
+SUB1483,First1483,Last1483,user1483@email.com,2024-05-04,Social Media,United States,Male,25-34,Active
+SUB1484,First1484,Last1484,user1484@email.com,2024-01-31,Checkout,United Kingdom,Female,18-24,Active
+SUB1485,First1485,Last1485,user1485@email.com,2024-02-19,Social Media,United States,Female,25-34,Active
+SUB1486,First1486,Last1486,user1486@email.com,2023-08-12,Website Popup,United States,Female,45-54,Active
+SUB1487,First1487,Last1487,user1487@email.com,2023-07-18,Website Popup,United States,Female,18-24,Active
+SUB1488,First1488,Last1488,user1488@email.com,2024-04-23,Website Popup,Australia,Female,35-44,Unsubscribed
+SUB1489,First1489,Last1489,user1489@email.com,2023-11-17,Website Popup,Australia,Female,45-54,Bounced
+SUB1490,First1490,Last1490,user1490@email.com,2023-12-09,Social Media,Australia,Female,35-44,Active
+SUB1491,First1491,Last1491,user1491@email.com,2023-09-02,Social Media,United Kingdom,Male,25-34,Active
+SUB1492,First1492,Last1492,user1492@email.com,2023-07-25,Checkout,Australia,Female,25-34,Active
+SUB1493,First1493,Last1493,user1493@email.com,2024-05-21,Website Popup,United States,Male,45-54,Active
+SUB1494,First1494,Last1494,user1494@email.com,2023-09-03,Social Media,United States,Female,45-54,Active
+SUB1495,First1495,Last1495,user1495@email.com,2024-04-18,Social Media,United States,Female,18-24,Active
+SUB1496,First1496,Last1496,user1496@email.com,2023-08-29,Social Media,United States,Male,25-34,Active
+SUB1497,First1497,Last1497,user1497@email.com,2023-07-11,Social Media,United States,Female,35-44,Active
+SUB1498,First1498,Last1498,user1498@email.com,2024-06-12,Checkout,United Kingdom,Female,45-54,Active
+SUB1499,First1499,Last1499,user1499@email.com,2024-01-11,Social Media,Australia,Female,25-34,Active
+SUB1500,First1500,Last1500,user1500@email.com,2024-01-03,Referral,United Kingdom,Female,18-24,Active

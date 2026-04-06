@@ -1,0 +1,227 @@
+order_id,subscriber_id,campaign_id,campaign_name,campaign_type,order_date,order_value,product_category,country
+ORD00001,SUB1344,1,January New Year Sale,Promotional,2024-01-06,115.21,Outerwear,United Kingdom
+ORD00002,SUB1408,1,January New Year Sale,Promotional,2024-01-07,119.91,Footwear,Canada
+ORD00003,SUB1015,1,January New Year Sale,Promotional,2024-01-05,80.23,Tops,Canada
+ORD00004,SUB1280,2,January Newsletter,Newsletter,2024-01-20,96.46,Footwear,United States
+ORD00005,SUB0094,3,Abandoned Cart Recovery - Jan,Abandoned Cart,2024-01-27,166.05,Footwear,United States
+ORD00006,SUB0711,3,Abandoned Cart Recovery - Jan,Abandoned Cart,2024-01-26,98.78,Footwear,Australia
+ORD00007,SUB0091,3,Abandoned Cart Recovery - Jan,Abandoned Cart,2024-01-27,127.53,Tops,United States
+ORD00008,SUB1226,3,Abandoned Cart Recovery - Jan,Abandoned Cart,2024-01-26,180.27,Tops,United States
+ORD00009,SUB1148,3,Abandoned Cart Recovery - Jan,Abandoned Cart,2024-01-28,144.13,Outerwear,Canada
+ORD00010,SUB1463,3,Abandoned Cart Recovery - Jan,Abandoned Cart,2024-01-26,163.08,Tops,Canada
+ORD00011,SUB0008,3,Abandoned Cart Recovery - Jan,Abandoned Cart,2024-01-27,147.12,Accessories,Australia
+ORD00012,SUB0933,3,Abandoned Cart Recovery - Jan,Abandoned Cart,2024-01-25,96.73,Bottoms,United States
+ORD00013,SUB0607,3,Abandoned Cart Recovery - Jan,Abandoned Cart,2024-01-26,124.02,Tops,Canada
+ORD00014,SUB0628,3,Abandoned Cart Recovery - Jan,Abandoned Cart,2024-01-25,177.94,Outerwear,United States
+ORD00015,SUB0485,3,Abandoned Cart Recovery - Jan,Abandoned Cart,2024-01-25,107.16,Accessories,United Kingdom
+ORD00016,SUB1254,3,Abandoned Cart Recovery - Jan,Abandoned Cart,2024-01-25,160.59,Outerwear,United States
+ORD00017,SUB0403,3,Abandoned Cart Recovery - Jan,Abandoned Cart,2024-01-27,170.53,Tops,United States
+ORD00018,SUB0864,3,Abandoned Cart Recovery - Jan,Abandoned Cart,2024-01-25,162.34,Accessories,Australia
+ORD00019,SUB1330,3,Abandoned Cart Recovery - Jan,Abandoned Cart,2024-01-27,176.02,Footwear,United States
+ORD00020,SUB0653,3,Abandoned Cart Recovery - Jan,Abandoned Cart,2024-01-25,213.58,Outerwear,United States
+ORD00021,SUB1251,3,Abandoned Cart Recovery - Jan,Abandoned Cart,2024-01-25,140.34,Outerwear,United Kingdom
+ORD00022,SUB0056,3,Abandoned Cart Recovery - Jan,Abandoned Cart,2024-01-25,175.57,Accessories,Canada
+ORD00023,SUB0434,3,Abandoned Cart Recovery - Jan,Abandoned Cart,2024-01-25,68.24,Outerwear,United Kingdom
+ORD00024,SUB1045,3,Abandoned Cart Recovery - Jan,Abandoned Cart,2024-01-27,130.77,Tops,United States
+ORD00025,SUB1424,3,Abandoned Cart Recovery - Jan,Abandoned Cart,2024-01-26,206.19,Accessories,United States
+ORD00026,SUB1071,3,Abandoned Cart Recovery - Jan,Abandoned Cart,2024-01-26,200.86,Outerwear,Canada
+ORD00027,SUB0524,3,Abandoned Cart Recovery - Jan,Abandoned Cart,2024-01-27,162.72,Footwear,United Kingdom
+ORD00028,SUB0007,3,Abandoned Cart Recovery - Jan,Abandoned Cart,2024-01-27,69.96,Footwear,United States
+ORD00029,SUB0921,3,Abandoned Cart Recovery - Jan,Abandoned Cart,2024-01-25,121.0,Outerwear,United States
+ORD00030,SUB1453,3,Abandoned Cart Recovery - Jan,Abandoned Cart,2024-01-25,104.36,Footwear,United Kingdom
+ORD00031,SUB0141,3,Abandoned Cart Recovery - Jan,Abandoned Cart,2024-01-26,86.98,Outerwear,United States
+ORD00032,SUB1112,3,Abandoned Cart Recovery - Jan,Abandoned Cart,2024-01-27,88.57,Footwear,Canada
+ORD00033,SUB0248,3,Abandoned Cart Recovery - Jan,Abandoned Cart,2024-01-25,125.97,Bottoms,United States
+ORD00034,SUB1446,3,Abandoned Cart Recovery - Jan,Abandoned Cart,2024-01-26,127.62,Tops,United States
+ORD00035,SUB0537,3,Abandoned Cart Recovery - Jan,Abandoned Cart,2024-01-25,138.57,Bottoms,United States
+ORD00036,SUB0934,3,Abandoned Cart Recovery - Jan,Abandoned Cart,2024-01-27,81.45,Accessories,United States
+ORD00037,SUB0128,3,Abandoned Cart Recovery - Jan,Abandoned Cart,2024-01-26,114.79,Tops,United States
+ORD00038,SUB1131,3,Abandoned Cart Recovery - Jan,Abandoned Cart,2024-01-27,133.12,Footwear,United States
+ORD00039,SUB1213,4,Welcome Series - Batch 1,Welcome Series,2024-02-02,86.23,Accessories,United Kingdom
+ORD00040,SUB1411,4,Welcome Series - Batch 1,Welcome Series,2024-02-02,78.47,Bottoms,United Kingdom
+ORD00041,SUB1325,4,Welcome Series - Batch 1,Welcome Series,2024-02-01,68.92,Footwear,United States
+ORD00042,SUB1281,4,Welcome Series - Batch 1,Welcome Series,2024-02-03,55.05,Bottoms,United States
+ORD00043,SUB0395,4,Welcome Series - Batch 1,Welcome Series,2024-02-02,46.21,Outerwear,United States
+ORD00044,SUB0518,4,Welcome Series - Batch 1,Welcome Series,2024-02-02,81.87,Accessories,Canada
+ORD00045,SUB0865,4,Welcome Series - Batch 1,Welcome Series,2024-02-03,41.1,Bottoms,United States
+ORD00046,SUB0319,4,Welcome Series - Batch 1,Welcome Series,2024-02-01,45.76,Bottoms,United States
+ORD00047,SUB0892,4,Welcome Series - Batch 1,Welcome Series,2024-02-03,80.22,Bottoms,United States
+ORD00048,SUB0050,4,Welcome Series - Batch 1,Welcome Series,2024-02-03,69.31,Accessories,United Kingdom
+ORD00049,SUB0144,4,Welcome Series - Batch 1,Welcome Series,2024-02-03,56.64,Bottoms,United States
+ORD00050,SUB0119,4,Welcome Series - Batch 1,Welcome Series,2024-02-02,102.17,Footwear,United Kingdom
+ORD00051,SUB0521,4,Welcome Series - Batch 1,Welcome Series,2024-02-04,55.38,Bottoms,Australia
+ORD00052,SUB0129,4,Welcome Series - Batch 1,Welcome Series,2024-02-01,106.22,Bottoms,United Kingdom
+ORD00053,SUB0979,4,Welcome Series - Batch 1,Welcome Series,2024-02-01,98.89,Tops,United Kingdom
+ORD00054,SUB1500,5,Valentine's Day Sale,Promotional,2024-02-07,116.42,Tops,United Kingdom
+ORD00055,SUB0178,5,Valentine's Day Sale,Promotional,2024-02-09,152.89,Outerwear,United States
+ORD00056,SUB0887,5,Valentine's Day Sale,Promotional,2024-02-07,155.96,Bottoms,United States
+ORD00057,SUB0509,5,Valentine's Day Sale,Promotional,2024-02-08,101.29,Outerwear,United States
+ORD00058,SUB0791,5,Valentine's Day Sale,Promotional,2024-02-09,78.46,Footwear,United States
+ORD00059,SUB0208,5,Valentine's Day Sale,Promotional,2024-02-09,162.76,Accessories,United States
+ORD00060,SUB0104,7,Abandoned Cart Recovery - Feb,Abandoned Cart,2024-02-22,130.06,Tops,United Kingdom
+ORD00061,SUB1243,7,Abandoned Cart Recovery - Feb,Abandoned Cart,2024-02-23,102.06,Outerwear,United Kingdom
+ORD00062,SUB0974,7,Abandoned Cart Recovery - Feb,Abandoned Cart,2024-02-23,187.95,Accessories,United States
+ORD00063,SUB1404,7,Abandoned Cart Recovery - Feb,Abandoned Cart,2024-02-23,148.79,Bottoms,United Kingdom
+ORD00064,SUB0497,7,Abandoned Cart Recovery - Feb,Abandoned Cart,2024-02-24,69.55,Outerwear,Australia
+ORD00065,SUB1475,7,Abandoned Cart Recovery - Feb,Abandoned Cart,2024-02-25,73.37,Footwear,Canada
+ORD00066,SUB0481,7,Abandoned Cart Recovery - Feb,Abandoned Cart,2024-02-24,209.14,Footwear,United States
+ORD00067,SUB1235,7,Abandoned Cart Recovery - Feb,Abandoned Cart,2024-02-23,176.27,Bottoms,United States
+ORD00068,SUB1466,7,Abandoned Cart Recovery - Feb,Abandoned Cart,2024-02-24,199.29,Footwear,United States
+ORD00069,SUB0783,7,Abandoned Cart Recovery - Feb,Abandoned Cart,2024-02-24,130.87,Outerwear,United States
+ORD00070,SUB0208,7,Abandoned Cart Recovery - Feb,Abandoned Cart,2024-02-24,92.13,Accessories,United States
+ORD00071,SUB1433,7,Abandoned Cart Recovery - Feb,Abandoned Cart,2024-02-23,127.56,Outerwear,United Kingdom
+ORD00072,SUB1371,7,Abandoned Cart Recovery - Feb,Abandoned Cart,2024-02-22,173.72,Tops,United Kingdom
+ORD00073,SUB0963,7,Abandoned Cart Recovery - Feb,Abandoned Cart,2024-02-23,214.08,Accessories,Canada
+ORD00074,SUB0087,7,Abandoned Cart Recovery - Feb,Abandoned Cart,2024-02-23,61.82,Tops,Australia
+ORD00075,SUB1113,7,Abandoned Cart Recovery - Feb,Abandoned Cart,2024-02-22,64.4,Footwear,United Kingdom
+ORD00076,SUB0107,7,Abandoned Cart Recovery - Feb,Abandoned Cart,2024-02-22,79.44,Outerwear,United States
+ORD00077,SUB1076,7,Abandoned Cart Recovery - Feb,Abandoned Cart,2024-02-24,149.13,Footwear,United States
+ORD00078,SUB0198,7,Abandoned Cart Recovery - Feb,Abandoned Cart,2024-02-23,194.22,Footwear,United Kingdom
+ORD00079,SUB0083,7,Abandoned Cart Recovery - Feb,Abandoned Cart,2024-02-24,95.83,Outerwear,Canada
+ORD00080,SUB1254,7,Abandoned Cart Recovery - Feb,Abandoned Cart,2024-02-24,122.48,Footwear,United States
+ORD00081,SUB0876,7,Abandoned Cart Recovery - Feb,Abandoned Cart,2024-02-23,140.88,Outerwear,United States
+ORD00082,SUB1496,7,Abandoned Cart Recovery - Feb,Abandoned Cart,2024-02-25,142.73,Footwear,United States
+ORD00083,SUB0109,8,March Spring Launch,Promotional,2024-03-03,154.02,Outerwear,United States
+ORD00084,SUB1246,8,March Spring Launch,Promotional,2024-03-03,68.18,Tops,United States
+ORD00085,SUB0474,8,March Spring Launch,Promotional,2024-03-03,114.3,Tops,United States
+ORD00086,SUB0079,8,March Spring Launch,Promotional,2024-03-03,164.36,Bottoms,Australia
+ORD00087,SUB0494,8,March Spring Launch,Promotional,2024-03-03,55.25,Footwear,Canada
+ORD00088,SUB0335,10,Win-Back Campaign Q1,Win-Back,2024-03-20,50.79,Footwear,Canada
+ORD00089,SUB0596,11,April Flash Sale,Promotional,2024-04-05,145.52,Bottoms,Canada
+ORD00090,SUB1201,11,April Flash Sale,Promotional,2024-04-05,106.72,Tops,Australia
+ORD00091,SUB1246,11,April Flash Sale,Promotional,2024-04-03,156.81,Outerwear,United States
+ORD00092,SUB0253,11,April Flash Sale,Promotional,2024-04-05,145.52,Tops,United States
+ORD00093,SUB1288,11,April Flash Sale,Promotional,2024-04-04,125.77,Footwear,United States
+ORD00094,SUB1193,11,April Flash Sale,Promotional,2024-04-03,119.99,Accessories,United Kingdom
+ORD00095,SUB0140,12,April Newsletter,Newsletter,2024-04-20,71.65,Outerwear,United States
+ORD00096,SUB0708,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-25,190.69,Bottoms,United States
+ORD00097,SUB0416,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-26,178.28,Accessories,United States
+ORD00098,SUB1265,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-25,58.11,Accessories,Australia
+ORD00099,SUB0172,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-26,94.68,Accessories,United Kingdom
+ORD00100,SUB0921,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-25,95.5,Bottoms,United States
+ORD00101,SUB1160,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-26,212.59,Tops,United Kingdom
+ORD00102,SUB0564,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-25,214.52,Footwear,United States
+ORD00103,SUB1116,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-26,70.39,Outerwear,Australia
+ORD00104,SUB1208,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-27,164.5,Outerwear,Australia
+ORD00105,SUB0585,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-26,146.54,Bottoms,United Kingdom
+ORD00106,SUB0319,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-27,66.78,Outerwear,United States
+ORD00107,SUB1453,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-25,180.11,Outerwear,United Kingdom
+ORD00108,SUB0812,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-26,122.18,Tops,Australia
+ORD00109,SUB1080,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-26,60.05,Outerwear,United States
+ORD00110,SUB0826,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-26,201.55,Outerwear,United States
+ORD00111,SUB0361,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-27,98.22,Accessories,Australia
+ORD00112,SUB0762,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-26,137.91,Bottoms,Canada
+ORD00113,SUB1231,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-26,193.97,Accessories,United Kingdom
+ORD00114,SUB1030,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-25,69.33,Footwear,United States
+ORD00115,SUB1391,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-24,111.51,Bottoms,United States
+ORD00116,SUB0675,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-25,117.3,Outerwear,Canada
+ORD00117,SUB0809,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-25,134.82,Tops,United Kingdom
+ORD00118,SUB1299,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-24,117.99,Accessories,Australia
+ORD00119,SUB1429,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-24,103.21,Tops,United Kingdom
+ORD00120,SUB1413,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-26,105.98,Accessories,United Kingdom
+ORD00121,SUB0419,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-26,57.71,Bottoms,Australia
+ORD00122,SUB0904,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-26,125.39,Tops,United States
+ORD00123,SUB0657,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-25,67.55,Tops,United States
+ORD00124,SUB1425,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-25,162.4,Tops,United States
+ORD00125,SUB0174,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-26,208.67,Outerwear,Canada
+ORD00126,SUB0683,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-26,152.52,Outerwear,United States
+ORD00127,SUB1217,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-25,183.89,Footwear,United Kingdom
+ORD00128,SUB0860,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-25,115.41,Outerwear,United States
+ORD00129,SUB1009,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-24,201.86,Outerwear,Australia
+ORD00130,SUB0711,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-24,215.14,Footwear,Australia
+ORD00131,SUB1338,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-25,88.05,Footwear,Australia
+ORD00132,SUB0870,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-25,138.69,Outerwear,United States
+ORD00133,SUB1434,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-26,89.16,Tops,United States
+ORD00134,SUB1408,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-26,139.52,Footwear,Canada
+ORD00135,SUB0342,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-24,62.65,Footwear,United States
+ORD00136,SUB0380,13,Abandoned Cart Recovery - Apr,Abandoned Cart,2024-04-25,207.75,Outerwear,Australia
+ORD00137,SUB0327,14,Welcome Series - Batch 2,Welcome Series,2024-05-01,52.73,Footwear,United States
+ORD00138,SUB0091,14,Welcome Series - Batch 2,Welcome Series,2024-05-01,107.55,Bottoms,United States
+ORD00139,SUB0675,14,Welcome Series - Batch 2,Welcome Series,2024-05-01,54.19,Outerwear,Canada
+ORD00140,SUB1201,14,Welcome Series - Batch 2,Welcome Series,2024-05-03,69.35,Outerwear,Australia
+ORD00141,SUB0078,14,Welcome Series - Batch 2,Welcome Series,2024-05-01,35.96,Outerwear,United Kingdom
+ORD00142,SUB1476,14,Welcome Series - Batch 2,Welcome Series,2024-05-03,81.12,Footwear,United States
+ORD00143,SUB0272,14,Welcome Series - Batch 2,Welcome Series,2024-05-02,58.31,Outerwear,Australia
+ORD00144,SUB0524,14,Welcome Series - Batch 2,Welcome Series,2024-05-03,93.99,Tops,United Kingdom
+ORD00145,SUB1281,14,Welcome Series - Batch 2,Welcome Series,2024-05-03,89.32,Accessories,United States
+ORD00146,SUB0349,14,Welcome Series - Batch 2,Welcome Series,2024-05-01,104.6,Footwear,Australia
+ORD00147,SUB0699,14,Welcome Series - Batch 2,Welcome Series,2024-05-01,105.79,Bottoms,Canada
+ORD00148,SUB1212,14,Welcome Series - Batch 2,Welcome Series,2024-05-01,82.83,Tops,United States
+ORD00149,SUB1211,14,Welcome Series - Batch 2,Welcome Series,2024-05-01,106.26,Tops,United Kingdom
+ORD00150,SUB0571,14,Welcome Series - Batch 2,Welcome Series,2024-05-03,90.19,Accessories,United States
+ORD00151,SUB1469,14,Welcome Series - Batch 2,Welcome Series,2024-05-03,97.79,Bottoms,United States
+ORD00152,SUB1471,14,Welcome Series - Batch 2,Welcome Series,2024-05-01,90.1,Outerwear,United States
+ORD00153,SUB0820,14,Welcome Series - Batch 2,Welcome Series,2024-05-01,101.81,Bottoms,Canada
+ORD00154,SUB1243,14,Welcome Series - Batch 2,Welcome Series,2024-05-01,83.64,Bottoms,United Kingdom
+ORD00155,SUB0664,14,Welcome Series - Batch 2,Welcome Series,2024-05-01,38.77,Accessories,Australia
+ORD00156,SUB0145,14,Welcome Series - Batch 2,Welcome Series,2024-05-03,35.54,Tops,Australia
+ORD00157,SUB0007,14,Welcome Series - Batch 2,Welcome Series,2024-05-04,101.24,Accessories,United States
+ORD00158,SUB1352,14,Welcome Series - Batch 2,Welcome Series,2024-05-03,64.63,Footwear,Australia
+ORD00159,SUB0060,14,Welcome Series - Batch 2,Welcome Series,2024-05-03,73.2,Tops,United States
+ORD00160,SUB0899,14,Welcome Series - Batch 2,Welcome Series,2024-05-02,35.7,Accessories,United States
+ORD00161,SUB0045,14,Welcome Series - Batch 2,Welcome Series,2024-05-02,101.2,Accessories,Canada
+ORD00162,SUB1423,14,Welcome Series - Batch 2,Welcome Series,2024-05-03,102.34,Tops,United States
+ORD00163,SUB1336,14,Welcome Series - Batch 2,Welcome Series,2024-05-02,58.35,Footwear,United States
+ORD00164,SUB0916,14,Welcome Series - Batch 2,Welcome Series,2024-05-01,64.85,Tops,United States
+ORD00165,SUB1323,14,Welcome Series - Batch 2,Welcome Series,2024-05-01,89.08,Bottoms,United States
+ORD00166,SUB1034,14,Welcome Series - Batch 2,Welcome Series,2024-05-03,36.5,Tops,United States
+ORD00167,SUB1394,14,Welcome Series - Batch 2,Welcome Series,2024-05-03,84.25,Bottoms,United Kingdom
+ORD00168,SUB1227,14,Welcome Series - Batch 2,Welcome Series,2024-05-02,58.0,Footwear,United States
+ORD00169,SUB1417,14,Welcome Series - Batch 2,Welcome Series,2024-05-02,95.75,Tops,United States
+ORD00170,SUB0239,14,Welcome Series - Batch 2,Welcome Series,2024-05-03,105.95,Accessories,Australia
+ORD00171,SUB1126,14,Welcome Series - Batch 2,Welcome Series,2024-05-03,39.63,Tops,United States
+ORD00172,SUB0114,14,Welcome Series - Batch 2,Welcome Series,2024-05-01,76.05,Footwear,United States
+ORD00173,SUB1099,14,Welcome Series - Batch 2,Welcome Series,2024-05-02,103.77,Tops,United Kingdom
+ORD00174,SUB1458,14,Welcome Series - Batch 2,Welcome Series,2024-05-03,56.54,Outerwear,United States
+ORD00175,SUB1158,14,Welcome Series - Batch 2,Welcome Series,2024-05-04,66.46,Outerwear,Australia
+ORD00176,SUB1262,14,Welcome Series - Batch 2,Welcome Series,2024-05-01,63.4,Footwear,United States
+ORD00177,SUB0474,14,Welcome Series - Batch 2,Welcome Series,2024-05-02,47.28,Accessories,United States
+ORD00178,SUB1051,15,May Bank Holiday Sale,Promotional,2024-05-06,139.24,Bottoms,United Kingdom
+ORD00179,SUB0509,15,May Bank Holiday Sale,Promotional,2024-05-06,61.03,Tops,United States
+ORD00180,SUB0868,15,May Bank Holiday Sale,Promotional,2024-05-06,100.95,Tops,United States
+ORD00181,SUB1267,15,May Bank Holiday Sale,Promotional,2024-05-06,86.69,Outerwear,Canada
+ORD00182,SUB1480,15,May Bank Holiday Sale,Promotional,2024-05-05,178.86,Accessories,United States
+ORD00183,SUB0539,15,May Bank Holiday Sale,Promotional,2024-05-06,144.88,Accessories,Australia
+ORD00184,SUB0575,15,May Bank Holiday Sale,Promotional,2024-05-05,56.71,Tops,United States
+ORD00185,SUB0673,15,May Bank Holiday Sale,Promotional,2024-05-07,107.43,Tops,Canada
+ORD00186,SUB0320,17,June Summer Launch,Promotional,2024-06-01,166.45,Bottoms,United Kingdom
+ORD00187,SUB0761,17,June Summer Launch,Promotional,2024-06-03,141.21,Outerwear,Australia
+ORD00188,SUB0637,17,June Summer Launch,Promotional,2024-06-02,105.59,Footwear,Canada
+ORD00189,SUB0587,17,June Summer Launch,Promotional,2024-06-01,175.73,Outerwear,United States
+ORD00190,SUB1060,17,June Summer Launch,Promotional,2024-06-03,162.22,Outerwear,United States
+ORD00191,SUB0045,17,June Summer Launch,Promotional,2024-06-02,108.39,Bottoms,Canada
+ORD00192,SUB1194,17,June Summer Launch,Promotional,2024-06-03,120.32,Tops,Australia
+ORD00193,SUB0672,17,June Summer Launch,Promotional,2024-06-03,53.87,Bottoms,United States
+ORD00194,SUB0603,17,June Summer Launch,Promotional,2024-06-01,56.96,Footwear,United Kingdom
+ORD00195,SUB1477,17,June Summer Launch,Promotional,2024-06-01,158.24,Outerwear,Australia
+ORD00196,SUB1067,17,June Summer Launch,Promotional,2024-06-02,108.58,Tops,Canada
+ORD00197,SUB0240,17,June Summer Launch,Promotional,2024-06-01,122.78,Bottoms,United Kingdom
+ORD00198,SUB1043,18,Abandoned Cart Recovery - Jun,Abandoned Cart,2024-06-12,80.47,Footwear,United States
+ORD00199,SUB0235,18,Abandoned Cart Recovery - Jun,Abandoned Cart,2024-06-13,181.26,Tops,United States
+ORD00200,SUB0169,18,Abandoned Cart Recovery - Jun,Abandoned Cart,2024-06-13,174.03,Footwear,Canada
+ORD00201,SUB1109,18,Abandoned Cart Recovery - Jun,Abandoned Cart,2024-06-12,167.69,Footwear,Canada
+ORD00202,SUB0901,18,Abandoned Cart Recovery - Jun,Abandoned Cart,2024-06-13,68.44,Bottoms,United Kingdom
+ORD00203,SUB1306,18,Abandoned Cart Recovery - Jun,Abandoned Cart,2024-06-13,55.53,Bottoms,United Kingdom
+ORD00204,SUB0475,18,Abandoned Cart Recovery - Jun,Abandoned Cart,2024-06-13,111.97,Outerwear,United States
+ORD00205,SUB0471,18,Abandoned Cart Recovery - Jun,Abandoned Cart,2024-06-13,122.32,Tops,United States
+ORD00206,SUB1326,18,Abandoned Cart Recovery - Jun,Abandoned Cart,2024-06-12,165.28,Bottoms,United States
+ORD00207,SUB1444,18,Abandoned Cart Recovery - Jun,Abandoned Cart,2024-06-12,181.07,Tops,United Kingdom
+ORD00208,SUB1292,18,Abandoned Cart Recovery - Jun,Abandoned Cart,2024-06-13,64.66,Accessories,United States
+ORD00209,SUB0889,18,Abandoned Cart Recovery - Jun,Abandoned Cart,2024-06-14,106.28,Accessories,United Kingdom
+ORD00210,SUB0767,18,Abandoned Cart Recovery - Jun,Abandoned Cart,2024-06-14,120.05,Accessories,Canada
+ORD00211,SUB0920,18,Abandoned Cart Recovery - Jun,Abandoned Cart,2024-06-12,194.91,Bottoms,United States
+ORD00212,SUB1180,18,Abandoned Cart Recovery - Jun,Abandoned Cart,2024-06-12,109.74,Outerwear,Canada
+ORD00213,SUB0441,18,Abandoned Cart Recovery - Jun,Abandoned Cart,2024-06-13,160.31,Bottoms,United States
+ORD00214,SUB0207,18,Abandoned Cart Recovery - Jun,Abandoned Cart,2024-06-12,65.53,Bottoms,United States
+ORD00215,SUB0094,18,Abandoned Cart Recovery - Jun,Abandoned Cart,2024-06-12,190.97,Footwear,United States
+ORD00216,SUB0341,18,Abandoned Cart Recovery - Jun,Abandoned Cart,2024-06-14,189.17,Bottoms,United States
+ORD00217,SUB0653,18,Abandoned Cart Recovery - Jun,Abandoned Cart,2024-06-12,127.27,Bottoms,United States
+ORD00218,SUB1145,18,Abandoned Cart Recovery - Jun,Abandoned Cart,2024-06-13,183.08,Outerwear,United Kingdom
+ORD00219,SUB0857,20,Win-Back Campaign Q2,Win-Back,2024-06-27,90.36,Footwear,United States
+ORD00220,SUB0890,20,Win-Back Campaign Q2,Win-Back,2024-06-26,95.11,Outerwear,United Kingdom
+ORD00221,SUB0856,20,Win-Back Campaign Q2,Win-Back,2024-06-25,41.51,Tops,United States
+ORD00222,SUB0129,20,Win-Back Campaign Q2,Win-Back,2024-06-27,41.9,Outerwear,United Kingdom
+ORD00223,SUB1083,20,Win-Back Campaign Q2,Win-Back,2024-06-27,120.76,Accessories,United States
+ORD00224,SUB0682,20,Win-Back Campaign Q2,Win-Back,2024-06-25,81.17,Tops,United Kingdom
+ORD00225,SUB0131,20,Win-Back Campaign Q2,Win-Back,2024-06-25,41.01,Bottoms,Australia
+ORD00226,SUB0755,20,Win-Back Campaign Q2,Win-Back,2024-06-27,134.18,Tops,Canada
